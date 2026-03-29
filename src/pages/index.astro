@@ -65,7 +65,7 @@ const { seo, hero, trustBadges, localToursPreview, internationalToursPreview, fl
       <div class="mt-8 grid gap-4 sm:grid-cols-2 sm:gap-6 lg:grid-cols-4">
         {internationalToursPreview.featured.map((pkg) => (
           <a href={`/international-tours/${pkg.slug}`} class="group overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm transition-shadow duration-200 hover:shadow-md">
-            <img src={pkg.image} alt={pkg.imageAlt} width="600" height="338" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
+            <img src={pkg.image} alt={pkg.imageAlt} width="400" height="225" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
             <div class="p-5 sm:p-6">
               <h3 class="font-heading text-lg font-semibold text-slate-900">{pkg.title}</h3>
               <p class="mt-2 text-sm text-slate-600">{pkg.tagline}</p>
@@ -93,7 +93,7 @@ const { seo, hero, trustBadges, localToursPreview, internationalToursPreview, fl
       <div class="mt-8 grid gap-4 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3">
         {localToursPreview.featured.map((tour) => (
           <a href={`/local-tours/${tour.slug}`} class="group overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm transition-shadow duration-200 hover:shadow-md">
-            <img src={tour.image} alt={tour.imageAlt} width="600" height="338" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
+            <img src={tour.image} alt={tour.imageAlt} width="400" height="225" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
             <div class="p-5 sm:p-6">
               <h3 class="font-heading text-lg font-semibold text-slate-900">{tour.title}</h3>
               <p class="mt-2 text-sm text-slate-600">{tour.tagline}</p>
@@ -118,7 +118,7 @@ const { seo, hero, trustBadges, localToursPreview, internationalToursPreview, fl
       <div class="mt-8 grid gap-4 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3">
         {fleetPreview.featured.map((vehicle) => (
           <a href="/cab-rental-fleet" class="group overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm transition-shadow duration-200 hover:shadow-md">
-            <img src={vehicle.image} alt={vehicle.imageAlt} width="600" height="338" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
+            <img src={vehicle.image} alt={vehicle.imageAlt} width="400" height="225" loading="lazy" class="aspect-video w-full rounded-t-xl object-cover" />
             <div class="p-5 sm:p-6">
               <h3 class="font-heading text-lg font-semibold text-slate-900">{vehicle.name}</h3>
               <p class="mt-2 text-sm text-slate-600">{vehicle.capacity} Seats</p>
