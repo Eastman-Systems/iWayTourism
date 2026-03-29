@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import HeroSection from '../components/content/HeroSection.astro';
+import SchemaBlock from '../components/schema/SchemaBlock.astro';
+import TeamMemberCard from '../components/content/TeamMemberCard.astro';
+import { getEntry } from 'astro:content';
+import { buildArticleSchema } from '../utils/schema-builder';
+import commonData from '../content/common.json';
+
+const entry = await getEntry('core', 'about-us');
+if (!entry || entry.data.pageType !== 'about') throw new Error('Missing content: core/about-us.json');
+const { seo, hero, story, serviceArea, team, values } = entry.data;
+
+const articleSchema = buildArticleSchema({
+  pageUrl: Astro.url.href,
+  title: seo.title,
+  description: seo.description,
+  heroImage: hero.image,
+  authorName: commonData.author.name,
+  authorRole: commonData.author.role,
+});
+---
+
+<BaseLayout seo={seo}>
+  <SchemaBlock schema={articleSchema} />
+
+  <HeroSection heading={hero.heading} subheading={hero.subheading} image={hero.image} imageAlt={hero.imageAlt} />
+
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <!-- Story -->
+    <section class="mb-16">
+      <h2 class="font-heading text-2xl font-semibold text-slate-900">{story.heading}</h2>
+      {story.paragraphs.map((p) => (
+        <p class="mt-4 leading-relaxed text-slate-600">{p}</p>
+      ))}
+    </section>
+
+    <!-- Service Area -->
+    <section class="mb-16">
+      <h2 class="font-heading text-2xl font-semibold text-slate-900">{serviceArea.heading}</h2>
+      <p class="mt-4 leading-relaxed text-slate-600">{serviceArea.description}</p>
+      <ul class="mt-6 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+        {serviceArea.locations.map((loc) => (
+          <li class="flex items-center gap-2 text-sm text-slate-700">
+            <span class="block h-1.5 w-1.5 rounded-full bg-primary" aria-hidden="true" />
+            {loc}
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- Team -->
+    <section class="mb-16">
+      <h2 class="font-heading text-2xl font-semibold text-slate-900">{team.heading}</h2>
+      <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {team.members.map((member) => (
+          <TeamMemberCard {...member} />
+        ))}
+      </div>
+    </section>
+
+    <!-- Values -->
+    <section>
+      <h2 class="font-heading text-2xl font-semibold text-slate-900">{values.heading}</h2>
+      <div class="mt-8 grid gap-6 sm:grid-cols-2">
+        {values.items.map((item) => (
+          <div class="rounded-xl border border-slate-200 p-6">
+            <h3 class="font-heading text-base font-semibold text-slate-900">{item.title}</h3>
+            <p class="mt-2 text-sm leading-relaxed text-slate-600">{item.description}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

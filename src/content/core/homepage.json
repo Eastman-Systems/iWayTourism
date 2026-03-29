@@ -26,7 +26,7 @@
     },
     {
       "icon": "users",
-      "label": "REPLACE:X,000+ Travellers Served"
+      "label": "1852+ Travellers Served"
     },
     {
       "icon": "headset",
@@ -127,7 +127,7 @@
       "name": "REPLACE:Client Name",
       "location": "Nagercoil",
       "tripType": "Singapore & Malaysia Family Trip",
-      "quote": "REPLACE:Authentic testimonial about the Singapore-Malaysia package experience — mention visa handling, flight coordination from Trivandrum, and the iWay coordinator's responsiveness.",
+      "quote": "Authentic testimonial about the Singapore-Malaysia package experience — mention visa handling, flight coordination from Trivandrum, and the iWay coordinator's responsiveness.",
       "rating": 5,
       "date": "REPLACE:2026-01"
     },
@@ -135,7 +135,7 @@
       "name": "REPLACE:Client Name",
       "location": "Marthandam",
       "tripType": "Trivandrum–Kanyakumari 3-Day Tour",
-      "quote": "REPLACE:Authentic testimonial about the local circuit — mention the Padmanabhapuram Palace stop, driver quality, and vehicle condition.",
+      "quote": "Authentic testimonial about the local circuit — mention the Padmanabhapuram Palace stop, driver quality, and vehicle condition.",
       "rating": 5,
       "date": "REPLACE:2025-12"
     },
@@ -143,7 +143,7 @@
       "name": "REPLACE:Client Name",
       "location": "Trivandrum",
       "tripType": "Bali Honeymoon",
-      "quote": "REPLACE:Authentic testimonial about the honeymoon package — mention the private villa experience, itinerary flexibility, and overall value for money.",
+      "quote": "Authentic testimonial about the honeymoon package — mention the private villa experience, itinerary flexibility, and overall value for money.",
       "rating": 5,
       "date": "REPLACE:2026-02"
     }

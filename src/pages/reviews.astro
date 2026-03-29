@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import HeroSection from '../components/content/HeroSection.astro';
+import SchemaBlock from '../components/schema/SchemaBlock.astro';
+import TestimonialCard from '../components/content/TestimonialCard.astro';
+import { getEntry } from 'astro:content';
+import { buildAggregateRatingSchema } from '../utils/schema-builder';
+
+const entry = await getEntry('core', 'reviews');
+if (!entry || entry.data.pageType !== 'reviews') throw new Error('Missing content: core/reviews.json');
+const { seo, hero, aggregateRating, testimonials } = entry.data;
+
+const ratingSchema = buildAggregateRatingSchema(aggregateRating);
+---
+
+<BaseLayout seo={seo}>
+  <SchemaBlock schema={ratingSchema} />
+
+  <HeroSection heading={hero.heading} subheading={hero.subheading} image={hero.image} imageAlt={hero.imageAlt} />
+
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <!-- Aggregate Rating -->
+    <div class="mb-12 text-center">
+      <p class="text-5xl font-bold text-primary">{aggregateRating.ratingValue}</p>
+      <p class="mt-1 text-sm text-slate-500">
+        out of {aggregateRating.bestRating} · {aggregateRating.reviewCount} reviews
+      </p>
+    </div>
+
+    <!-- Testimonials Grid -->
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {testimonials.map((testimonial) => (
+        <TestimonialCard {...testimonial} />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

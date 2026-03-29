@@ -1,0 +1,12 @@
+---
+import type { QuickAnswerProps } from '../../utils/types';
+
+interface Props extends QuickAnswerProps {}
+
+const { question, answer } = Astro.props;
+---
+
+<section class="my-8 rounded-lg border-l-4 border-primary bg-primary/5 p-6">
+  <h2 class="font-heading text-lg font-semibold text-slate-900">{question}</h2>
+  <p class="mt-2 text-slate-700 leading-relaxed">{answer}</p>
+</section>

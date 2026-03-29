@@ -1,0 +1,43 @@
+---
+import type { VehicleCardProps } from '../../utils/types';
+import HighlightsList from './HighlightsList.astro';
+
+interface Props extends VehicleCardProps {}
+
+const { name, type, capacity, image, imageAlt, features, idealFor, priceNote } = Astro.props;
+---
+
+<div class="@container">
+  <article class="overflow-hidden rounded-xl border border-slate-200 bg-white">
+    <div class="flex flex-col @md:flex-row">
+      <div class="@md:w-2/5">
+        <img
+          src={image}
+          alt={imageAlt}
+          width="600"
+          height="400"
+          loading="lazy"
+          class="aspect-3/2 w-full object-cover"
+        />
+      </div>
+      <div class="flex flex-1 flex-col p-4 @md:p-5">
+        <div class="flex items-start justify-between gap-2">
+          <h3 class="font-heading text-base font-semibold text-slate-900 @md:text-lg">{name}</h3>
+          <span class="shrink-0 rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-medium text-slate-600">
+            {capacity} seats
+          </span>
+        </div>
+        <p class="mt-1 text-xs text-slate-500">{type}</p>
+        <div class="mt-3">
+          <HighlightsList highlights={features} />
+        </div>
+        <p class="mt-3 text-sm text-slate-600">
+          <span class="font-medium">Ideal for:</span> {idealFor}
+        </p>
+        {priceNote && (
+          <p class="mt-2 text-sm font-medium text-accent-dark">{priceNote}</p>
+        )}
+      </div>
+    </div>
+  </article>
+</div>

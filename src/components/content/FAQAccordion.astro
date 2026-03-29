@@ -1,0 +1,27 @@
+---
+import type { FAQItem } from '../../utils/types';
+import SchemaBlock from '../schema/SchemaBlock.astro';
+import { buildFAQPageSchema } from '../../utils/schema-builder';
+
+interface Props {
+  faqs: FAQItem[];
+}
+
+const { faqs } = Astro.props;
+const faqSchema = buildFAQPageSchema(faqs);
+---
+
+<div class="divide-y divide-slate-200">
+  {faqs.map((faq) => (
+    <details class="group py-4">
+      <summary class="flex cursor-pointer list-none items-center justify-between font-heading text-base font-medium text-slate-900 [&::-webkit-details-marker]:hidden">
+        <span>{faq.question}</span>
+        <span class="ml-4 shrink-0 text-slate-400 transition-transform group-open:rotate-45" aria-hidden="true">+</span>
+      </summary>
+      <div class="mt-3 text-sm leading-relaxed text-slate-600">
+        <p>{faq.answer}</p>
+      </div>
+    </details>
+  ))}
+</div>
+<SchemaBlock schema={faqSchema} />

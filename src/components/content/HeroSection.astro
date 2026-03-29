@@ -1,0 +1,47 @@
+---
+import type { HeroProps } from '../../utils/types';
+
+interface Props extends HeroProps {
+  compact?: boolean;
+}
+
+const { heading, subheading, image, imageAlt, compact = false } = Astro.props;
+---
+
+<section class:list={[
+  'relative overflow-hidden bg-teal-900',
+  compact && 'rounded-xl',
+]}>
+  <img
+    src={image}
+    alt={imageAlt}
+    width="1200"
+    height="600"
+    fetchpriority="high"
+    class="absolute inset-0 h-full w-full object-cover opacity-40"
+  />
+  <div class:list={[
+    'relative',
+    compact
+      ? 'px-6 py-12 sm:px-8 sm:py-16'
+      : 'pt-24 pb-16 sm:pt-32 sm:pb-20 lg:pt-40 lg:pb-24',
+  ]}>
+    <div class={compact ? '' : 'mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'}>
+      <h1 class:list={[
+        'text-white',
+        compact ? 'text-2xl sm:text-3xl' : 'max-w-3xl',
+      ]}>
+        {heading}
+      </h1>
+      {subheading && (
+        <p class:list={[
+          'text-teal-100',
+          compact ? 'mt-2 max-w-2xl text-sm sm:text-base' : 'mt-4 max-w-2xl text-lg',
+        ]}>
+          {subheading}
+        </p>
+      )}
+      <slot />
+    </div>
+  </div>
+</section>

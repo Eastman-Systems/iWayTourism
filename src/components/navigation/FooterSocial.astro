@@ -1,0 +1,28 @@
+---
+import commonData from '../../content/common.json';
+
+const socialLinks = [
+  { name: 'Facebook', url: commonData.socialLinks.facebook },
+  { name: 'Instagram', url: commonData.socialLinks.instagram },
+  { name: 'YouTube', url: commonData.socialLinks.youtube },
+  { name: 'Google', url: commonData.socialLinks.google },
+];
+---
+
+<div>
+  <h3 class="font-heading text-sm font-semibold text-slate-900">Follow Us</h3>
+  <ul class="mt-4 flex flex-col gap-2">
+    {socialLinks.map((link) => (
+      <li>
+        <a
+          href={link.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-sm text-slate-600 transition-colors hover:text-primary"
+        >
+          {link.name}
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>

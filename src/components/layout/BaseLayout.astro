@@ -1,0 +1,49 @@
+---
+import SEOHead from './SEOHead.astro';
+import Header from '../navigation/Header.astro';
+import Footer from '../navigation/Footer.astro';
+import SchemaBlock from '../schema/SchemaBlock.astro';
+import { getGlobalSchemas } from '../../utils/schema-builder';
+import type { SEOProps } from '../../utils/types';
+import '../../styles/global.css';
+
+interface Props {
+  seo: SEOProps;
+  preloadImage?: string;
+}
+
+const { seo, preloadImage } = Astro.props;
+const globalSchemas = getGlobalSchemas();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <SEOHead {...seo} preloadImage={preloadImage} />
+    {globalSchemas.map((schema) => (
+      <SchemaBlock schema={schema} />
+    ))}
+  </head>
+  <body>
+    <a
+      href="#main-content"
+      class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-white focus:px-4 focus:py-2 focus:text-primary focus:shadow-lg"
+    >
+      Skip to content
+    </a>
+    <Header />
+    <main id="main-content">
+      <slot />
+    </main>
+    <Footer />
+    <!-- GA4 — uncomment when measurement ID is ready
+    <script async src="https://www.googletagmanager.com/gtag/js?id=REPLACE:G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'REPLACE:G-XXXXXXXXXX');
+    </script>
+    -->
+  </body>
+</html>

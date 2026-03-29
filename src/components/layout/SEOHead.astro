@@ -1,0 +1,42 @@
+---
+import type { SEOProps } from '../../utils/types';
+import commonData from '../../content/common.json';
+
+interface Props extends SEOProps {
+  preloadImage?: string;
+}
+
+const { title, description, ogImage, canonicalUrl, noindex, preloadImage } = Astro.props;
+const siteUrl = commonData.business.url;
+---
+
+<!-- Core Meta -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content={Astro.generator} />
+
+<!-- Title & Description -->
+<title>{title}</title>
+<meta name="description" content={description} />
+
+{canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+{noindex && <meta name="robots" content="noindex, nofollow" />}
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+{ogImage && <meta property="og:image" content={`${siteUrl}${ogImage}`} />}
+{ogImage && <meta property="og:image:width" content="1200" />}
+{ogImage && <meta property="og:image:height" content="630" />}
+
+<!-- Favicons -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" href="/favicon.ico" />
+
+<!-- LCP Image Preload -->
+{preloadImage && <link rel="preload" href={preloadImage} as="image" fetchpriority="high" />}
+
+<!-- Fonts load via @font-face with font-display:swap — no preload needed.
+     Inter Variable (344KB) + Outfit (44KB) would saturate bandwidth on slow connections
+     and delay the LCP image. Swap ensures text is visible immediately with fallback fonts. -->

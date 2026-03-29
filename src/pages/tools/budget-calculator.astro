@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import HeroSection from '../../components/content/HeroSection.astro';
+import SchemaBlock from '../../components/schema/SchemaBlock.astro';
+import QuickAnswer from '../../components/content/QuickAnswer.astro';
+import BudgetCalcIsland from '../../components/islands/BudgetCalculator';
+import { buildWebApplicationSchema } from '../../utils/schema-builder';
+import budgetData from '../../content/budget-calculator.json';
+
+const { seo, hero, quickAnswer, intro, destinations } = budgetData;
+const webAppSchema = buildWebApplicationSchema();
+---
+
+<BaseLayout seo={seo}>
+  <SchemaBlock schema={webAppSchema} />
+
+  <HeroSection heading={hero.heading} subheading={hero.subheading} image={hero.image} imageAlt={hero.imageAlt} />
+
+  <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
+    <QuickAnswer question={quickAnswer.question} answer={quickAnswer.answer} />
+
+    <p class="mt-6 text-sm leading-relaxed text-slate-600">{intro}</p>
+
+    <!-- Calculator Island -->
+    <div class="mt-10 rounded-xl border border-slate-200 bg-white p-6">
+      <BudgetCalcIsland client:visible destinations={destinations} />
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,28 @@
+---
+import { headerNav } from '../../config/navigation';
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath } = Astro.props;
+---
+
+<nav aria-label="Main navigation" class="hidden lg:block">
+  <ul class="flex items-center gap-6">
+    {headerNav.map((item) => (
+      <li>
+        <a
+          href={item.url}
+          class:list={[
+            'text-sm font-medium transition-colors hover:text-primary',
+            currentPath === item.url ? 'text-primary' : 'text-slate-700',
+          ]}
+          aria-current={currentPath === item.url ? 'page' : undefined}
+        >
+          {item.label}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

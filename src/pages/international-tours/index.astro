@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import HeroSection from '../../components/content/HeroSection.astro';
+import SchemaBlock from '../../components/schema/SchemaBlock.astro';
+import QuickAnswer from '../../components/content/QuickAnswer.astro';
+import PackageCard from '../../components/content/PackageCard.astro';
+import FAQAccordion from '../../components/content/FAQAccordion.astro';
+import { getEntry } from 'astro:content';
+import { buildItemListSchema } from '../../utils/schema-builder';
+
+const entry = await getEntry('international-tours', '_pillar');
+if (!entry || entry.data.pageType !== 'pillar') throw new Error('Missing content: international-tours/_pillar.json');
+const { seo, hero, quickAnswer, overview, spokeCards, faqs } = entry.data;
+
+const itemListSchema = buildItemListSchema(
+  spokeCards.map((card) => ({ name: card.title, url: `/international-tours/${card.slug}` }))
+);
+---
+
+<BaseLayout seo={seo}>
+  <SchemaBlock schema={itemListSchema} />
+
+  <HeroSection heading={hero.heading} subheading={hero.subheading} image={hero.image} imageAlt={hero.imageAlt} />
+
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <QuickAnswer question={quickAnswer.question} answer={quickAnswer.answer} />
+
+    <!-- Overview -->
+    <p class="mt-8 leading-relaxed text-slate-600">{overview}</p>
+
+    <!-- Spoke Cards -->
+    <section class="mt-12">
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {spokeCards.map((card) => (
+          <PackageCard {...card} basePath="/international-tours" />
+        ))}
+      </div>
+    </section>
+
+    <!-- FAQs -->
+    {faqs && faqs.length > 0 && (
+      <section class="mt-16">
+        <h2 class="font-heading text-2xl font-semibold text-slate-900">Frequently Asked Questions</h2>
+        <div class="mt-6">
+          <FAQAccordion faqs={faqs} />
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>

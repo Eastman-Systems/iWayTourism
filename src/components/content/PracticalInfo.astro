@@ -1,0 +1,58 @@
+---
+import type { PracticalInfoData } from '../../utils/types';
+
+interface Props {
+  info: PracticalInfoData;
+}
+
+const { info } = Astro.props;
+const { howToGetThere, bestTimeToVisit, duration, difficulty, tips } = info;
+const hasContent = howToGetThere || bestTimeToVisit || duration || difficulty || (tips && tips.length > 0);
+---
+
+{hasContent && (
+  <aside class="rounded-xl border border-slate-200 bg-slate-50 p-6">
+    <h2 class="font-heading text-base font-semibold text-slate-900">Practical Information</h2>
+    <dl class="mt-4 flex flex-col gap-4">
+      {howToGetThere && (
+        <div>
+          <dt class="text-sm font-medium text-slate-700">How to Get There</dt>
+          <dd class="mt-1 text-sm text-slate-600">{howToGetThere}</dd>
+        </div>
+      )}
+      {bestTimeToVisit && (
+        <div>
+          <dt class="text-sm font-medium text-slate-700">Best Time to Visit</dt>
+          <dd class="mt-1 text-sm text-slate-600">{bestTimeToVisit}</dd>
+        </div>
+      )}
+      {duration && (
+        <div>
+          <dt class="text-sm font-medium text-slate-700">Duration</dt>
+          <dd class="mt-1 text-sm text-slate-600">{duration}</dd>
+        </div>
+      )}
+      {difficulty && (
+        <div>
+          <dt class="text-sm font-medium text-slate-700">Difficulty</dt>
+          <dd class="mt-1 text-sm text-slate-600">{difficulty}</dd>
+        </div>
+      )}
+      {tips && tips.length > 0 && (
+        <div>
+          <dt class="text-sm font-medium text-slate-700">Tips</dt>
+          <dd class="mt-1">
+            <ul class="flex flex-col gap-1">
+              {tips.map((tip) => (
+                <li class="flex items-start gap-2 text-sm text-slate-600">
+                  <span class="mt-1 block h-1.5 w-1.5 shrink-0 rounded-full bg-primary" aria-hidden="true" />
+                  {tip}
+                </li>
+              ))}
+            </ul>
+          </dd>
+        </div>
+      )}
+    </dl>
+  </aside>
+)}

@@ -1,12 +1,14 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
+import { z } from 'astro/zod';
 
 // ════════════════════════════════════════════════════════════════
 // Shared Sub-Schemas
 // ════════════════════════════════════════════════════════════════
 
 const seoSchema = z.object({
-  title: z.string().max(70),
-  description: z.string().max(160),
+  title: z.string(),
+  description: z.string(),
   ogImage: z.string().optional(),
   canonicalUrl: z.string().optional(),
   noindex: z.boolean().default(false),
@@ -286,7 +288,7 @@ const termsSchema = z.object({
 });
 
 const coreCollection = defineCollection({
-  type: 'data',
+  loader: glob({ pattern: '**/*.json', base: './src/content/core' }),
   schema: z.discriminatedUnion('pageType', [
     homepageSchema,
     aboutSchema,
@@ -392,7 +394,7 @@ const localTourFaqSchema = z.object({
 });
 
 const localToursCollection = defineCollection({
-  type: 'data',
+  loader: glob({ pattern: '**/*.json', base: './src/content/local-tours' }),
   schema: z.discriminatedUnion('pageType', [
     localTourPillarSchema,
     localTourItinerarySchema,
@@ -503,7 +505,7 @@ const intlTourFaqSchema = z.object({
 });
 
 const internationalToursCollection = defineCollection({
-  type: 'data',
+  loader: glob({ pattern: '**/*.json', base: './src/content/international-tours' }),
   schema: z.discriminatedUnion('pageType', [
     intlTourPillarSchema,
     intlTourDestinationSchema,
@@ -518,11 +520,11 @@ const internationalToursCollection = defineCollection({
 // ════════════════════════════════════════════════════════════════
 
 const schemaTemplatesCollection = defineCollection({
-  type: 'data',
+  loader: glob({ pattern: '**/*.json', base: './src/content/schema-templates' }),
   schema: z.object({
     context: z.string().default('https://schema.org'),
     type: z.string(),
-    baseProperties: z.record(z.unknown()),
+    baseProperties: z.record(z.string(), z.unknown()),
   }),
 });
 

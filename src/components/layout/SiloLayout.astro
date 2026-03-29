@@ -1,0 +1,36 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../navigation/Breadcrumb.astro';
+import SiloSidebar from '../navigation/SiloSidebar.astro';
+import type { SEOProps, SiloType, BreadcrumbItem } from '../../utils/types';
+
+interface Props {
+  seo: SEOProps;
+  silo: SiloType;
+  currentSlug: string;
+  pageTitle: string;
+}
+
+const { seo, silo, currentSlug, pageTitle } = Astro.props;
+
+const siloLabel = silo === 'local-tours' ? 'Local Tours' : 'International Tours';
+const siloUrl = `/${silo}`;
+
+const breadcrumbs: BreadcrumbItem[] = [
+  { label: 'Home', url: '/' },
+  { label: siloLabel, url: siloUrl },
+  { label: pageTitle, url: `${siloUrl}/${currentSlug}` },
+];
+---
+
+<BaseLayout seo={seo}>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
+    <Breadcrumb items={breadcrumbs} />
+    <div class="mt-6 lg:grid lg:grid-cols-[1fr_280px] lg:gap-8">
+      <article>
+        <slot />
+      </article>
+      <SiloSidebar silo={silo} currentSlug={currentSlug} />
+    </div>
+  </div>
+</BaseLayout>

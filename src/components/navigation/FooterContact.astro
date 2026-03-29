@@ -1,0 +1,19 @@
+---
+import commonData from '../../content/common.json';
+
+const { business, address } = commonData;
+---
+
+<div>
+  <h3 class="font-heading text-sm font-semibold text-slate-900">Contact</h3>
+  <address class="mt-4 flex flex-col gap-2 text-sm not-italic text-slate-600">
+    <p>{address.streetAddress}</p>
+    <p>{address.addressLocality}, {address.addressRegion} {address.postalCode}</p>
+    <a href={`tel:${business.phone}`} class="transition-colors hover:text-primary">
+      {business.phone}
+    </a>
+    <a href={`mailto:${business.email}`} class="transition-colors hover:text-primary">
+      {business.email}
+    </a>
+  </address>
+</div>

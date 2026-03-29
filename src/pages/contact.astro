@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import HeroSection from '../components/content/HeroSection.astro';
+import SchemaBlock from '../components/schema/SchemaBlock.astro';
+import LeadCaptureForm from '../components/islands/LeadCaptureForm';
+import { getEntry } from 'astro:content';
+import { buildLocalBusinessSchema } from '../utils/schema-builder';
+
+const entry = await getEntry('core', 'contact');
+if (!entry || entry.data.pageType !== 'contact') throw new Error('Missing content: core/contact.json');
+const { seo, hero, nap, hours, mapEmbed } = entry.data;
+
+const businessSchema = buildLocalBusinessSchema({
+  phone: nap.phone,
+  email: nap.email,
+  streetAddress: nap.address,
+  postalCode: nap.postalCode,
+});
+---
+
+<BaseLayout seo={seo}>
+  <SchemaBlock schema={businessSchema} />
+
+  <HeroSection heading={hero.heading} subheading={hero.subheading} image={hero.image} imageAlt={hero.imageAlt} />
+
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="lg:grid lg:grid-cols-2 lg:gap-12">
+      <!-- Contact Info -->
+      <div>
+        <!-- NAP -->
+        <section>
+          <h2 class="font-heading text-xl font-semibold text-slate-900">Visit Us</h2>
+          <address class="mt-4 flex flex-col gap-3 text-sm not-italic text-slate-600">
+            <p>{nap.address}</p>
+            <p>{nap.addressLocality}, {nap.addressRegion} {nap.postalCode}</p>
+            <a href={`tel:${nap.phone}`} class="font-medium text-primary hover:underline">{nap.phone}</a>
+            <a href={`mailto:${nap.email}`} class="text-primary hover:underline">{nap.email}</a>
+            {nap.whatsapp && (
+              <a href={`https://wa.me/${nap.whatsapp.replace(/[^0-9]/g, '')}`} class="text-primary hover:underline">
+                WhatsApp: {nap.whatsapp}
+              </a>
+            )}
+          </address>
+        </section>
+
+        <!-- Hours -->
+        <section class="mt-8">
+          <h2 class="font-heading text-xl font-semibold text-slate-900">{hours.heading}</h2>
+          <dl class="mt-4 flex flex-col gap-2">
+            {hours.schedule.map((slot) => (
+              <div class="flex justify-between text-sm">
+                <dt class="font-medium text-slate-700">{slot.days}</dt>
+                <dd class="text-slate-600">{slot.hours}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+
+        <!-- Map -->
+        <section class="mt-8">
+          <iframe
+            src={mapEmbed.src}
+            title={mapEmbed.title}
+            width="600"
+            height="300"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            class="aspect-video w-full rounded-xl border-0"
+            allowfullscreen
+          ></iframe>
+        </section>
+      </div>
+
+      <!-- Lead Capture Form (client:load — above fold on Contact page) -->
+      <div class="mt-12 lg:mt-0">
+        <h2 class="font-heading text-xl font-semibold text-slate-900">Send Us an Enquiry</h2>
+        <div class="mt-6 rounded-xl border border-slate-200 bg-white p-6">
+          <LeadCaptureForm client:load />
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

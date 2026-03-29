@@ -1,0 +1,28 @@
+---
+import type { BreadcrumbItem } from '../../utils/types';
+import SchemaBlock from '../schema/SchemaBlock.astro';
+import { buildBreadcrumbSchema } from '../../utils/schema-builder';
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+const breadcrumbSchema = buildBreadcrumbSchema(items);
+---
+
+<nav aria-label="Breadcrumb" class="text-sm text-slate-500">
+  <ol class="flex flex-wrap items-center gap-1">
+    {items.map((item, i) => (
+      <li class="flex items-center gap-1">
+        {i > 0 && <span aria-hidden="true" class="text-slate-300">/</span>}
+        {i === items.length - 1 ? (
+          <span aria-current="page" class="font-medium text-slate-700">{item.label}</span>
+        ) : (
+          <a href={item.url} class="transition-colors hover:text-primary">{item.label}</a>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+<SchemaBlock schema={breadcrumbSchema} />
