@@ -1,0 +1,172 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Thailand Tour Package from Trivandrum — Phuket, Krabi & Bangkok from ₹40,000 | iWay Tourism",
+    "description": "Book Thailand packages from Trivandrum. Bangkok temples and street food, Phuket beaches, Krabi island hopping, Pattaya nightlife. 6N/7D from ₹40,000 with flights, visa, and hotels.",
+    "ogImage": "/images/hero/thailand-og.webp"
+  },
+  "hero": {
+    "heading": "Thailand — Beaches, Temples & Street Food for Every Budget",
+    "subheading": "Bangkok's golden temples and night markets, Phuket's Andaman beaches, Krabi's limestone islands, and Pattaya's waterfront energy — ideal for families and friend groups.",
+    "image": "/images/hero/thailand-hero.webp",
+    "imageAlt": "Long-tail boats on crystal-clear turquoise water at Railay Beach, Krabi, Thailand with limestone cliffs in the background"
+  },
+  "quickAnswer": {
+    "question": "How much does a Thailand package cost from Trivandrum?",
+    "answer": "iWay Tourism's Thailand packages from Trivandrum start at ₹40,000 per person for a budget 5N/6D Bangkok-Pattaya trip. The standard 6N/7D package including Bangkok and Phuket or Krabi ranges from ₹55,000–₹70,000. All packages include return flights from TRV, visa-on-arrival assistance, hotel accommodation, transfers, sightseeing, and a dedicated iWay coordinator."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Thailand is South India's most versatile international destination — it works for honeymooners, families with children, friend groups, and corporate incentive trips with equal effectiveness. Bangkok delivers temple grandeur and the world's best street food. Phuket offers Andaman Sea beaches backed by five-star resort infrastructure. Krabi provides raw limestone-island beauty accessible by long-tail boat. Pattaya serves as a convenient beach-plus-entertainment hub close to Bangkok.",
+    "iWay Tourism designs Thailand packages around a simple principle: pick two or three zones, not all four. The aggregator mistake is cramming Bangkok + Pattaya + Phuket + Krabi into 6 days, resulting in three domestic flights and zero relaxation. Our standard packages pair Bangkok (2 nights) with either Phuket or Krabi (3–4 nights), giving you enough time to actually experience each place rather than just photograph it from a bus window."
+  ],
+  "pricingTiers": [
+    {
+      "name": "Bangkok + Pattaya Express — 5N/6D",
+      "duration": "5 Nights /  Days",
+      "priceFrom": 40000,
+      "priceTo": 50000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Bangkok (BKK)",
+        "Visa-on-arrival assistance at Bangkok",
+        "3-star hotel accommodation (twin sharing)",
+        "Airport transfers and Bangkok-Pattaya transport",
+        "Bangkok city tour: Grand Palace, Wat Pho (Reclining Buddha), Wat Arun, Chatuchak Weekend Market",
+        "Pattaya: Coral Island (Koh Larn) day trip with speedboat, Nong Nooch Tropical Garden",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner",
+        "Alcazar or Tiffany's cabaret show (available as add-on)",
+        "Thai massage and spa (available as add-on)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Most affordable Thailand entry point",
+        "Bangkok cultural immersion + Pattaya beach relaxation",
+        "Coral Island speedboat trip included",
+        "Ideal for first-time Thailand visitors and families"
+      ]
+    },
+    {
+      "name": "Bangkok + Phuket/Krabi Leisure — 6N/7D",
+      "duration": "6 Nights / 7 Days",
+      "priceFrom": 55000,
+      "priceTo": 70000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Bangkok (BKK) + domestic flight Bangkok–Phuket/Krabi",
+        "Visa-on-arrival assistance",
+        "3-star superior / 4-star hotel accommodation (twin sharing)",
+        "All airport and inter-city transfers",
+        "Bangkok: Grand Palace, Wat Pho, Chatuchak Market, Khao San Road evening walk",
+        "Phuket: Phi Phi Islands day trip (Maya Bay, Pileh Lagoon, snorkelling), Patong Beach",
+        "OR Krabi: Four Islands tour (Railay Beach, Chicken Island, Tup Island, Poda Island), Ao Nang Beach",
+        "Thai cooking class (half-day in Bangkok or beach destination)",
+        "Daily breakfast + 1 dinner"
+      ],
+      "excludes": [
+        "Remaining lunches and dinners",
+        "James Bond Island / Phang Nga Bay trip (available as Krabi add-on)",
+        "Elephant sanctuary visit (available as Phuket add-on)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Domestic flight included — no 12-hour bus rides",
+        "Choice between Phuket and Krabi based on preference",
+        "Thai cooking class included as standard",
+        "Phi Phi Islands or Four Islands tour — Thailand's most iconic seascapes"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1–2",
+      "title": "Bangkok — Temples, Markets & Street Food",
+      "description": "Arrive at Suvarnabhumi Airport. Visit the Grand Palace (Thailand's most sacred complex), Wat Pho (home of the 46-metre Reclining Buddha), and Wat Arun (Temple of Dawn) across the Chao Phraya River. Evening at Chatuchak Weekend Market (15,000+ stalls) or Khao San Road."
+    },
+    {
+      "day": "Day 3",
+      "title": "Thai Cooking Class & Flight to Beach",
+      "description": "Morning half-day cooking class — learn to prepare pad thai, green curry, and mango sticky rice. Afternoon domestic flight to Phuket (1.5 hours) or Krabi (1.5 hours). Evening beach walk."
+    },
+    {
+      "day": "Day 4",
+      "title": "Phi Phi Islands OR Four Islands Tour",
+      "description": "Full-day island-hopping: Phuket guests visit the Phi Phi Islands (Maya Bay, Pileh Lagoon, Viking Cave, snorkelling stops). Krabi guests tour Railay Beach, Chicken Island, Tup Island, and Poda Island by long-tail boat."
+    },
+    {
+      "day": "Day 5–6",
+      "title": "Beach Leisure & Exploration",
+      "description": "Free days for beach relaxation, optional water sports (kayaking, paddleboarding, diving), ethical elephant sanctuary visit, or Phang Nga Bay James Bond Island excursion. Evening night markets for souvenirs and street food."
+    },
+    {
+      "day": "Day 7",
+      "title": "Departure",
+      "description": "Morning at leisure. Transfer to airport for return flight to Trivandrum via Bangkok."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Thailand Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Thailand?",
+      "answer": "Indian passport holders can obtain a Visa on Arrival (VoA) at Thai airports for stays up to 15 days. The VoA costs THB 2,000 (approximately ₹5,000) and is processed at the airport immigration counter. Alternatively, a pre-approved e-visa can be obtained online for longer stays. iWay Tourism provides VoA documentation guidance and assists with the process at the airport."
+    },
+    "body": [
+      "Thailand Visa on Arrival requirements: valid passport (minimum 6 months validity, at least 2 blank pages), completed arrival card, return flight ticket within 15 days, proof of accommodation, recent passport photograph, and proof of sufficient funds (THB 10,000 per person or THB 20,000 per family).",
+      "The VoA counter at Suvarnabhumi Airport typically processes applications in 15–30 minutes. During peak season, wait times can extend to 1 hour.",
+      "iWay Tourism prepares all VoA documentation before departure — arrival card pre-filled, photographs ready, hotel confirmations printed — so the airport process is as fast as possible."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Thailand",
+    "quickAnswer": {
+      "question": "When is the best time to visit Thailand from India?",
+      "answer": "November to February is Thailand's peak season — cool, dry weather across the country. Bangkok is most comfortable (25–30°C), and the Andaman coast (Phuket, Krabi) has calm, clear seas ideal for island tours and snorkelling. March–May is hot season. June–October is monsoon — cheaper but with afternoon rains and rough seas on the Andaman coast."
+    },
+    "body": "Thailand has three seasons: cool and dry (November–February), hot (March–May), and rainy (June–October). For beach-focused trips to Phuket or Krabi, November to April offers the calmest seas and best visibility for snorkelling. Bangkok is a year-round city but most pleasant from November to February. The rainy season brings lower prices and fewer crowds but limits island-hopping on the Andaman coast. For the best balance of weather and value, aim for November or late February."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Thailand with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "Two Zones, Not Four",
+        "description": "We design itineraries around Bangkok plus one beach destination — not the rushed four-city scramble. The result: you actually relax on the beach instead of spending half your trip in airports."
+      },
+      {
+        "title": "Cooking Class Included",
+        "description": "Thai food is half the reason to visit Thailand. Our standard 6N/7D package includes a half-day cooking class so you bring skills home, not just photographs."
+      },
+      {
+        "title": "Ethical Experiences Only",
+        "description": "We do not book elephant riding, tiger temple visits, or any animal entertainment that involves captive wildlife in unethical conditions. Our Phuket and Krabi packages offer ethical elephant sanctuary visits as optional add-ons."
+      },
+      {
+        "title": "VoA Documentation Pre-Prepared",
+        "description": "The Thailand VoA process is straightforward but the queue can be long. We pre-fill your arrival card, prepare photograph copies, print hotel confirmations, and provide a step-by-step airport guide so you clear immigration in minimum time."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Phuket or Krabi — which should I choose?",
+      "answer": "Phuket suits those who want resort infrastructure, nightlife (Patong), shopping, and the iconic Phi Phi Islands day trip. Krabi suits those who prefer a quieter, more natural setting — Railay Beach is accessible only by boat, the Four Islands tour is less crowded than Phi Phi, and the limestone landscape is more dramatic. Families with young children often prefer Krabi's calmer beaches. Party-oriented groups and first-time Thailand visitors typically prefer Phuket."
+    },
+    {
+      "question": "Is Thai food too spicy for South Indians?",
+      "answer": "South Indians generally handle Thai spice levels well — the chilli heat is comparable to Andhra or Kerala cuisine. The bigger adjustment is the flavour profile: Thai cooking uses lemongrass, galangal, fish sauce, and kaffir lime leaves, which are different from the cumin-coriander-turmeric base of Indian cooking. Vegetarian options exist but require communication — Thai 'vegetarian' dishes may contain fish sauce or shrimp paste. Our restaurant guide flags genuinely vegetarian-friendly establishments."
+    },
+    {
+      "question": "Can I combine Thailand with another destination?",
+      "answer": "Yes. The most natural combinations from Bangkok are: Thailand + Singapore (2.5-hour flight), Thailand + Vietnam (2-hour flight to Hanoi), or Thailand + Bali (4-hour flight). iWay Tourism designs multi-destination itineraries that optimise flight routing and visa logistics across countries."
+    }
+  ]
+}

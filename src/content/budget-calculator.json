@@ -1,0 +1,293 @@
+{
+  "seo": {
+    "title": "International Travel Budget Calculator — Estimate Your Trip Cost | iWay Tourism",
+    "description": "Estimate the cost of your international holiday from Trivandrum. Compare budget, standard, and premium packages across Singapore, Malaysia, Bali, Vietnam, Sri Lanka, Dubai, and Thailand.",
+    "ogImage": "/images/hero/budget-calculator-og.webp"
+  },
+  "hero": {
+    "heading": "International Travel Budget Calculator",
+    "subheading": "Select your destination, group size, travel tier, and trip duration — get an instant cost estimate based on iWay Tourism's current package baselines.",
+    "image": "/images/hero/budget-calculator-hero.webp",
+    "imageAlt": "Flat-lay of a world map with a calculator, Indian passport, currency notes, and travel planning notebook"
+  },
+  "quickAnswer": {
+    "question": "How much does an international trip cost from Trivandrum?",
+    "answer": "International trip costs from Trivandrum vary by destination and tier: Sri Lanka from ₹20,000/person (4N/5D budget), Vietnam from ₹45,000, Bali from ₹35,000, Thailand from ₹40,000, Singapore-Malaysia from ₹45,000, and Dubai from ₹40,000. Use the calculator below to estimate your total cost based on group size, travel tier, and trip duration."
+  },
+  "intro": "This calculator provides indicative cost estimates based on iWay Tourism's current package baselines. The figures reflect per-person pricing on a twin-sharing basis and include flights from Trivandrum (TRV), visa processing, hotel accommodation, airport transfers, and sightseeing as listed in the corresponding package page. Actual quotes may vary based on travel dates, flight availability, hotel selection, and seasonal pricing. For a binding quote, contact our team with your specific requirements.",
+  "destinations": [
+    {
+      "id": "sri-lanka",
+      "name": "Sri Lanka",
+      "flag": "🇱🇰",
+      "slug": "sri-lanka",
+      "flightHours": 1.5,
+      "visaType": "Visa-free",
+      "visaCost": 0,
+      "tiers": [
+        {
+          "name": "Budget Express",
+          "duration": "4N/5D",
+          "nights": 4,
+          "basePricePerPerson": 20000,
+          "maxPricePerPerson": 28000,
+          "hotelStars": 3,
+          "mealsIncluded": "Breakfast only",
+          "highlights": "Colombo, Kandy, Pinnawala"
+        },
+        {
+          "name": "Standard Heritage & Wildlife",
+          "duration": "5N/6D",
+          "nights": 5,
+          "basePricePerPerson": 28000,
+          "maxPricePerPerson": 35000,
+          "hotelStars": 3.5,
+          "mealsIncluded": "Breakfast + 1 dinner",
+          "highlights": "Colombo, Kandy, Nuwara Eliya, Ella train, Yala safari"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 1500,
+        "moderate": 3000,
+        "premium": 5000,
+        "note": "Per person per day for meals, local transport, entry fees, and incidentals not included in the package."
+      }
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "flag": "🇻🇳",
+      "slug": "vietnam",
+      "flightHours": 5.5,
+      "visaType": "E-Visa",
+      "visaCost": 2100,
+      "tiers": [
+        {
+          "name": "Budget Explorer",
+          "duration": "6N/7D",
+          "nights": 6,
+          "basePricePerPerson": 45000,
+          "maxPricePerPerson": 55000,
+          "hotelStars": 3,
+          "mealsIncluded": "Breakfast only",
+          "highlights": "Hanoi, Ha Long Bay day cruise, Ninh Binh"
+        },
+        {
+          "name": "Standard Adventure",
+          "duration": "7N/8D",
+          "nights": 7,
+          "basePricePerPerson": 65000,
+          "maxPricePerPerson": 85000,
+          "hotelStars": 3.5,
+          "mealsIncluded": "Breakfast + 2 dinners",
+          "highlights": "Hanoi, Ha Long Bay overnight, Sapa or Da Nang/Hoi An"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 1200,
+        "moderate": 2500,
+        "premium": 4500,
+        "note": "Vietnam is exceptionally affordable. Street food meals cost ₹80–150; quality restaurant dinners ₹500–800."
+      }
+    },
+    {
+      "id": "bali",
+      "name": "Bali (Indonesia)",
+      "flag": "🇮🇩",
+      "slug": "bali-honeymoon",
+      "flightHours": 8,
+      "visaType": "Visa on Arrival",
+      "visaCost": 2900,
+      "tiers": [
+        {
+          "name": "Budget Romance",
+          "duration": "5N/6D",
+          "nights": 5,
+          "basePricePerPerson": 35000,
+          "maxPricePerPerson": 45000,
+          "hotelStars": 3,
+          "mealsIncluded": "Breakfast + 1 romantic dinner",
+          "highlights": "Ubud, Uluwatu sunset, Seminyak beach"
+        },
+        {
+          "name": "Adventure Luxury",
+          "duration": "6N/7D",
+          "nights": 6,
+          "basePricePerPerson": 50000,
+          "maxPricePerPerson": 60000,
+          "hotelStars": 4,
+          "mealsIncluded": "Breakfast + 2 dinners",
+          "highlights": "Private pool villa, Nusa Penida, Mount Batur trek, Uluwatu"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 1800,
+        "moderate": 3500,
+        "premium": 6000,
+        "note": "Ubud is more affordable than Seminyak/Nusa Dua. Spa treatments range ₹500–₹3,000."
+      }
+    },
+    {
+      "id": "thailand",
+      "name": "Thailand",
+      "flag": "🇹🇭",
+      "slug": "thailand",
+      "flightHours": 4.5,
+      "visaType": "Visa on Arrival",
+      "visaCost": 5000,
+      "tiers": [
+        {
+          "name": "Bangkok + Pattaya Express",
+          "duration": "5N/6D",
+          "nights": 5,
+          "basePricePerPerson": 40000,
+          "maxPricePerPerson": 50000,
+          "hotelStars": 3,
+          "mealsIncluded": "Breakfast only",
+          "highlights": "Grand Palace, Wat Pho, Coral Island, Pattaya"
+        },
+        {
+          "name": "Bangkok + Phuket/Krabi Leisure",
+          "duration": "6N/7D",
+          "nights": 6,
+          "basePricePerPerson": 55000,
+          "maxPricePerPerson": 70000,
+          "hotelStars": 3.5,
+          "mealsIncluded": "Breakfast + 1 dinner",
+          "highlights": "Bangkok, Phi Phi Islands or Four Islands, cooking class"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 1500,
+        "moderate": 3000,
+        "premium": 5500,
+        "note": "Bangkok street food is legendary and cheap (₹100–250/meal). Phuket resort areas cost more."
+      }
+    },
+    {
+      "id": "singapore-malaysia",
+      "name": "Singapore & Malaysia",
+      "flag": "🇸🇬🇲🇾",
+      "slug": "singapore-malaysia",
+      "flightHours": 4.5,
+      "visaType": "E-Visa (both countries)",
+      "visaCost": 0,
+      "tiers": [
+        {
+          "name": "Budget Express",
+          "duration": "4N/5D",
+          "nights": 4,
+          "basePricePerPerson": 45000,
+          "maxPricePerPerson": 65000,
+          "hotelStars": 3,
+          "mealsIncluded": "Breakfast only",
+          "highlights": "Marina Bay, Sentosa, Batu Caves, KL city"
+        },
+        {
+          "name": "Standard Leisure",
+          "duration": "7N/8D",
+          "nights": 7,
+          "basePricePerPerson": 75000,
+          "maxPricePerPerson": 95000,
+          "hotelStars": 3.5,
+          "mealsIncluded": "Breakfast + 2 dinners",
+          "highlights": "Full Singapore, Sentosa, Night Safari, KL, Genting Highlands"
+        },
+        {
+          "name": "Premium Cruise",
+          "duration": "9N/10D",
+          "nights": 9,
+          "basePricePerPerson": 100000,
+          "maxPricePerPerson": 134000,
+          "hotelStars": 4,
+          "mealsIncluded": "Breakfast + 4 dinners + all cruise meals",
+          "highlights": "Full Singapore, Universal Studios, KL, Genting, Genting Dream Cruise"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 2500,
+        "moderate": 4500,
+        "premium": 8000,
+        "note": "Singapore is noticeably more expensive than Malaysia. Hawker centres (₹250–500/meal) are the best value in Singapore."
+      }
+    },
+    {
+      "id": "dubai",
+      "name": "Dubai (UAE)",
+      "flag": "🇦🇪",
+      "slug": "dubai",
+      "flightHours": 4,
+      "visaType": "E-Visa",
+      "visaCost": 0,
+      "tiers": [
+        {
+          "name": "City Explorer",
+          "duration": "4N/5D",
+          "nights": 4,
+          "basePricePerPerson": 40000,
+          "maxPricePerPerson": 50000,
+          "hotelStars": 3.5,
+          "mealsIncluded": "Breakfast + desert safari BBQ dinner",
+          "highlights": "Burj Khalifa, Dubai Mall, Old Dubai, desert safari"
+        },
+        {
+          "name": "Premium Experience",
+          "duration": "5N/6D",
+          "nights": 5,
+          "basePricePerPerson": 50000,
+          "maxPricePerPerson": 60000,
+          "hotelStars": 4,
+          "mealsIncluded": "Breakfast + 2 dinners",
+          "highlights": "Full city tour, premium desert safari, Marina cruise, Abu Dhabi"
+        }
+      ],
+      "estimatedDailySpend": {
+        "budget": 3000,
+        "moderate": 5500,
+        "premium": 10000,
+        "note": "Dubai ranges from affordable (food courts ₹400–600) to ultra-premium. Gold Souk offers competitive gold pricing by weight."
+      }
+    }
+  ],
+  "calculator": {
+    "defaultGroupSize": 2,
+    "maxGroupSize": 20,
+    "spendLevels": [
+      {
+        "id": "budget",
+        "label": "Budget",
+        "description": "Street food, local transport, minimal shopping"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate",
+        "description": "Mix of local and restaurant dining, some activities, light shopping"
+      },
+      {
+        "id": "premium",
+        "label": "Premium",
+        "description": "Restaurant dining, spa/adventure activities, dedicated shopping time"
+      }
+    ],
+    "outputFields": [
+      "Package cost (per person × group size)",
+      "Estimated daily spending (per person × days × group size)",
+      "Visa cost (per person × group size, if applicable)",
+      "Total estimated trip cost",
+      "Cost per person breakdown"
+    ],
+    "disclaimer": "This calculator provides indicative estimates only. Actual pricing depends on travel dates, flight availability, hotel selection, and seasonal factors. For a binding quote tailored to your exact requirements, contact iWay Tourism."
+  },
+  "ctaSection": {
+    "heading": "Ready to Turn This Estimate into a Real Itinerary?",
+    "body": "Share your budget estimate with our team. We will build a detailed itinerary and firm quote that matches your numbers — or show you how to get more for the same budget.",
+    "buttonText": "Get a Custom Quote",
+    "buttonUrl": "/contact"
+  },
+  "crossLinks": {
+    "internationalHub": "/international-tours",
+    "localHub": "/local-tours",
+    "visaGuide": "/international-tours/visa-guide",
+    "bestTimeToVisit": "/international-tours/best-time-to-visit"
+  }
+}

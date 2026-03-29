@@ -1,0 +1,92 @@
+{
+  "pageType": "terms",
+  "seo": {
+    "title": "Terms of Service & Policies — iWay Tourism",
+    "description": "Read the terms and conditions, cancellation policy, refund process, and privacy practices for iWay Tourism's local fleet rentals and international holiday packages.",
+    "noindex": true
+  },
+  "hero": {
+    "heading": "Terms of Service & Policies",
+    "subheading": "Transparent policies for local fleet rentals, regional tour bookings, and international holiday packages.",
+    "image": "/images/hero/terms-hero.webp",
+    "imageAlt": "iWay Tourism office desk with travel documents and a laptop showing an itinerary"
+  },
+  "lastUpdated": "REPLACE:2026-03-28",
+  "sections": [
+    {
+      "heading": "1. Scope of Services",
+      "content": [
+        "iWay Tourism ('the Company', 'we', 'us') provides local fleet rental services, curated regional tour packages across the Kanyakumari and Trivandrum districts, and international holiday packages with visa assistance, flight coordination, and hotel bookings.",
+        "All services are subject to availability and the terms outlined in this document. By submitting a booking enquiry or confirming a reservation with iWay Tourism, the client ('you') agrees to these terms."
+      ]
+    },
+    {
+      "heading": "2. Booking and Confirmation",
+      "content": [
+        "A booking is considered confirmed only after the client has received a written confirmation (via email or WhatsApp) from iWay Tourism and has remitted the required advance payment as specified in the quotation.",
+        "Advance payment requirements vary by service type: local fleet rentals typically require REPLACE:XX% advance at the time of booking, while international holiday packages require REPLACE:XX% advance with the remaining balance due REPLACE:XX days before the departure date.",
+        "Quotations are valid for REPLACE:7 days from the date of issue unless otherwise specified. Pricing may change after the validity period due to fluctuations in flight fares, hotel rates, or currency exchange rates."
+      ]
+    },
+    {
+      "heading": "3. Cancellation and Refund Policy",
+      "content": [
+        "REPLACE:Cancellation policy for local fleet rentals — specify the notice period and refund percentage tiers. Example structure: 'Cancellations made more than 48 hours before the scheduled pickup receive a full refund of the advance. Cancellations within 24–48 hours receive a 50% refund. Cancellations within 24 hours or no-shows are non-refundable.'",
+        "REPLACE:Cancellation policy for international packages — specify tiers based on days before departure. Example structure: 'More than 30 days: full refund minus processing fee of ₹X,XXX. 15–30 days: 50% of package cost. Less than 15 days: non-refundable. Flight tickets are subject to airline cancellation policies and may carry separate penalties.'",
+        "All refunds are processed within REPLACE:7–14 business days to the original payment method. iWay Tourism is not liable for delays caused by banking intermediaries."
+      ]
+    },
+    {
+      "heading": "4. Modifications to Bookings",
+      "content": [
+        "Changes to confirmed bookings (dates, vehicle type, destination, group size) are accommodated subject to availability. Modification requests must be communicated in writing via email or WhatsApp.",
+        "Date changes for international packages may incur fare differences if flight or hotel costs have changed since the original booking. iWay Tourism will communicate any additional charges before proceeding with the modification.",
+        "Vehicle upgrades or downgrades for fleet rentals are subject to availability and the applicable rate difference."
+      ]
+    },
+    {
+      "heading": "5. Client Responsibilities",
+      "content": [
+        "Clients are responsible for providing accurate personal information (full legal names as per passport, date of birth, passport details for international travel) at the time of booking. Errors in documentation that result in denied boarding, visa rejection, or entry refusal are the client's responsibility.",
+        "For international packages, clients must ensure their passports are valid for at least 6 months beyond the travel date and have sufficient blank pages for visa stamps. iWay Tourism provides visa guidance and processing assistance but does not guarantee visa approval, as this is at the sole discretion of the issuing embassy or consulate.",
+        "Clients are expected to arrive at designated pickup points on time. Delays caused by the client may result in reduced sightseeing time or itinerary modifications. iWay Tourism will make reasonable efforts to adjust schedules but cannot guarantee all stops will be covered if significant delays occur."
+      ]
+    },
+    {
+      "heading": "6. Liability and Limitations",
+      "content": [
+        "iWay Tourism acts as a travel intermediary for international packages, coordinating with airlines, hotels, and local tour operators. We are not liable for service disruptions, cancellations, or quality issues caused by third-party providers, including flight delays, hotel overbookings, or force majeure events (natural disasters, political unrest, pandemics, strikes).",
+        "For local fleet rentals, iWay Tourism ensures all vehicles are insured, regularly maintained, and driven by licensed drivers. However, the Company is not liable for delays caused by road conditions, traffic, weather, or unforeseen mechanical issues beyond reasonable control. In the event of a vehicle breakdown, a replacement vehicle will be arranged as quickly as feasible.",
+        "iWay Tourism's total liability for any claim related to a booking shall not exceed the total amount paid by the client for that specific service."
+      ]
+    },
+    {
+      "heading": "7. Travel Insurance",
+      "content": [
+        "iWay Tourism strongly recommends that all clients purchase comprehensive travel insurance for international trips. Insurance is not included in standard package pricing unless explicitly stated in the quotation.",
+        "We can assist clients in obtaining travel insurance through our recommended providers. However, all insurance claims are between the client and the insurance provider — iWay Tourism does not process or adjudicate insurance claims."
+      ]
+    },
+    {
+      "heading": "8. Privacy and Data Handling",
+      "content": [
+        "Personal information collected during the booking process (names, contact details, passport copies, travel preferences) is used solely for the purpose of arranging and managing your travel services.",
+        "We do not sell, rent, or share client data with third parties for marketing purposes. Client information is shared only with relevant service providers (airlines, hotels, visa processing agents) as necessary to fulfil the booking.",
+        "Passport copies and sensitive documents submitted for visa processing are stored securely and deleted within REPLACE:30 days of trip completion."
+      ]
+    },
+    {
+      "heading": "9. Dispute Resolution",
+      "content": [
+        "Any disputes arising from services provided by iWay Tourism shall first be addressed through direct communication with our team via the contact details provided on this website.",
+        "If a resolution cannot be reached through direct communication, disputes shall be subject to the jurisdiction of the courts in REPLACE:Nagercoil/Kanyakumari District, Tamil Nadu, India."
+      ]
+    },
+    {
+      "heading": "10. Amendments to These Terms",
+      "content": [
+        "iWay Tourism reserves the right to update these terms and conditions at any time. Changes take effect on the date of publication on this website. Clients with existing confirmed bookings will be governed by the terms in effect at the time of their booking confirmation."
+      ]
+    }
+  ]
+}

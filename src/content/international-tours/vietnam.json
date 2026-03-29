@@ -1,0 +1,165 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Vietnam Tour Package from Trivandrum — 6N/7D from ₹45,000 | iWay Tourism",
+    "description": "Book Vietnam packages from Trivandrum: Ha Long Bay overnight cruise, Hanoi heritage, Sapa trekking, Da Nang beaches. 6N/7D from ₹45,000 per person with flights, e-visa, and hotels.",
+    "ogImage": "/images/hero/vietnam-og.webp"
+  },
+  "hero": {
+    "heading": "Vietnam Budget Adventures — Maximum Experience, Minimum Spend",
+    "subheading": "Ha Long Bay cruises, Hanoi's ancient quarter, Sapa highland trekking, and Da Nang's golden coast — the best value international destination in 2026.",
+    "image": "/images/hero/vietnam-hero.webp",
+    "imageAlt": "Traditional wooden junk boat sailing through emerald waters surrounded by limestone karsts in Ha Long Bay"
+  },
+  "quickAnswer": {
+    "question": "How much does a Vietnam package cost from Trivandrum?",
+    "answer": "iWay Tourism's Vietnam packages from Trivandrum start at ₹45,000 per person for a budget 6N/7D trip covering Hanoi and Ha Long Bay. The standard 7N/8D package including Sapa trekking or Da Nang beaches ranges from ₹65,000–₹85,000. All packages include return flights from TRV, e-visa processing, hotel accommodation, transfers, sightseeing, and a dedicated coordinator."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Vietnam is the undisputed champion of affordable international travel in 2026 for Indian travellers. The combination of accessible e-visas, expanding direct flight options from Indian hubs, and an extraordinarily low cost of living (a street food meal costs ₹80–150, a quality restaurant dinner ₹500–800) means your rupee stretches further here than almost anywhere else in Asia. But Vietnam is not just cheap — it is spectacular. Ha Long Bay's limestone karsts are a UNESCO World Heritage landscape. Hanoi's Old Quarter is a living museum of French colonial and Vietnamese vernacular architecture. The highland town of Sapa offers Himalaya-grade trekking at a fraction of Nepali prices.",
+    "iWay Tourism has been steadily increasing Vietnam bookings since 2025, and we have refined our itineraries based on actual client feedback. The key insight: Vietnam rewards slow travel. Rushing through Hanoi–Ha Long Bay–Ho Chi Minh City in 5 days is the aggregator default, and it misses the point entirely. Our packages are designed for 6–8 days with deliberate pacing — an overnight cruise on Ha Long Bay (not a rushed day trip), two full nights in the highland air of Sapa or Ninh Binh, and enough time in Hanoi to discover the street food beyond the tourist strip."
+  ],
+  "pricingTiers": [
+    {
+      "name": "Budget Explorer — 6N/7D",
+      "duration": "6 Nights / 7 Days",
+      "priceFrom": 45000,
+      "priceTo": 55000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) via connecting hub",
+        "Vietnam e-visa processing",
+        "2-star superior / 3-star hotel accommodation",
+        "Airport transfers in Hanoi",
+        "Hanoi Old Quarter walking tour (2 days)",
+        "Ha Long Bay full-day cruise (not overnight)",
+        "Ninh Binh day trip (Tam Coc boat ride through limestone caves)",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner",
+        "Ha Long Bay overnight upgrade (available as add-on)",
+        "Sapa extension (available as add-on)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Lowest entry point for a quality Vietnam experience",
+        "Ninh Binh included — the 'Ha Long Bay on land'",
+        "Ideal for first-time budget international travellers"
+      ]
+    },
+    {
+      "name": "Standard Adventure — 7N/8D",
+      "duration": "7 Nights / 8 Days",
+      "priceFrom": 65000,
+      "priceTo": 85000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV)",
+        "Vietnam e-visa processing",
+        "3-star / 3-star superior hotel accommodation",
+        "All airport and inter-city transfers (including domestic flight Hanoi–Da Nang if applicable)",
+        "Hanoi Old Quarter walking tour + Ho Chi Minh Mausoleum + Temple of Literature",
+        "Ha Long Bay overnight cruise (1 night on a traditional junk boat — cabin with private bathroom)",
+        "Sapa 1-night extension with homestay and guided trekking through rice terrace villages OR Da Nang/Hoi An beach extension (2 nights)",
+        "Daily breakfast + 1 cruise dinner + 1 Sapa/Hoi An dinner"
+      ],
+      "excludes": [
+        "Remaining lunches and dinners",
+        "Cooking classes (available as add-on in Hoi An)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Ha Long Bay overnight cruise — wake up on the water",
+        "Choice: Sapa highland trekking OR Da Nang/Hoi An beaches",
+        "Balanced pace across 8 days",
+        "Domestic flight included for north-central Vietnam routing"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1–2",
+      "title": "Hanoi — The Ancient Quarter",
+      "description": "Arrive at Noi Bai Airport. Explore the 1,000-year-old Old Quarter on foot — weave through the 36 streets (each named after its traditional trade), visit the Ho Chi Minh Mausoleum complex, the Temple of Literature (Vietnam's first university, founded 1070), and Hoan Kiem Lake at sunset."
+    },
+    {
+      "day": "Day 3–4",
+      "title": "Ha Long Bay Overnight Cruise",
+      "description": "Drive to Ha Long Bay (3.5 hours from Hanoi). Board a traditional wooden junk boat for an overnight cruise through 1,600 limestone islands. Kayak through cave systems, visit floating fishing villages, and watch sunset from the deck. Wake up to mist rising off emerald water."
+    },
+    {
+      "day": "Day 5–6",
+      "title": "Sapa Highlands OR Da Nang Coast",
+      "description": "Option A: Overnight train or drive to Sapa (5 hours from Hanoi). Trek through terraced rice paddies of the Hmong and Dao ethnic minority villages. Stay in a local homestay. Option B: Fly to Da Nang (1.5 hours). Explore the ancient town of Hoi An (UNESCO), its Japanese bridge, and My Khe Beach."
+    },
+    {
+      "day": "Day 7",
+      "title": "Return to Hanoi & Street Food Farewell",
+      "description": "Return to Hanoi. Final exploration — Dong Xuan Market for souvenirs, egg coffee at a lakeside café, and a farewell dinner of pho bo (Hanoi's signature beef noodle soup) at a local legend establishment."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Vietnam Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Vietnam?",
+      "answer": "Yes. Indian passport holders require a visa for Vietnam. The most convenient option is the e-visa, which can be applied for online and is processed in 3–5 working days. The e-visa costs approximately USD 25 (₹2,100) and is valid for up to 90 days with single entry. iWay Tourism handles the entire e-visa application as part of the package."
+    },
+    "body": [
+      "The Vietnam e-visa requires: a valid passport (minimum 6 months validity), a digital passport-size photograph, and the application form completed on the Vietnam immigration portal. Processing takes 3–5 working days.",
+      "Alternative: a visa-on-arrival letter can be arranged through an approved agency for group travellers, but the e-visa is faster and avoids queuing at the airport.",
+      "iWay Tourism submits your e-visa application and tracks approval. You receive the approved e-visa letter via email to print and carry."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Vietnam",
+    "quickAnswer": {
+      "question": "When is the best time to visit Vietnam from India?",
+      "answer": "Northern Vietnam (Hanoi, Ha Long Bay, Sapa) is best from October to April — cool, dry weather ideal for cruising and trekking. Central Vietnam (Da Nang, Hoi An) peaks from February to August. For a combined north-central itinerary, March to May offers the most reliable weather across both regions. Avoid September–November for Ha Long Bay due to typhoon season."
+    },
+    "body": "Vietnam spans over 1,600 km north-to-south, so weather varies dramatically by region. For iWay's standard itineraries focused on Hanoi and Ha Long Bay, October to April is optimal — the dry season brings crisp mornings in Sapa, calm seas in Ha Long Bay, and comfortable walking temperatures in Hanoi (15–25°C). Summer months (May–September) are hot and humid with afternoon thunderstorms. The sweet spot for combined trips is March–April or October–November."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Vietnam with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "Overnight Cruise, Not a Day Trip",
+        "description": "Budget aggregators sell a 6-hour Ha Long Bay day trip. We include an overnight cruise as standard in our 7N/8D package because waking up on the bay — in mist, surrounded by limestone karsts — is the single most impactful moment of the trip."
+      },
+      {
+        "title": "Real Sapa, Not Tourist Sapa",
+        "description": "Our Sapa extension includes a homestay with Hmong or Dao families in actual villages, not tourist-town hotels. The guided trek passes through active rice terraces, not paved viewpoint paths."
+      },
+      {
+        "title": "Pho Expertise",
+        "description": "Our Hanoi restaurant guide — included with every package — maps the best pho establishments, egg coffee cafés, and bun cha street stalls by neighbourhood. We do not send you to overpriced tourist restaurants on the main strip."
+      },
+      {
+        "title": "E-Visa Handled Completely",
+        "description": "Vietnam's e-visa process is simple but easy to get wrong (photo specifications, passport data entry format). We handle the entire submission and track approval so you don't need to navigate the Vietnamese immigration portal."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is Vietnam safe for Indian travellers?",
+      "answer": "Vietnam is very safe for tourists. Violent crime against travellers is rare. The primary concerns are petty theft (keep valuables secure in crowded markets) and traffic — Hanoi's motorbike traffic can be chaotic for newcomers. Our guided tours handle all logistics, and the coordinator provides a safety briefing specific to each city on arrival."
+    },
+    {
+      "question": "Is vegetarian food available in Vietnam?",
+      "answer": "Vietnamese cuisine is heavily meat and seafood-based, but vegetarian options exist. Hanoi and Ho Chi Minh City have dedicated vegetarian restaurants (chay restaurants, linked to Buddhist traditions). In smaller towns and on cruises, vegetarian options need to be pre-arranged. iWay Tourism notifies all hotel, cruise, and restaurant partners of dietary requirements before your trip."
+    },
+    {
+      "question": "Can I add Ho Chi Minh City to the itinerary?",
+      "answer": "Yes. A 2-night Ho Chi Minh City extension covers the War Remnants Museum, Cu Chi Tunnels, Ben Thanh Market, and the Mekong Delta. This adds approximately ₹15,000–₹20,000 per person (including domestic flight from Hanoi or Da Nang, accommodation, and sightseeing). We recommend this for 9N/10D itineraries."
+    }
+  ]
+}

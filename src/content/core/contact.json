@@ -1,0 +1,41 @@
+{
+  "pageType": "contact",
+  "seo": {
+    "title": "Contact iWay Tourism — Marthandam, Kanyakumari & Trivandrum",
+    "description": "Reach iWay Tourism for local tour bookings, fleet rentals, and international package enquiries. Visit our Marthandam office or call us for a free quote within 2 hours.",
+    "ogImage": "/images/hero/contact-og.webp"
+  },
+  "hero": {
+    "heading": "Get in Touch with iWay Tourism",
+    "subheading": "Whether you need a cab for tomorrow's airport run or a full international holiday itinerary — our team responds within 2 hours during business hours.",
+    "image": "/images/hero/contact-hero.webp",
+    "imageAlt": "Exterior view of the iWay Tourism office in Marthandam with branded signage"
+  },
+  "nap": {
+    "address": "REPLACE:Shop/Building Number, Street Name",
+    "addressLocality": "Marthandam",
+    "addressRegion": "Tamil Nadu",
+    "postalCode": "REPLACE:629165",
+    "country": "IN",
+    "phone": "REPLACE:+91-XXXXX-XXXXX",
+    "email": "REPLACE:info@iwaytourism.com",
+    "whatsapp": "REPLACE:+91XXXXXXXXXX"
+  },
+  "hours": {
+    "heading": "Office Hours",
+    "schedule": [
+      {
+        "days": "Monday – Saturday",
+        "hours": "REPLACE:9:00 AM – 7:00 PM"
+      },
+      {
+        "days": "Sunday",
+        "hours": "REPLACE:10:00 AM – 2:00 PM (by appointment)"
+      }
+    ]
+  },
+  "mapEmbed": {
+    "src": "REPLACE:https://www.google.com/maps/embed?pb=YOUR_EMBED_URL_HERE",
+    "title": "iWay Tourism Office Location — Marthandam, Kanyakumari District"
+  }
+}

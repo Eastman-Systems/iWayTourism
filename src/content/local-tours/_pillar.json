@@ -1,0 +1,87 @@
+{
+  "pageType": "pillar",
+  "seo": {
+    "title": "Local Tours in Kanyakumari & Trivandrum — Curated Circuits by iWay Tourism",
+    "description": "Explore curated local tour circuits across Kanyakumari and Trivandrum — coastal itineraries, temple pilgrimages, hidden gems, eco-trails, and heritage walks designed by local experts.",
+    "ogImage": "/images/hero/local-tours-og.webp"
+  },
+  "hero": {
+    "heading": "Explore the Deep South with a Local Who Knows Every Route",
+    "subheading": "From the sacred Triveni Sangam to waterfalls most tourists never find — curated circuits across Kanyakumari and Trivandrum districts with iWay's own fleet and drivers.",
+    "image": "/images/hero/local-tours-hero.webp",
+    "imageAlt": "Aerial view of the Kanyakumari coastline where the Indian Ocean, Arabian Sea, and Bay of Bengal converge at the Triveni Sangam"
+  },
+  "quickAnswer": {
+    "question": "What local tours does iWay Tourism offer in Kanyakumari and Trivandrum?",
+    "answer": "iWay Tourism operates curated tour circuits across the Kanyakumari and Trivandrum districts — including a flagship 3-day Trivandrum-to-Kanyakumari coastal itinerary, dedicated Kanyakumari sightseeing, Trivandrum heritage walks, off-the-beaten-path hidden gems, temple pilgrimage circuits, eco-tourism trails, and a regional cuisine guide. All tours use iWay's own fleet with experienced local drivers."
+  },
+  "overview": "The southernmost tip of India is not a single destination — it is a corridor of coastlines, palaces, temples, waterfalls, and backwaters compressed into a 100-kilometre stretch between Trivandrum and Kanyakumari. Most visitors see only the Vivekananda Rock Memorial and leave. Our circuits are designed to unfold the region in layers — from the 16th-century teak grandeur of Padmanabhapuram Palace to the uncrowded sands of Sothavilai Beach, from the musical pillars of Suchindram Temple to the engineered marvel of Mathur Aqueduct. Every route is driven by iWay's own drivers who know which approach roads flood during monsoon, which temple gates close for afternoon breaks, and which coastal stretches deliver the best sunset light.",
+  "spokeCards": [
+    {
+      "title": "Trivandrum to Kanyakumari — 3-Day Coastal Circuit",
+      "slug": "trivandrum-kanyakumari-3-days",
+      "tagline": "The flagship itinerary: 90 km of heritage, waterfalls, and India's southernmost tip.",
+      "image": "/images/local/trivandrum-kanyakumari-thumb.webp",
+      "imageAlt": "Padmanabhapuram Palace wooden facade with intricate carved details"
+    },
+    {
+      "title": "Kanyakumari Sightseeing",
+      "slug": "kanyakumari-sightseeing",
+      "tagline": "Vivekananda Rock, Thiruvalluvar Statue, Kumari Amman Temple, and the three-ocean confluence.",
+      "image": "/images/local/kanyakumari-sightseeing-thumb.webp",
+      "imageAlt": "Vivekananda Rock Memorial and Thiruvalluvar Statue viewed from the Kanyakumari shore"
+    },
+    {
+      "title": "Trivandrum Heritage Tour",
+      "slug": "trivandrum-heritage",
+      "tagline": "Padmanabhaswamy Temple, Napier Museum, Sri Chitra Art Gallery, and Poovar backwaters.",
+      "image": "/images/local/trivandrum-heritage-thumb.webp",
+      "imageAlt": "Ornate Dravidian gopuram of the Sree Padmanabhaswamy Temple in Trivandrum"
+    },
+    {
+      "title": "Hidden Gems of the Deep South",
+      "slug": "hidden-gems",
+      "tagline": "Vattakottai Fort, Mathur Aqueduct, Sothavilai Beach, and Lemur Beach — places most tourists miss.",
+      "image": "/images/local/hidden-gems-thumb.webp",
+      "imageAlt": "Mathur Aqueduct spanning a deep valley surrounded by dense tropical vegetation"
+    },
+    {
+      "title": "Temple Pilgrimages",
+      "slug": "temple-pilgrimages",
+      "tagline": "Suchindram, Nagaraja, Bhagavathy Amman, and the sacred Shakthi Peetha circuit.",
+      "image": "/images/local/temple-pilgrimages-thumb.webp",
+      "imageAlt": "Towering gopuram of the Suchindram Thanumalayan Temple against a clear blue sky"
+    },
+    {
+      "title": "Eco-Tourism & Nature Trails",
+      "slug": "eco-nature-trails",
+      "tagline": "Poovar Backwaters, Neyyar Wildlife Sanctuary, and Thirparappu Waterfalls.",
+      "image": "/images/local/eco-nature-thumb.webp",
+      "imageAlt": "Houseboat gliding through the Poovar Backwaters where the Neyyar River meets the Arabian Sea"
+    },
+    {
+      "title": "South India Cuisine Guide",
+      "slug": "cuisine-guide",
+      "tagline": "Chettinad chicken, appam and stew, fresh Kanyakumari coast seafood, and where to find them.",
+      "image": "/images/local/cuisine-thumb.webp",
+      "imageAlt": "Traditional Kerala sadya feast served on a banana leaf with rice, sambar, and assorted sides"
+    },
+    {
+      "title": "Local Transport FAQ",
+      "slug": "faq",
+      "tagline": "Cab rates, Tempo Traveller capacities, airport transfer timings, and booking logistics.",
+      "image": "/images/local/faq-thumb.webp",
+      "imageAlt": "iWay Tourism Innova Crysta on the coastal road approaching Kanyakumari town"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I get from Trivandrum Airport to Kanyakumari?",
+      "answer": "The most comfortable option is a private cab transfer with iWay Tourism. The drive from Trivandrum International Airport (TRV) to Kanyakumari town covers approximately 95 km via the NH-66 through Parasala and Nagercoil, taking 2 to 2.5 hours depending on traffic. We offer this in Innova Crysta for small groups or Tempo Traveller for larger parties."
+    },
+    {
+      "question": "What is the best time of year to visit Kanyakumari?",
+      "answer": "October to March offers the most pleasant weather — clear skies, moderate humidity, and calm seas ideal for the Vivekananda Rock ferry crossing. April and May are hot but good for waterfall visits after pre-monsoon showers. June to September brings the southwest monsoon with heavy rainfall; some outdoor attractions may be less accessible, but temple pilgrimages remain viable year-round."
+    }
+  ]
+}

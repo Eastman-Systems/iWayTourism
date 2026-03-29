@@ -1,0 +1,172 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Dubai Tour Package from Trivandrum — 5N/6D from ₹40,000 | iWay Tourism",
+    "description": "Book Dubai packages from Trivandrum. Burj Khalifa, desert safari, Marina cruise, Dubai Mall shopping. 5N/6D from ₹40,000 per person with flights, visa, hotels, and transfers.",
+    "ogImage": "/images/hero/dubai-og.webp"
+  },
+  "hero": {
+    "heading": "Dubai — Luxury, Adventure & Shopping in the City of Gold",
+    "subheading": "Desert safaris at sunset, Marina dinner cruises, the Burj Khalifa observation deck, and world-class shopping — the premier short-haul luxury destination from Trivandrum.",
+    "image": "/images/hero/dubai-hero.webp",
+    "imageAlt": "Dubai Marina skyline at twilight with illuminated skyscrapers reflecting in the waterway and a dinner cruise boat passing"
+  },
+  "quickAnswer": {
+    "question": "How much does a Dubai package cost from Trivandrum?",
+    "answer": "iWay Tourism's Dubai packages from Trivandrum start at ₹40,000 per person for a budget 4N/5D trip covering city highlights. The standard 5N/6D package with desert safari, Marina cruise, and premium hotel ranges from ₹50,000–₹60,000. All packages include return flights from TRV, UAE visa processing, hotel accommodation, airport transfers, sightseeing, and a dedicated coordinator."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Dubai is the closest luxury international destination for South Indians — a 4-hour direct flight from Trivandrum that deposits you into a city engineered for spectacle. The world's tallest building, the world's largest shopping mall, man-made islands visible from space, and a desert that transforms into an adventure playground at sunset. For high-net-worth travellers from the Kanyakumari and Trivandrum corridor, Dubai offers accessible opulence without the 12-hour flights that European luxury demands.",
+    "iWay Tourism's Dubai packages are built to maximise the experience within 5–6 days. We avoid the trap of cramming everything into a schedule that leaves you exhausted. Instead, the itinerary alternates high-energy experiences (desert safari, theme parks, shopping marathons at Dubai Mall) with deliberate downtime (pool mornings at the hotel, leisurely Marina walks, an unhurried dinner cruise). The result is a trip that feels luxurious in pace, not just in setting."
+  ],
+  "pricingTiers": [
+    {
+      "name": "City Explorer — 4N/5D",
+      "duration": "4 Nights / 5 Days",
+      "priceFrom": 40000,
+      "priceTo": 50000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Dubai (DXB)",
+        "UAE tourist visa processing",
+        "3-star / 4-star hotel accommodation (twin sharing)",
+        "Airport transfers",
+        "Dubai city tour: Burj Khalifa (124th floor observation deck), Dubai Mall, Dubai Frame, Old Dubai (Gold Souk, Spice Souk, Abra creek crossing)",
+        "Half-day desert safari (dune bashing, camel ride, BBQ dinner, belly dance show)",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner (except desert safari BBQ)",
+        "Marina dinner cruise (available as add-on)",
+        "Theme park tickets (available as add-on)",
+        "Travel insurance",
+        "Personal expenses and shopping"
+      ],
+      "highlights": [
+        "Core Dubai highlights in a focused 5-day format",
+        "Desert safari with dune bashing and BBQ dinner included",
+        "Burj Khalifa 124th floor observation deck entry included",
+        "Old Dubai heritage walk for cultural contrast"
+      ]
+    },
+    {
+      "name": "Premium Experience — 5N/6D",
+      "duration": "5 Nights / 6 Days",
+      "priceFrom": 50000,
+      "priceTo": 60000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Dubai (DXB)",
+        "UAE tourist visa processing",
+        "4-star hotel accommodation in Marina or Downtown district (twin sharing)",
+        "All transfers",
+        "Full city tour: Burj Khalifa At The Top, Dubai Mall with aquarium entry, Dubai Frame, Jumeirah Mosque, Old Dubai",
+        "Full-day desert safari: premium camp, dune bashing, sandboarding, camel ride, henna painting, BBQ dinner with live entertainment",
+        "Dhow cruise dinner on Dubai Marina (2-hour cruise with buffet)",
+        "Half-day Abu Dhabi excursion: Sheikh Zayed Grand Mosque, Corniche waterfront",
+        "Daily breakfast + 2 dinners (desert safari + Marina cruise)"
+      ],
+      "excludes": [
+        "Remaining lunches and dinners",
+        "Theme park tickets (Dubai Parks, IMG Worlds — available as add-on)",
+        "Miracle Garden / Global Village (seasonal, available as add-on)",
+        "Travel insurance",
+        "Personal expenses and shopping"
+      ],
+      "highlights": [
+        "Marina or Downtown hotel location — walking distance to key attractions",
+        "Abu Dhabi day trip: Sheikh Zayed Mosque is alone worth the excursion",
+        "Dhow cruise dinner on the Marina — evening city skyline views",
+        "Premium desert safari with sandboarding and henna"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Dubai Marina Evening",
+      "description": "Arrive at Dubai International Airport (DXB). Transfer to hotel. Evening walk along the Dubai Marina waterfront — the world's largest man-made marina, lined with restaurants, cafés, and illuminated towers."
+    },
+    {
+      "day": "Day 2",
+      "title": "Burj Khalifa, Dubai Mall & Old Dubai",
+      "description": "Morning visit to Burj Khalifa's At The Top observation deck at 452 metres. Dubai Mall for the aquarium, ice rink, and shopping. Afternoon: Old Dubai — cross Dubai Creek on a traditional abra boat (₹15), explore the Gold Souk and Spice Souk."
+    },
+    {
+      "day": "Day 3",
+      "title": "Desert Safari Adventure",
+      "description": "Morning at leisure (pool, beach, or shopping). Afternoon pickup for the desert safari — 45-minute drive to the Dubai desert conservation reserve. Dune bashing in a 4x4, sandboarding, camel rides, henna painting, and a BBQ dinner under the stars with live belly dance entertainment."
+    },
+    {
+      "day": "Day 4",
+      "title": "Abu Dhabi Day Trip",
+      "description": "Drive to Abu Dhabi (1.5 hours). Visit the Sheikh Zayed Grand Mosque — one of the world's largest and most architecturally stunning mosques, clad entirely in white marble. Walk the Corniche waterfront. Return to Dubai for the evening Dhow cruise dinner on the Marina."
+    },
+    {
+      "day": "Day 5",
+      "title": "Free Day & Departure",
+      "description": "Morning at leisure — last-minute shopping at Dubai Mall or Mall of the Emirates (indoor ski slope). Airport transfer for return flight to Trivandrum."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Dubai (UAE) Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Dubai?",
+      "answer": "Yes. Indian passport holders require a tourist visa for the UAE. The visa is processed electronically — no embassy visit or passport submission required. Processing takes 3–5 working days. iWay Tourism handles the complete visa application as part of the package, including form preparation, document upload, and status tracking."
+    },
+    "body": [
+      "The UAE tourist visa for Indian nationals requires: valid passport (minimum 6 months validity), passport-size photograph against white background, confirmed return flight booking, hotel reservation, and proof of financial means (bank statement or salary certificate).",
+      "Visa types: 30-day single entry (standard for tourism), 60-day multiple entry (for extended visits). The 30-day visa is included in iWay's standard packages.",
+      "Processing: 3–5 working days. Express processing (24–48 hours) is available at additional cost. iWay Tourism submits the application and tracks approval."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Dubai",
+    "quickAnswer": {
+      "question": "When is the best time to visit Dubai from India?",
+      "answer": "November to March is the ideal period — temperatures range from 20–28°C, outdoor activities like desert safaris and Marina walks are comfortable, and the Dubai Shopping Festival (January–February) offers significant retail discounts. Avoid June–August when temperatures exceed 45°C and outdoor activity is severely limited."
+    },
+    "body": "Dubai's climate is desert — hot summers and mild winters. November to March is peak tourist season for good reason: the weather is perfect for outdoor attractions, hotel pools, and desert excursions. The Dubai Shopping Festival in January–February adds retail appeal. April and October are shoulder months with slightly warmer weather but lower hotel prices. From June to August, temperatures exceed 45°C and outdoor activity is confined to early mornings and late evenings — but indoor attractions (malls, aquariums, theme parks) are fully air-conditioned and tourist crowds are minimal."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Dubai with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "4-Hour Direct Flight from TRV",
+        "description": "Multiple airlines operate direct Trivandrum-Dubai flights daily. We book the best combination of timing and price — no layovers, no connections. You are in Dubai by lunch."
+      },
+      {
+        "title": "Marina/Downtown Hotel Placement",
+        "description": "Our premium packages place you in the Marina or Downtown districts — walking distance to the Burj Khalifa, Dubai Mall, and the Marina waterfront. No 45-minute taxi rides from a remote hotel."
+      },
+      {
+        "title": "Abu Dhabi Included, Not an Afterthought",
+        "description": "The Sheikh Zayed Grand Mosque in Abu Dhabi is consistently rated the most awe-inspiring architectural experience in the UAE. Our premium package includes it as a full half-day excursion, not a rushed 2-hour stop."
+      },
+      {
+        "title": "Shopping Logistics Handled",
+        "description": "For clients on shopping-focused trips, our coordinator provides a pre-trip guide to Dubai Mall, Gold Souk, and Mall of the Emirates — including current offers, store maps, and the best times to avoid crowds."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is Dubai expensive for Indian travellers?",
+      "answer": "Dubai is mid-range to premium depending on your choices. Accommodation is the largest cost — 4-star hotels in Marina/Downtown run ₹6,000–₹12,000 per night (covered in iWay packages). Food ranges from ₹400–₹600 at food courts and casual restaurants to ₹2,000+ at fine dining. The metro is affordable (₹25–₹80 per ride). Shopping varies enormously — the Gold Souk offers competitive gold prices by weight. Overall, a Dubai trip is more expensive than Vietnam or Sri Lanka but offers a distinctly premium experience."
+    },
+    {
+      "question": "What dress code applies in Dubai?",
+      "answer": "Dubai is cosmopolitan and relaxed in tourist areas — Western clothing is normal at hotels, malls, and beaches. At the Sheikh Zayed Mosque (Abu Dhabi), women must cover their hair, arms, and legs; men must wear long trousers. Free abayas and sheila are provided at the mosque entrance. At beach clubs and pools, standard swimwear is acceptable. In Old Dubai and local markets, modest clothing (shoulders and knees covered) is respectful."
+    },
+    {
+      "question": "Can I combine Dubai with another destination?",
+      "answer": "Yes. The most popular combination is Dubai + Abu Dhabi (included in our premium package). For longer trips, Dubai + Oman (Muscat is 4 hours by road) or Dubai + Sri Lanka (connecting flights via Colombo) are excellent options. Contact iWay Tourism for custom multi-destination itineraries."
+    }
+  ]
+}

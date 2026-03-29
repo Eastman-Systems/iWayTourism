@@ -1,0 +1,137 @@
+{
+  "pageType": "fleet",
+  "seo": {
+    "title": "Cab Rental & Tempo Traveller Hire in Marthandam, Nagercoil & Trivandrum",
+    "description": "Rent Toyota Innova, 12/14/17/26-seater Tempo Travellers, and luxury buses for airport transfers, local sightseeing, weddings, and outstation trips across Kanyakumari and Trivandrum.",
+    "ogImage": "/images/hero/fleet-og.webp"
+  },
+  "hero": {
+    "heading": "Reliable Fleet Rentals Across Kanyakumari & Trivandrum",
+    "subheading": "Airport pickups from TRV, full-day local sightseeing, multi-day outstation trips, and wedding transport — maintained vehicles with experienced local drivers.",
+    "image": "/images/hero/fleet-hero.webp",
+    "imageAlt": "Row of iWay Tourism vehicles including Innova Crysta, Tempo Traveller, and mini bus parked at the Marthandam depot"
+  },
+  "quickAnswer": {
+    "question": "What vehicles does iWay Tourism offer for hire in Kanyakumari and Trivandrum?",
+    "answer": "iWay Tourism operates a fleet of Toyota Innova Crysta sedans, 12-seater, 14-seater, and 17-seater Tempo Travellers with pushback seats, and 26-seater mini buses. All vehicles are available for airport transfers from Trivandrum (TRV), local sightseeing, outstation trips, wedding transport, and corporate group travel across the Kanyakumari and Trivandrum districts."
+  },
+  "vehicles": [
+    {
+      "name": "Toyota Innova Crysta",
+      "type": "SUV / MUV",
+      "capacity": 7,
+      "image": "/images/fleet/innova-crysta.webp",
+      "imageAlt": "White Toyota Innova Crysta with leather interior available for hire at iWay Tourism Marthandam",
+      "features": [
+        "Air-conditioned cabin with leather seats",
+        "Spacious boot for luggage (3 large suitcases)",
+        "USB charging ports for passengers",
+        "Experienced driver familiar with Kanyakumari–Trivandrum routes"
+      ],
+      "idealFor": "Families of 4–6, airport transfers from Trivandrum (TRV), couple or small-group sightseeing, and corporate travel.",
+      "priceNote": "REPLACE:Starting from ₹X,XXX/day for local use. Contact us for outstation and multi-day rates."
+    },
+    {
+      "name": "12-Seater Tempo Traveller",
+      "type": "Tempo Traveller",
+      "capacity": 12,
+      "image": "/images/fleet/tempo-12.webp",
+      "imageAlt": "12-seater Tempo Traveller with pushback seats used for group tours from Marthandam",
+      "features": [
+        "Pushback reclining seats with individual armrests",
+        "Roof-mounted AC with adjustable vents",
+        "PA system and LED interior lighting",
+        "Overhead luggage rack and rear boot space"
+      ],
+      "idealFor": "Extended families, friend groups, temple pilgrimage circuits, and mid-size corporate outings across the Kanyakumari district.",
+      "priceNote": "REPLACE:Starting from ₹X,XXX/day. Includes driver, fuel for local limits, and tolls."
+    },
+    {
+      "name": "14-Seater Tempo Traveller",
+      "type": "Tempo Traveller",
+      "capacity": 14,
+      "image": "/images/fleet/tempo-14.webp",
+      "imageAlt": "14-seater Tempo Traveller parked near Padmanabhapuram Palace for a Kanyakumari group tour",
+      "features": [
+        "Pushback reclining seats with wider spacing than the 12-seater",
+        "Dual AC system for consistent cooling",
+        "Tinted windows with curtains for privacy",
+        "First-aid kit and fire extinguisher on board"
+      ],
+      "idealFor": "Wedding guest transport, multi-day pilgrimage tours (Suchindram, Nagaraja, Bhagavathy Amman Temple circuit), and school or college group outings.",
+      "priceNote": "REPLACE:Starting from ₹X,XXX/day. Multi-day and outstation rates available on request."
+    },
+    {
+      "name": "17-Seater Tempo Traveller",
+      "type": "Tempo Traveller",
+      "capacity": 17,
+      "image": "/images/fleet/tempo-17.webp",
+      "imageAlt": "17-seater Tempo Traveller on a scenic road near Thirparappu Falls in Kanyakumari district",
+      "features": [
+        "High-roof cabin with full standing height",
+        "Pushback seats with ample legroom",
+        "Large rear boot for group luggage",
+        "Experienced drivers for hill routes and outstation journeys"
+      ],
+      "idealFor": "Large family reunions, corporate team outings, Trivandrum–Kanyakumari multi-day circuits, and wedding logistics requiring larger group capacity.",
+      "priceNote": "REPLACE:Starting from ₹X,XXX/day. Contact for availability and custom itinerary pricing."
+    },
+    {
+      "name": "26-Seater Mini Bus",
+      "type": "Mini Bus",
+      "capacity": 26,
+      "image": "/images/fleet/minibus-26.webp",
+      "imageAlt": "26-seater AC mini bus used for corporate events and large group tours from iWay Tourism",
+      "features": [
+        "Full air-conditioning with driver-controlled climate system",
+        "Comfortable 2x2 seating with adequate legroom",
+        "PA system for guided tour narration",
+        "Spacious under-floor luggage compartment"
+      ],
+      "idealFor": "Corporate events, large wedding parties, institutional field trips, and community group pilgrimages across Tamil Nadu and Kerala.",
+      "priceNote": "REPLACE:Starting from ₹XX,XXX/day. Includes driver and fuel within agreed limits."
+    }
+  ],
+  "bookingProcess": {
+    "heading": "How to Book a Vehicle with iWay Tourism",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Tell Us Your Requirements",
+        "description": "Fill out the enquiry form below or call us directly. Let us know your travel dates, pickup location (Marthandam, Nagercoil, Trivandrum, or anywhere in between), group size, and whether you need a one-way transfer, full-day rental, or multi-day booking."
+      },
+      {
+        "step": 2,
+        "title": "Receive a Custom Quote",
+        "description": "Within 2 hours during business hours, our operations team will confirm vehicle availability and send you an all-inclusive quote covering the vehicle, driver, fuel (within agreed km limits), tolls, and parking. No hidden charges."
+      },
+      {
+        "step": 3,
+        "title": "Confirm and Go",
+        "description": "Confirm your booking with a simple advance payment. On the day of travel, your assigned driver will arrive at the designated pickup point 15 minutes early. You will receive the driver's name, phone number, and vehicle registration via WhatsApp."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should I book a Tempo Traveller in Marthandam?",
+      "answer": "For weekday travel, 2–3 days advance booking is usually sufficient. For weekends, festival periods (Pongal, Onam, Christmas), and wedding season (April–June), we recommend booking at least 7–10 days ahead. Peak-season availability for 17-seater and 26-seater vehicles fills up fastest."
+    },
+    {
+      "question": "Does the rental price include fuel and tolls?",
+      "answer": "Yes. All iWay Tourism vehicle quotes are all-inclusive — covering driver charges, fuel within the agreed kilometre limit, tolls, and parking. If you exceed the km limit on a multi-day trip, additional charges apply at a transparent per-km rate communicated upfront in the quote."
+    },
+    {
+      "question": "Can I book a one-way drop from Trivandrum Airport to Kanyakumari?",
+      "answer": "Absolutely. The Trivandrum Airport (TRV) to Kanyakumari one-way transfer covers approximately 95 km and takes about 2 to 2.5 hours depending on traffic through Parasala and Nagercoil. We offer this transfer in Innova Crysta (up to 6 passengers) or Tempo Traveller (groups of 8+). Return trips from Kanyakumari to TRV are also available."
+    },
+    {
+      "question": "Are your drivers experienced with the Kanyakumari–Trivandrum route?",
+      "answer": "All iWay drivers are locally based and have extensive experience with every major and minor route across the Kanyakumari and Trivandrum districts — including narrow hill roads to Thirparappu Falls, the Padmanabhapuram Palace approach from Thuckalay, and the coastal road to Vattakottai Fort. They also handle Trivandrum city traffic and airport terminal navigation daily."
+    },
+    {
+      "question": "Do you provide vehicles for weddings and functions?",
+      "answer": "Yes. Wedding and function transport is one of our core services. We provide decorated vehicles for the wedding couple, Tempo Travellers for guest shuttles between venues, and mini buses for large wedding parties. We coordinate multi-vehicle logistics — from guest pickup points across Nagercoil and Marthandam to the wedding hall and back — as a single, managed booking."
+    }
+  ]
+}

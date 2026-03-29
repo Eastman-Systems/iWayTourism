@@ -1,0 +1,30 @@
+{
+  "context": "https://schema.org",
+  "type": "HowTo",
+  "baseProperties": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "{{itineraryTitle}}",
+    "description": "{{itineraryDescription}}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{heroImage}}"
+    },
+    "totalTime": "{{totalDuration}}",
+    "estimatedCost": {
+      "@type": "MonetaryAmount",
+      "currency": "INR",
+      "value": "{{estimatedCost}}"
+    },
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": "{{stepNumber}}",
+        "name": "{{stepTitle}}",
+        "text": "{{stepDescription}}",
+        "image": "{{stepImage}}",
+        "url": "{{pageUrl}}#day-{{stepNumber}}"
+      }
+    ]
+  }
+}

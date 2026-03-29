@@ -1,0 +1,31 @@
+{
+  "context": "https://schema.org",
+  "type": "WebApplication",
+  "baseProperties": {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "International Travel Budget Calculator — iWay Tourism",
+    "description": "Estimate the cost of your international holiday from Trivandrum. Compare budget, standard, and premium packages across Singapore, Malaysia, Bali, Vietnam, Sri Lanka, Dubai, and Thailand.",
+    "url": "{{siteUrl}}/tools/budget-calculator",
+    "applicationCategory": "TravelApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "iWay Tourism",
+      "url": "{{siteUrl}}"
+    },
+    "featureList": [
+      "Destination cost comparison",
+      "Budget, standard, and premium tier estimates",
+      "Visa fee and flight cost baselines",
+      "Group size scaling",
+      "Exportable summary"
+    ]
+  }
+}

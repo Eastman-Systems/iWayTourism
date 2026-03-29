@@ -1,0 +1,175 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Sri Lanka Tour Package from Trivandrum — 4N/5D from ₹20,000 | Visa-Free | iWay Tourism",
+    "description": "Book Sri Lanka packages from Trivandrum. Visa-free for Indians. Yala safaris, Nuwara Eliya tea estates, Kandy-Ella blue train. 4N/5D from ₹20,000 per person with flights and hotels.",
+    "ogImage": "/images/hero/sri-lanka-og.webp"
+  },
+  "hero": {
+    "heading": "Sri Lanka Express — The Closest International Escape from Trivandrum",
+    "subheading": "Visa-free entry, 1.5-hour flight from TRV, favourable exchange rate, and an island packed with safaris, tea estates, ancient temples, and golden beaches.",
+    "image": "/images/hero/sri-lanka-hero.webp",
+    "imageAlt": "Blue train crossing the Nine Arches Bridge surrounded by lush tea plantations in Ella, Sri Lanka"
+  },
+  "quickAnswer": {
+    "question": "How much does a Sri Lanka package cost from Trivandrum?",
+    "answer": "iWay Tourism's Sri Lanka packages from Trivandrum start at ₹20,000 per person for a budget 4N/5D express trip covering Colombo and Kandy. The standard 5N/6D package including Nuwara Eliya, the Kandy-Ella train, and a Yala safari ranges from ₹28,000–₹35,000. Sri Lanka is currently visa-free for Indian passport holders, and the favourable INR-to-LKR exchange rate makes it the most affordable international destination available."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Sri Lanka occupies a unique sweet spot in 2026's travel landscape: it is the closest international destination from Trivandrum (1.5 hours by air), it requires no visa for Indian passport holders, and the INR-to-LKR exchange rate means your Indian rupee stretches further here than anywhere else in the region. A quality restaurant meal costs ₹300–500. A comfortable 3-star hotel room runs ₹2,000–3,500 per night. A full-day private car with driver costs ₹3,000–4,500.",
+    "But Sri Lanka is not just cheap — it is remarkably diverse for an island its size. Within a 5-day circuit, you can visit ancient Buddhist temples in Kandy, ride one of the world's most scenic train routes through tea-covered highlands to Ella, watch elephants in the wild at Yala National Park, walk through a 17th-century Dutch colonial fort in Galle, and swim off the golden beaches of Bentota. iWay Tourism's Sri Lanka packages are designed to capture this diversity without exhausting you — because the roads are winding, the scenery demands stops, and rushing defeats the purpose."
+  ],
+  "pricingTiers": [
+    {
+      "name": "Budget Express — 4N/5D",
+      "duration": "4 Nights / 5 Days",
+      "priceFrom": 20000,
+      "priceTo": 28000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Colombo (CMB)",
+        "No visa required — visa-free entry for Indian passport holders",
+        "3-star hotel accommodation (twin sharing)",
+        "Airport transfers and inter-city transport with private driver",
+        "Colombo city tour: Gangaramaya Temple, Pettah Market, Galle Face Green",
+        "Kandy full day: Temple of the Tooth, Peradeniya Royal Botanical Gardens",
+        "Pinnawala Elephant Orphanage visit",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner",
+        "Nuwara Eliya and Ella extension",
+        "Yala safari (available as add-on)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Lowest international package price in iWay's portfolio",
+        "Visa-free — no paperwork, no processing time",
+        "1.5-hour direct flight from Trivandrum",
+        "Ideal for a first international trip or long weekend escape"
+      ]
+    },
+    {
+      "name": "Standard Heritage & Wildlife — 5N/6D",
+      "duration": "5 Nights / 6 Days",
+      "priceFrom": 28000,
+      "priceTo": 35000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) to Colombo (CMB)",
+        "Visa-free entry",
+        "3-star superior hotel accommodation (twin sharing)",
+        "All inter-city transfers with private driver-guide",
+        "Colombo city tour",
+        "Kandy: Temple of the Tooth, cultural dance performance, botanical gardens",
+        "Nuwara Eliya: tea factory visit, Gregory Lake, colonial-era town walk",
+        "Kandy-to-Ella scenic train journey (reserved seats)",
+        "Half-day Yala National Park jeep safari",
+        "Bentota or Galle beach stop (time permitting)",
+        "Daily breakfast + 1 dinner"
+      ],
+      "excludes": [
+        "Remaining lunches and dinners",
+        "Sigiriya Rock Fortress (available as add-on, requires extra day)",
+        "Water sports at Bentota",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "The iconic Kandy-to-Ella train — one of the world's most scenic rail journeys",
+        "Yala safari — leopards, elephants, crocodiles in the wild",
+        "Nuwara Eliya tea highlands — colonial architecture and cool air",
+        "Complete Sri Lanka experience in under a week"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1",
+      "title": "Colombo — Arrival & City Tour",
+      "description": "Arrive at Bandaranaike Airport (CMB). Transfer to Colombo (45 minutes). Visit Gangaramaya Temple, the colourful Pettah Market, and the oceanfront promenade at Galle Face Green. Evening at leisure."
+    },
+    {
+      "day": "Day 2",
+      "title": "Kandy — The Hill Capital",
+      "description": "Drive to Kandy (3.5 hours through scenic hill country). Visit the Temple of the Sacred Tooth Relic — Sri Lanka's most revered Buddhist shrine. Evening Kandyan cultural dance performance. Peradeniya Botanical Gardens visit."
+    },
+    {
+      "day": "Day 3",
+      "title": "Nuwara Eliya — Little England in the Highlands",
+      "description": "Drive to Nuwara Eliya (2.5 hours). Visit a working tea factory to see the plucking-to-packing process. Walk the colonial-era town centre. Gregory Lake boating. The temperature drops to 10–15°C — a refreshing contrast to coastal heat."
+    },
+    {
+      "day": "Day 4",
+      "title": "The Blue Train to Ella & Yala Safari",
+      "description": "Board the famous Kandy-Ella train for the most scenic rail journey in Asia — 7 hours through tea plantations, across the Nine Arches Bridge, past waterfalls and misty valleys. Transfer from Ella to Yala for an afternoon jeep safari. Leopards, elephants, sloth bears, and crocodiles."
+    },
+    {
+      "day": "Day 5",
+      "title": "Coastal Stop & Return to Colombo",
+      "description": "Drive to Bentota or Galle (3 hours from Yala). Beach time at Bentota's golden coast or a walk through the 17th-century Dutch colonial fort at Galle. Continue to Colombo for overnight."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Sri Lanka Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Sri Lanka?",
+      "answer": "As of 2026, Indian passport holders enjoy visa-free entry to Sri Lanka for tourism stays up to 30 days. No e-visa, no visa-on-arrival fee, no advance application. Present your valid passport and return flight ticket at Bandaranaike Airport immigration. This makes Sri Lanka the simplest international destination to visit from India."
+    },
+    "body": [
+      "The visa-free policy for Indian nationals has been in effect since 2024 and continues through 2026. Requirements at entry: valid passport with minimum 6 months validity and confirmed return flight ticket. No photograph or application form needed.",
+      "For stays exceeding 30 days or for purposes other than tourism, a separate visa must be applied for through the Sri Lankan immigration portal.",
+      "iWay Tourism monitors visa policy changes and will notify you immediately if any change occurs between booking and departure."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Sri Lanka",
+    "quickAnswer": {
+      "question": "When is the best time to visit Sri Lanka from Trivandrum?",
+      "answer": "The west and south coasts (Colombo, Galle, Bentota) and the hill country (Kandy, Nuwara Eliya, Ella) are best from December to March — dry weather, clear skies, and calm seas. The east coast peaks from May to September. For iWay's standard circuit covering the west coast and hill country, January to March is the ideal window."
+    },
+    "body": "Sri Lanka has two monsoon seasons affecting different coasts: the southwest monsoon (May–September) hits the west and south coasts, while the northeast monsoon (October–January) affects the east coast. The hill country can receive rain from either system. For the standard Colombo–Kandy–Nuwara Eliya–Ella–South Coast circuit, December to March offers the driest weather. However, Sri Lanka is a year-round destination — the inter-monsoon periods (April and October–November) often provide pleasant weather with fewer tourists and lower prices."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Sri Lanka with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "1.5-Hour Direct Flight from Trivandrum",
+        "description": "Colombo is closer to Trivandrum than most Indian metro cities. The short flight means you spend time in the destination, not in transit. We book morning departures so you have a full first day in Sri Lanka."
+      },
+      {
+        "title": "No Visa Hassle — Zero Paperwork",
+        "description": "Unlike every other international destination, Sri Lanka requires no visa application, no processing time, and no fee for Indian passport holders. Pack your passport and go."
+      },
+      {
+        "title": "Your Rupee Goes Further",
+        "description": "The INR-to-LKR exchange rate in 2026 means a quality Sri Lanka trip costs less than a comparable domestic trip to Ladakh or Andaman. We optimise every package element to take advantage of this."
+      },
+      {
+        "title": "Reserved Train Seats Guaranteed",
+        "description": "The Kandy-Ella train is Sri Lanka's most iconic experience — and its most overbooked. iWay reserves window seats in the observation carriage as standard for our packages. Walk-in travellers frequently stand for the entire 7-hour journey."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can I use Indian rupees in Sri Lanka?",
+      "answer": "Indian rupees are not accepted for transactions in Sri Lanka. You need Sri Lankan Rupees (LKR). Exchange currency at the airport on arrival (rates are competitive at Bandaranaike Airport) or withdraw LKR from ATMs using your Indian debit/credit card. As of early 2026, 1 INR ≈ 3.5 LKR approximately, making Sri Lanka extremely affordable."
+    },
+    {
+      "question": "Is the Kandy-Ella train journey really worth 7 hours?",
+      "answer": "Absolutely — and this is not a subjective opinion. The route passes through tea plantations at elevation, crosses the Nine Arches Bridge (one of the most photographed railway bridges in the world), tunnels through mountain passes, and offers continuous views of waterfalls and misty valleys. Clients consistently rate it as the single best experience of their Sri Lanka trip. We reserve seats so you are comfortable, and the 7 hours pass remarkably quickly."
+    },
+    {
+      "question": "Can I add Sigiriya to the itinerary?",
+      "answer": "Yes. Sigiriya Rock Fortress — the ancient 5th-century palace built atop a 200-metre granite column — is a highlight but requires an additional day due to its location in the Cultural Triangle (4 hours north of Kandy). We offer a 7N/8D extended itinerary that adds Sigiriya, Dambulla Cave Temple, and Anuradhapura for approximately ₹8,000–₹12,000 additional per person."
+    }
+  ]
+}

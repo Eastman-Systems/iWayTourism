@@ -1,0 +1,85 @@
+{
+  "pageType": "reviews",
+  "seo": {
+    "title": "Client Reviews — iWay Tourism, Marthandam | Real Travel Stories",
+    "description": "Read what our clients say about their local tours, fleet rentals, and international holiday packages. Verified reviews from travellers across Kanyakumari and Trivandrum.",
+    "ogImage": "/images/hero/reviews-og.webp"
+  },
+  "hero": {
+    "heading": "What Our Travellers Say",
+    "subheading": "Real stories from families, honeymooners, and corporate groups who booked with iWay Tourism. No curated highlights — every review is from a verified client.",
+    "image": "/images/hero/reviews-hero.webp",
+    "imageAlt": "Happy family group posing in front of a Tempo Traveller at Kanyakumari beach after an iWay Tourism local tour"
+  },
+  "aggregateRating": {
+    "ratingValue": 4.9,
+    "reviewCount": 0,
+    "bestRating": 5
+  },
+  "testimonials": [
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Nagercoil",
+      "tripType": "Singapore & Malaysia — 7N/8D Family Package",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: ease of visa processing handled by iWay, flight coordination from Trivandrum Airport, hotel quality, day-by-day itinerary satisfaction, coordinator responsiveness during the trip, and overall value for money compared to larger agencies in Nagercoil.",
+      "rating": 5,
+      "date": "REPLACE:2026-02"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Marthandam",
+      "tripType": "Trivandrum–Kanyakumari 3-Day Local Circuit",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: vehicle condition (Innova Crysta), driver knowledge of routes including the Mathur Aqueduct and Padmanabhapuram Palace, punctual airport pickup from Trivandrum, and family-friendly pacing of the itinerary.",
+      "rating": 5,
+      "date": "REPLACE:2025-12"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Trivandrum",
+      "tripType": "Bali Honeymoon — 6N/7D",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: the private pool villa experience, Ubud rice terrace visit, surprise dinner arrangement, and how iWay's Trivandrum-based coordination made the honeymoon stress-free compared to booking through an online portal.",
+      "rating": 5,
+      "date": "REPLACE:2026-01"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Thuckalay",
+      "tripType": "12-Seater Tempo Traveller — Wedding Guest Transport",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: multiple vehicle coordination for wedding, on-time arrival at all pickup points in Nagercoil and Marthandam, decorated vehicle for the couple, driver professionalism, and how the logistics were handled as a single managed booking.",
+      "rating": 5,
+      "date": "REPLACE:2026-03"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Colachel",
+      "tripType": "Vietnam Budget Adventure — 6N/7D",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: affordability of the Vietnam package, Ha Long Bay overnight cruise experience, ease of e-visa processing through iWay, quality of hotels relative to the budget tier, and personal attention from the iWay coordinator.",
+      "rating": 5,
+      "date": "REPLACE:2026-02"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Kanyakumari",
+      "tripType": "Sri Lanka Express — 4N/5D Family Trip",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: visa-free entry convenience for Indian passport holders, the Kandy-to-Ella train experience, Yala safari highlights, excellent value driven by favourable INR-to-LKR exchange rate, and iWay's end-to-end handling from Trivandrum Airport departure to return.",
+      "rating": 5,
+      "date": "REPLACE:2025-11"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Parasala",
+      "tripType": "Dubai Luxury & Shopping — 5N/6D",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: premium hotel quality, desert safari experience, Marina dinner cruise, shopping logistics at Dubai Mall, and how iWay's package compared favourably to quotes from larger agencies in Trivandrum city.",
+      "rating": 5,
+      "date": "REPLACE:2026-01"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Nagercoil",
+      "tripType": "Corporate Group — 26-Seater Mini Bus, 2-Day Outstation",
+      "quote": "REPLACE:Detailed testimonial (3–5 sentences). Should mention: corporate booking process, vehicle comfort for the team, driver professionalism on the outstation route, punctuality, and centralized billing that simplified expense reporting.",
+      "rating": 4,
+      "date": "REPLACE:2025-10"
+    }
+  ]
+}

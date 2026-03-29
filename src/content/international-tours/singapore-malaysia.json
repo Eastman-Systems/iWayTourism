@@ -1,0 +1,205 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Singapore & Malaysia Tour Package from Trivandrum — 4N to 10N | iWay Tourism",
+    "description": "Book Singapore & Malaysia combo packages from Trivandrum Airport. Budget 4N/5D from ₹45,000 or premium 9N/10D with Genting cruise from ₹1,30,000. Flights, visa, hotels included.",
+    "ogImage": "/images/hero/singapore-malaysia-og.webp"
+  },
+  "hero": {
+    "heading": "Singapore & Malaysia — The Ultimate Dual-Country Experience",
+    "subheading": "Urban skylines, highland retreats, island thrills, and cultural depth across two nations — with flights from Trivandrum, visa handling, and a dedicated coordinator.",
+    "image": "/images/hero/singapore-malaysia-hero.webp",
+    "imageAlt": "Marina Bay Sands infinity pool overlooking the Singapore skyline at sunset with the Supertree Grove in the background"
+  },
+  "quickAnswer": {
+    "question": "How much does a Singapore-Malaysia package cost from Trivandrum?",
+    "answer": "iWay Tourism's Singapore-Malaysia combo packages from Trivandrum Airport start at ₹45,000 per person for a budget 4N/5D express trip covering core city highlights. The standard 7N/8D package ranges from ₹75,000–₹95,000 including Genting Highlands and Sentosa Island. Premium 9N/10D packages with luxury cruises and 4-star hotels range from ₹1,00,000–₹1,34,000+. All packages include return flights, visa, hotels, transfers, and sightseeing."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Singapore and Malaysia remain the most requested international combo package from South India for good reason — they are geographically adjacent, logistically seamless, and offer contrasting experiences that complement each other perfectly. Singapore delivers futuristic urban design, world-class theme parks, and immaculate public infrastructure. Malaysia offers cultural depth through the Batu Caves and Kuala Lumpur's Malay-Chinese-Indian heritage, the cool highland air of Genting and Cameron Highlands, and a food culture that South Indian travellers immediately connect with.",
+    "What makes iWay Tourism's Singapore-Malaysia packages different from the aggregator templates is the routing. We fly you from Trivandrum (TRV) — no connecting flight through Delhi or Mumbai. We handle the Singapore and Malaysia visas as a combined submission. We design the itinerary so the border crossing between Singapore and Malaysia (via the Johor Bahru causeway or a domestic flight) happens at the midpoint of the trip, not as a rushed last-day transfer. And every group gets a dedicated coordinator reachable by WhatsApp throughout the trip."
+  ],
+  "pricingTiers": [
+    {
+      "name": "Budget Express — 4N/5D",
+      "duration": "4 Nights / 5 Days",
+      "priceFrom": 45000,
+      "priceTo": 65000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV)",
+        "Singapore visa processing",
+        "3-star hotel accommodation (twin sharing)",
+        "Airport transfers in Singapore and Malaysia",
+        "City tour: Marina Bay Sands area, Merlion Park, Chinatown, Little India",
+        "Half-day Sentosa Island (cable car + beach)",
+        "KL city tour: Petronas Towers view, Batu Caves, Central Market",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner",
+        "Universal Studios tickets (available as add-on)",
+        "Genting Highlands excursion (available as add-on)",
+        "Travel insurance",
+        "Personal expenses and shopping"
+      ],
+      "highlights": [
+        "Core city highlights of both countries in 5 days",
+        "Ideal for first-time international travellers on a tight budget",
+        "Border crossing via Johor Bahru causeway included"
+      ]
+    },
+    {
+      "name": "Standard Leisure — 7N/8D",
+      "duration": "7 Nights / 8 Days",
+      "priceFrom": 75000,
+      "priceTo": 95000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV)",
+        "Singapore and Malaysia visa processing",
+        "3-star superior / 4-star hotel accommodation (twin sharing)",
+        "All airport and inter-city transfers",
+        "Full Singapore city tour (2 days): Marina Bay Sands, Gardens by the Bay, Merlion, Chinatown, Little India, Orchard Road",
+        "Full-day Sentosa Island: Universal Studios OR S.E.A. Aquarium + cable car + beach",
+        "Night Safari Singapore",
+        "Full KL city tour: Petronas Towers, Batu Caves, Central Market, Jalan Alor food street",
+        "Genting Highlands full-day excursion (cable car + indoor theme park)",
+        "Daily breakfast + 2 dinners"
+      ],
+      "excludes": [
+        "Most lunches and remaining dinners",
+        "Optional Genting Dream Cruise upgrade",
+        "Travel insurance",
+        "Personal expenses and shopping"
+      ],
+      "highlights": [
+        "Balanced pace — no rushed days",
+        "Genting Highlands included as standard",
+        "Night Safari for a unique evening experience",
+        "Choice between Universal Studios and S.E.A. Aquarium"
+      ]
+    },
+    {
+      "name": "Premium Cruise — 9N/10D",
+      "duration": "9 Nights / 10 Days",
+      "priceFrom": 100000,
+      "priceTo": 134000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV)",
+        "Singapore and Malaysia visa processing",
+        "4-star hotel accommodation (twin sharing)",
+        "All airport and inter-city transfers",
+        "Full Singapore city tour (2 days) + Sentosa Island full access",
+        "Universal Studios Singapore full-day",
+        "Night Safari Singapore",
+        "2N/3D Genting Dream Cruise OR Royal Caribbean cruise (interior cabin)",
+        "Full KL city tour + Batu Caves + Genting Highlands",
+        "Cameron Highlands OR Malacca day trip",
+        "Daily breakfast + 4 dinners + all cruise meals"
+      ],
+      "excludes": [
+        "Cabin upgrades on cruise (balcony/suite)",
+        "Cruise shore excursion add-ons",
+        "Travel insurance",
+        "Personal expenses and shopping"
+      ],
+      "highlights": [
+        "The complete Singapore-Malaysia experience",
+        "Luxury cruise included as standard",
+        "Cameron Highlands tea estates or historic Malacca",
+        "Premium hotels throughout"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1–2",
+      "title": "Singapore City & Gardens by the Bay",
+      "description": "Arrive at Changi Airport. Explore the Marina Bay Sands observation deck, the Supertree Grove light show at Gardens by the Bay, and the cultural quarters of Chinatown and Little India. Evening at Clarke Quay riverside."
+    },
+    {
+      "day": "Day 3",
+      "title": "Sentosa Island",
+      "description": "Full day at Sentosa — Universal Studios Singapore, the S.E.A. Aquarium, cable car ride, and Palawan Beach. Evening at Resorts World for dining."
+    },
+    {
+      "day": "Day 4",
+      "title": "Singapore Night Safari & Transfer to Malaysia",
+      "description": "Morning free for Orchard Road shopping. Afternoon Night Safari — the world's first nocturnal wildlife park. Evening transfer to Malaysia via the Johor Bahru causeway or domestic flight to Kuala Lumpur."
+    },
+    {
+      "day": "Day 5–6",
+      "title": "Kuala Lumpur & Batu Caves",
+      "description": "Petronas Twin Towers (view deck or KLCC Park), the colourful 272-step staircase of Batu Caves, Central Market for handicrafts, and Jalan Alor for Malaysia's legendary street food scene."
+    },
+    {
+      "day": "Day 7",
+      "title": "Genting Highlands",
+      "description": "Cable car ascent to Genting Highlands at 1,800 metres — cool mountain air, Skytropolis indoor theme park, and the casino complex (for adults). Return to KL for evening departure or continue to cruise embarkation."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Singapore & Malaysia Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Singapore and Malaysia?",
+      "answer": "Yes, Indian passport holders require a visa for both Singapore and Malaysia. Singapore uses an electronic visa (e-visa) system that iWay processes in 3–5 working days. Malaysia requires a separate eNTRI or eVISA depending on the travel purpose, processed in 2–4 working days. Both visa applications are included in every iWay Tourism package — we handle the forms, document preparation, and submission."
+    },
+    "body": [
+      "Singapore e-visa requirements: valid passport (minimum 6 months validity), completed application form, recent passport-size photograph, confirmed return flight booking, and proof of hotel reservation. Processing time: 3–5 working days. Cost: included in the package.",
+      "Malaysia eNTRI/eVISA requirements: valid passport, application form, photograph, flight booking, and hotel confirmation. Processing time: 2–4 working days. The eNTRI is simpler and suitable for tourism stays under 15 days. Cost: included in the package.",
+      "iWay Tourism submits both visa applications simultaneously after receiving your passport copies and photographs. We track the status and notify you of approval. In the rare event of a rejection, we guide you through the reapplication process."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Singapore & Malaysia",
+    "quickAnswer": {
+      "question": "When is the best time to visit Singapore and Malaysia from India?",
+      "answer": "Singapore is a year-round destination with consistent tropical weather (27–32°C). Malaysia's west coast (Kuala Lumpur, Genting) is best from May to September, while the east coast peaks from March to October. For the combined trip, May to September offers the most reliable weather across both countries. Avoid the Indian school holiday rush (May–June) if you prefer smaller crowds and better hotel rates."
+    },
+    "body": "Singapore has no distinct seasons — it's tropical year-round with afternoon rain showers that pass quickly. Malaysia's weather varies by coast: the west coast (where KL and Genting are located) receives less rain from May to September, while the east coast monsoon hits November to February. For the combined Singapore-Malaysia trip, the sweet spot is March to May or September to November — good weather in both countries and lower crowd density than the Indian summer holiday peak."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Singapore-Malaysia with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "Direct Flights from Trivandrum",
+        "description": "No unnecessary layovers in Delhi or Mumbai. We book direct or single-stop flights from TRV, saving you 6–8 hours of transit time compared to routing through North Indian hubs."
+      },
+      {
+        "title": "Both Visas Handled as One",
+        "description": "We submit your Singapore and Malaysia visa applications simultaneously. One set of documents, one submission process, one status update. You don't need to track two separate applications."
+      },
+      {
+        "title": "Seamless Border Crossing",
+        "description": "The Singapore-Malaysia border via the Johor Bahru causeway requires advance planning — immigration queues, vehicle arrangements on both sides, and timing. We handle the entire logistics so you experience a smooth transition."
+      },
+      {
+        "title": "One Coordinator, Both Countries",
+        "description": "Your iWay trip coordinator is reachable by WhatsApp from the moment you depart Trivandrum to the moment you return. One person who knows your entire itinerary — no handoffs between Singapore and Malaysia agents."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can I do Singapore only or Malaysia only instead of the combo?",
+      "answer": "Yes. We offer standalone Singapore packages (3N/4D to 5N/6D) and standalone Malaysia packages (4N/5D to 7N/8D). However, the combo is our most popular option because the two countries are geographically adjacent — the border crossing adds only 1–2 hours — and combining them delivers far more variety per rupee spent."
+    },
+    {
+      "question": "Is the Genting Dream Cruise worth adding to the package?",
+      "answer": "If your budget allows, the 2N/3D cruise is one of the most valued upgrades our clients report. The cruise departs from Singapore and covers the open sea with ports of call that vary by sailing. All meals are included on board, entertainment is extensive, and the experience of waking up on the ocean is a highlight that land-based itineraries cannot replicate. The upgrade adds approximately ₹20,000–₹35,000 per person depending on cabin class."
+    },
+    {
+      "question": "How much spending money should I carry for a 7-day Singapore-Malaysia trip?",
+      "answer": "For a standard package where meals beyond breakfast, shopping, and personal expenses are not included, we recommend carrying approximately ₹25,000–₹40,000 per person (or the equivalent in SGD/MYR). Singapore is noticeably more expensive than Malaysia for food and shopping. Hawker centres in Singapore offer excellent meals for SGD 4–8 (₹250–500). Malaysian street food is even more affordable at MYR 5–15 (₹90–275) per meal."
+    }
+  ]
+}

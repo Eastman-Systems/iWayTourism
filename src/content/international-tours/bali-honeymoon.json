@@ -1,0 +1,183 @@
+{
+  "pageType": "destination",
+  "seo": {
+    "title": "Bali Honeymoon Package from Trivandrum — 6N/7D from ₹35,000 | iWay Tourism",
+    "description": "Book Bali honeymoon packages from Trivandrum. Private pool villas, Ubud rice terraces, Uluwatu sunset, Nusa Penida day trip. 6N/7D from ₹35,000 per person with flights and visa.",
+    "ogImage": "/images/hero/bali-honeymoon-og.webp"
+  },
+  "hero": {
+    "heading": "Bali Honeymoon Escapes — Adventure Luxury for Two",
+    "subheading": "Cliffside temples at sunset, terraced rice fields at dawn, private pool villas, and island adventures — designed exclusively for couples.",
+    "image": "/images/hero/bali-honeymoon-hero.webp",
+    "imageAlt": "Couple overlooking the Tegallalang rice terraces in Ubud during golden hour"
+  },
+  "quickAnswer": {
+    "question": "How much does a Bali honeymoon package cost from Trivandrum?",
+    "answer": "iWay Tourism's Bali honeymoon packages from Trivandrum start at ₹35,000 per person for a budget 5N/6D trip with 3-star villas. The standard 6N/7D package with private pool villas in Ubud and Seminyak ranges from ₹50,000–₹60,000 per person. All packages include return flights from TRV, visa-on-arrival assistance, hotel/villa accommodation, airport transfers, sightseeing, and romantic dinner arrangements."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": [
+    "Bali remains the definitive honeymoon destination for South Indian couples — and for good reason. The island compresses an extraordinary range of romantic settings into a space smaller than Kanyakumari district: volcanic mountains, terraced emerald rice fields, cliffside Hindu temples with ocean panoramas, pristine beaches accessible only by boat, and a hospitality culture that treats couples with genuine warmth rather than transactional politeness.",
+    "What iWay Tourism does differently with Bali honeymoons is shift the emphasis from overcrowded tourist hubs to what we call 'Adventure Luxury.' Instead of three days in Kuta traffic, our itineraries prioritize sunrise treks to Mount Batur's crater rim, private waterfall visits in the Ubud highlands, the dramatic cliff-meets-ocean setting of Uluwatu Temple at sunset, and day trips to Nusa Penida where the landscape looks like it belongs in a film production. We pair this with genuinely private villa accommodation — not resort rooms marketed as villas — where your plunge pool is yours alone."
+  ],
+  "pricingTiers": [
+    {
+      "name": "Budget Romance — 5N/6D",
+      "duration": "5 Nights / 6 Days",
+      "priceFrom": 35000,
+      "priceTo": 45000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV) via connecting hub",
+        "Visa-on-arrival assistance at Bali (Ngurah Rai Airport)",
+        "3-star boutique hotel/villa accommodation (double room)",
+        "Airport transfers",
+        "Ubud rice terrace and temple tour",
+        "Uluwatu Temple sunset visit with Kecak dance performance",
+        "Seminyak beach half-day",
+        "Daily breakfast"
+      ],
+      "excludes": [
+        "Lunch and dinner (except 1 romantic dinner)",
+        "Nusa Penida day trip (available as add-on)",
+        "Water sports and spa treatments",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Affordable entry point for Bali honeymoon",
+        "Core romantic experiences covered",
+        "Boutique accommodation with local Balinese character"
+      ]
+    },
+    {
+      "name": "Adventure Luxury — 6N/7D",
+      "duration": "6 Nights / 7 Days",
+      "priceFrom": 50000,
+      "priceTo": 60000,
+      "currency": "INR",
+      "perPerson": true,
+      "includes": [
+        "Return flights from Trivandrum (TRV)",
+        "Visa-on-arrival assistance",
+        "Private pool villa in Ubud (2 nights) + beachfront villa in Seminyak (2 nights) + Nusa Dua resort (2 nights)",
+        "All airport and inter-area transfers",
+        "Tegallalang rice terrace walk + Tirta Empul water temple",
+        "Mount Batur sunrise trek (optional — non-trekkers get a valley breakfast alternative)",
+        "Uluwatu Temple sunset + Kecak dance",
+        "Full-day Nusa Penida island trip (Kelingking Beach, Angel's Billabong, Crystal Bay)",
+        "Romantic candlelit dinner (1 evening)",
+        "Daily breakfast + 2 dinners"
+      ],
+      "excludes": [
+        "Remaining lunches and dinners",
+        "Spa treatments (can be arranged at villa)",
+        "Water sports (surfing, diving available as add-ons)",
+        "Travel insurance",
+        "Personal expenses"
+      ],
+      "highlights": [
+        "Private pool villa — your plunge pool, not a shared resort pool",
+        "Three distinct Bali zones: highland (Ubud), beach (Seminyak), resort (Nusa Dua)",
+        "Nusa Penida day trip included as standard",
+        "Mount Batur sunrise trek for adventurous couples"
+      ]
+    }
+  ],
+  "itineraryHighlights": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Ubud Immersion",
+      "description": "Arrive at Ngurah Rai Airport. Transfer to Ubud (1.5 hours). Settle into your private pool villa. Evening walk through the Ubud Monkey Forest and local art market."
+    },
+    {
+      "day": "Day 2",
+      "title": "Rice Terraces & Water Temple",
+      "description": "Morning walk through the Tegallalang rice terraces (arrive before 9 AM to avoid crowds). Visit Tirta Empul, the sacred water purification temple. Afternoon at leisure in the villa."
+    },
+    {
+      "day": "Day 3",
+      "title": "Mount Batur Sunrise or Valley Breakfast",
+      "description": "Pre-dawn trek to Mount Batur's 1,717m crater rim for sunrise over the caldera lake — or a valley-view breakfast alternative for non-trekkers. Transfer to Seminyak in the afternoon."
+    },
+    {
+      "day": "Day 4",
+      "title": "Uluwatu & Kecak Dance at Sunset",
+      "description": "Beach morning in Seminyak. Afternoon visit to Uluwatu Temple perched on a 70-metre cliff above the Indian Ocean. The Kecak fire dance performed at sunset against the ocean backdrop is Bali's most dramatic cultural experience."
+    },
+    {
+      "day": "Day 5",
+      "title": "Nusa Penida Island Day Trip",
+      "description": "Speedboat to Nusa Penida (45 minutes). Visit Kelingking Beach (the iconic T-Rex cliff formation), Angel's Billabong natural infinity pool, and Crystal Bay for snorkelling. Return to Bali by late afternoon."
+    },
+    {
+      "day": "Day 6",
+      "title": "Nusa Dua Beach & Romantic Dinner",
+      "description": "Transfer to Nusa Dua for a final beach day at Bali's calmest coastline. Water sports available (parasailing, jet ski, banana boat). Evening: candlelit dinner at a beachfront restaurant."
+    },
+    {
+      "day": "Day 7",
+      "title": "Departure",
+      "description": "Morning at leisure. Airport transfer for return flight to Trivandrum."
+    }
+  ],
+  "visaInfo": {
+    "heading": "Bali (Indonesia) Visa for Indian Passport Holders",
+    "quickAnswer": {
+      "question": "Do Indians need a visa for Bali?",
+      "answer": "Indian passport holders can obtain a Visa on Arrival (VoA) at Bali's Ngurah Rai Airport for stays up to 30 days. The VoA costs approximately USD 35 (₹2,900) and is processed at the immigration counter upon landing. iWay Tourism provides pre-arrival guidance on documentation and assists with the VoA process at the airport."
+    },
+    "body": [
+      "The Indonesia Visa on Arrival is straightforward: present your passport (minimum 6 months validity, at least 2 blank pages), a return flight ticket, and the VoA fee of USD 35 at the designated counter before immigration. Processing takes 10–15 minutes.",
+      "As of 2026, Indonesia also offers an e-VOA (electronic Visa on Arrival) that can be applied for online before travel, reducing airport wait times. iWay Tourism handles the e-VOA application as part of the package when available.",
+      "Important: the VoA is valid for 30 days and is extendable once for an additional 30 days. For a standard 5–7 day honeymoon, no extension is needed."
+    ]
+  },
+  "bestTimeToVisit": {
+    "heading": "Best Time to Visit Bali for a Honeymoon",
+    "quickAnswer": {
+      "question": "When is the best time to visit Bali from India?",
+      "answer": "The dry season from April to October offers the best weather for a Bali honeymoon — clear skies, low humidity, and calm seas ideal for Nusa Penida boat trips and beach days. July–August is peak tourist season with higher prices. The shoulder months of April–May and September–October give the best balance of weather, prices, and crowd levels."
+    },
+    "body": "Bali has two seasons: dry (April–October) and wet (November–March). The dry season is ideal for honeymooners — the Mount Batur sunrise trek requires clear skies, the Nusa Penida speedboat crossing is calmest in this period, and the Uluwatu sunset is most dramatic without cloud cover. The wet season brings afternoon tropical downpours (usually 1–2 hours) but also lush green landscapes and significantly lower prices. For the best value, book a September or October honeymoon — dry season weather at wet season prices."
+  },
+  "whyBookWithIWay": {
+    "heading": "Why Book Your Bali Honeymoon with iWay Tourism?",
+    "reasons": [
+      {
+        "title": "Private Pool Villas, Not Resort Rooms",
+        "description": "Our standard and premium packages include genuine private pool villas in Ubud and Seminyak. Your plunge pool is exclusively yours — not a shared resort amenity. We vet every property personally."
+      },
+      {
+        "title": "Adventure + Romance, Not One or the Other",
+        "description": "Our itineraries balance active experiences (Mount Batur trek, Nusa Penida exploration, Uluwatu cliffs) with relaxation (private villa time, beach days, spa). You get both without the trip feeling rushed."
+      },
+      {
+        "title": "Romantic Touches Included",
+        "description": "Every honeymoon package includes at least one candlelit dinner, flower decoration in the villa on arrival, and a personalised itinerary card. These are not upsells — they are standard for couples booking with iWay."
+      },
+      {
+        "title": "Flights from Trivandrum",
+        "description": "We route your flights from TRV with the most efficient connection (typically via Kuala Lumpur or Singapore), avoiding the 4–6 hour detour through Delhi or Mumbai that most North-India-focused agencies default to."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is Bali safe for Indian honeymooners?",
+      "answer": "Bali is one of the safest destinations in Southeast Asia for Indian travellers. The island has a well-established tourism infrastructure, English is widely spoken in tourist areas, and the Balinese Hindu culture shares many affinities with Indian traditions (temple offerings, ceremonial practices, vegetarian food availability). Standard travel precautions apply — secure your valuables, use official taxi services, and stay hydrated."
+    },
+    {
+      "question": "Is vegetarian food available in Bali?",
+      "answer": "Ubud is one of the best places in Southeast Asia for vegetarian and vegan food — the health-conscious expat community has created a vibrant plant-based dining scene. In Seminyak and Nusa Dua, most restaurants offer vegetarian options. iWay Tourism provides a restaurant guide with your itinerary that flags the best vegetarian-friendly spots at each location."
+    },
+    {
+      "question": "Can we customise the honeymoon itinerary?",
+      "answer": "Absolutely. Every iWay honeymoon is customisable. Want to add a cooking class in Ubud? Swap the Mount Batur trek for a spa morning? Add an extra beach day in Nusa Dua? Request a private yoga session? Tell us during the booking process and we build it into the itinerary at no additional coordination fee — you pay only the activity cost."
+    }
+  ]
+}

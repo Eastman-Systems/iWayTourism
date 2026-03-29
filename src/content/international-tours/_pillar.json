@@ -1,0 +1,107 @@
+{
+  "pageType": "pillar",
+  "seo": {
+    "title": "International Tour Packages from Trivandrum — Flights, Visa & Hotels | iWay Tourism",
+    "description": "Book international holiday packages from Trivandrum Airport: Singapore, Malaysia, Bali, Vietnam, Sri Lanka, Dubai, Thailand. Complete packages with flights, visa, hotels, and a dedicated iWay coordinator.",
+    "ogImage": "/images/hero/international-tours-og.webp"
+  },
+  "hero": {
+    "heading": "International Holiday Packages from Trivandrum",
+    "subheading": "Complete packages — flights from TRV, visa processing, hotel bookings, airport transfers, and a dedicated iWay coordinator from departure to return. No middlemen.",
+    "image": "/images/hero/international-tours-hero.webp",
+    "imageAlt": "Collage of international destinations — Marina Bay Sands Singapore, Bali rice terraces, Ha Long Bay Vietnam, and Dubai skyline"
+  },
+  "quickAnswer": {
+    "question": "What international tour packages does iWay Tourism offer from Trivandrum?",
+    "answer": "iWay Tourism offers all-inclusive international packages from Trivandrum Airport (TRV) covering Singapore & Malaysia, Bali (Indonesia), Vietnam, Sri Lanka, Dubai (UAE), and Thailand — plus emerging destinations like Kazakhstan, Azerbaijan, and Nepal. Every package includes return flights, visa processing, hotel accommodation, airport transfers, sightseeing, and a dedicated trip coordinator. Prices start from ₹20,000 per person for Sri Lanka to ₹1,30,000+ for premium Singapore-Malaysia cruises."
+  },
+  "overview": "Every international package from iWay Tourism is built on a simple principle: you should not need to coordinate with multiple vendors. We handle the flight booking from Trivandrum Airport (TRV), the visa paperwork, the hotel reservations, the airport transfers at the destination, the sightseeing itinerary, and the travel insurance recommendation — as a single, all-inclusive package with one coordinator, one quote, and one point of contact throughout your trip. We do not resell white-label packages from aggregator portals. Every itinerary is designed by consultants who have personally visited the destinations, and every price quoted includes what it says — no hidden charges, no surprise surcharges at checkout.",
+  "spokeCards": [
+    {
+      "title": "Singapore & Malaysia Combo",
+      "slug": "singapore-malaysia",
+      "tagline": "Urban skylines, highland retreats, and island thrills across two nations.",
+      "priceFrom": 45000,
+      "image": "/images/destinations/singapore-malaysia-thumb.webp",
+      "imageAlt": "Marina Bay Sands and Supertree Grove illuminated at night in Singapore"
+    },
+    {
+      "title": "Bali Honeymoon Escapes",
+      "slug": "bali-honeymoon",
+      "tagline": "Cliffside sunsets, terraced rice fields, and private pool villas for couples.",
+      "priceFrom": 35000,
+      "image": "/images/destinations/bali-thumb.webp",
+      "imageAlt": "Infinity pool overlooking Tegallalang rice terraces in Ubud, Bali"
+    },
+    {
+      "title": "Vietnam Budget Adventures",
+      "slug": "vietnam",
+      "tagline": "Ha Long Bay cruises, Hanoi heritage, and Sapa trekking at unbeatable prices.",
+      "priceFrom": 45000,
+      "image": "/images/destinations/vietnam-thumb.webp",
+      "imageAlt": "Traditional junk boat sailing through Ha Long Bay limestone karsts"
+    },
+    {
+      "title": "Sri Lanka Express Tours",
+      "slug": "sri-lanka",
+      "tagline": "Visa-free for Indians. Safaris, tea estates, and the iconic blue train.",
+      "priceFrom": 20000,
+      "image": "/images/destinations/sri-lanka-thumb.webp",
+      "imageAlt": "Blue train crossing the Nine Arches Bridge in Ella, Sri Lanka surrounded by tea plantations"
+    },
+    {
+      "title": "Dubai Luxury & Shopping",
+      "slug": "dubai",
+      "tagline": "Desert safaris, Marina cruises, and world-class shopping in the city of gold.",
+      "priceFrom": 40000,
+      "image": "/images/destinations/dubai-thumb.webp",
+      "imageAlt": "Dubai skyline at sunset with the Burj Khalifa towering above the city"
+    },
+    {
+      "title": "Thailand Coastal Retreats",
+      "slug": "thailand",
+      "tagline": "Phuket beaches, Krabi islands, and Bangkok street food for families and groups.",
+      "priceFrom": 40000,
+      "image": "/images/destinations/thailand-thumb.webp",
+      "imageAlt": "Long-tail boats on the turquoise waters of Krabi's Railay Beach, Thailand"
+    },
+    {
+      "title": "Emerging 2026 Frontiers",
+      "slug": "trending-2026",
+      "tagline": "Kazakhstan, Azerbaijan, Nepal — next-generation destinations before they go mainstream.",
+      "image": "/images/destinations/trending-2026-thumb.webp",
+      "imageAlt": "Snow-capped mountains and alpine meadows at Shymbulak Ski Resort in Kazakhstan"
+    },
+    {
+      "title": "Visa Assistance Guide",
+      "slug": "visa-guide",
+      "tagline": "E-visa, visa-on-arrival, and visa-free entry explained for Indian passport holders.",
+      "image": "/images/destinations/visa-guide-thumb.webp",
+      "imageAlt": "Indian passport alongside boarding passes and a world map"
+    },
+    {
+      "title": "Best Time to Travel Guide",
+      "slug": "best-time-to-visit",
+      "tagline": "Month-by-month climate breakdown for every destination we serve.",
+      "image": "/images/destinations/best-time-thumb.webp",
+      "imageAlt": "Calendar graphic showing optimal travel months for Southeast Asian and Middle Eastern destinations"
+    },
+    {
+      "title": "International Travel FAQ",
+      "slug": "faq",
+      "tagline": "Costs, visa timelines, what's included, flight routes, and booking logistics.",
+      "image": "/images/destinations/intl-faq-thumb.webp",
+      "imageAlt": "Traveller reviewing documents at Trivandrum International Airport departure terminal"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do your international packages include flights from Trivandrum?",
+      "answer": "Yes. Every iWay Tourism international package includes return flights from Trivandrum International Airport (TRV). We coordinate flight bookings to align with the itinerary, optimizing for the best combination of price and travel time. For destinations not served by direct flights from TRV, we arrange the most efficient connection — typically via Colombo, Kuala Lumpur, or Singapore."
+    },
+    {
+      "question": "Do you handle visa processing?",
+      "answer": "Yes. Visa processing is included in every international package. For e-visa destinations (Vietnam, Sri Lanka when applicable, Dubai), we handle the online application, document preparation, and submission. For embassy-submitted visas (Singapore, Malaysia), we prepare your complete application file and coordinate the submission. Sri Lanka currently offers visa-free entry for Indian passport holders, so no visa processing is needed for that destination."
+    }
+  ]
+}

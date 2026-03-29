@@ -1,0 +1,119 @@
+{
+  "pageType": "editorial",
+  "seo": {
+    "title": "Best Time to Visit — Month-by-Month Travel Guide for Every Destination | iWay Tourism",
+    "description": "Find the best travel months for Singapore, Malaysia, Bali, Vietnam, Sri Lanka, Dubai, Thailand, and Kanyakumari. Climate data, monsoon seasons, peak vs. off-peak pricing from iWay Tourism.",
+    "ogImage": "/images/hero/best-time-og.webp"
+  },
+  "hero": {
+    "heading": "Best Time to Travel — Climate Guide for Every Destination We Serve",
+    "subheading": "Month-by-month weather breakdowns, monsoon windows, peak and off-peak season pricing, and the specific months that deliver the best balance of weather, crowds, and value.",
+    "image": "/images/hero/best-time-hero.webp",
+    "imageAlt": "Split image showing sunny tropical beach on one side and misty highland tea plantations on the other, representing seasonal travel choices"
+  },
+  "quickAnswer": {
+    "question": "When is the best time to travel internationally from South India?",
+    "answer": "From Trivandrum, the optimal international travel windows are: Singapore (year-round), Malaysia (May–September for west coast), Bali (April–October dry season), Vietnam (October–April for north, February–August for central), Sri Lanka (December–March for west coast), Dubai (November–March), and Thailand (November–February). For local travel, Kanyakumari and Trivandrum are best from October to March."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "Choosing the right month can transform a trip from good to extraordinary — or from pleasant to miserable. A Ha Long Bay cruise in typhoon season is a gamble. A Bali honeymoon during the February monsoon means grey skies over Uluwatu instead of the dramatic sunset you saw on Instagram. A Dubai trip in July means 48°C heat and zero outdoor activity. This guide provides the specific climate data you need to time your trip correctly, along with honest notes on when off-peak travel delivers genuine value versus when it is simply a bad idea.",
+  "sections": [
+    {
+      "heading": "When Should I Visit Kanyakumari and Trivandrum?",
+      "quickAnswer": {
+        "question": "What is the best time to visit Kanyakumari and Trivandrum?",
+        "answer": "October to March is the ideal window — temperatures of 24–32°C, clear skies, calm seas for the Vivekananda Rock ferry, and low humidity. The southwest monsoon (June–September) brings heavy rain and rough seas. April–May are hot but suitable for waterfall visits. Temple pilgrimages and cultural tours are viable year-round."
+      },
+      "body": [
+        "October–March: The best months. Clear skies, moderate humidity, and calm seas make this the ideal period for the Vivekananda Rock ferry, beach visits, and outdoor sightseeing. December–January offers the most comfortable temperatures (24–28°C). The Kanyakumari sunrise is most dramatic in this period.",
+        "April–May: Hot (32–36°C) and increasingly humid. Outdoor sightseeing is best confined to early morning and late afternoon. Waterfalls (Thirparappu) begin flowing after pre-monsoon showers. Temple visits remain comfortable as interiors are cool.",
+        "June–September: Southwest monsoon. Heavy rainfall, rough seas, and the Vivekananda Rock ferry operates intermittently. The Mathur Aqueduct valley is lush and dramatically green. Indoor attractions (palaces, museums, temples) are fully viable. Lowest tourist crowds and best hotel rates."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Singapore?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Singapore?",
+        "answer": "Singapore is a year-round destination. The tropical climate delivers consistent 27–32°C temperatures throughout the year with brief afternoon rain showers. There is no bad time to visit. For slightly drier weather, February to April sees less rainfall. For shopping deals, visit during the Great Singapore Sale (June–August)."
+      },
+      "body": [
+        "Singapore has no distinct dry or wet season — rain showers occur year-round, typically lasting 30–60 minutes in the afternoon. The Northeast Monsoon (December–March) brings slightly more rainfall but does not disrupt tourism. The key advantage of Singapore is that all major attractions — Gardens by the Bay, Universal Studios, the Aquarium, shopping malls — are either indoor or designed to be enjoyed despite rain."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Malaysia?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Malaysia?",
+        "answer": "Malaysia's west coast (Kuala Lumpur, Genting Highlands, Langkawi) is best from May to September. The east coast (Perhentian Islands, Tioman) peaks from March to October. For the standard KL + Genting itinerary from iWay Tourism, weather is good year-round, but May–September offers the driest conditions."
+      },
+      "body": [
+        "Malaysia's weather is influenced by two monsoon systems. The west coast (where KL and Genting are located) receives its heaviest rain from September to December. The east coast monsoon runs November to February, when many island resorts close. Genting Highlands (1,800m) is always cooler — expect 15–25°C regardless of season, and pack a light jacket."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Bali?",
+      "quickAnswer": {
+        "question": "When is the best time for a Bali honeymoon?",
+        "answer": "April to October (dry season) is ideal for Bali honeymoons. Clear skies for the Uluwatu sunset, calm seas for the Nusa Penida boat trip, and no rain interrupting the Mount Batur sunrise trek. September–October offers dry season weather at lower prices. July–August is peak season with highest hotel rates."
+      },
+      "body": [
+        "Dry season (April–October): Clear skies, low humidity, ideal for outdoor activities. The Nusa Penida speedboat crossing is safest in this period. Mount Batur sunrise trek has the highest success rate. Hotel rates peak in July–August (European and Australian school holidays).",
+        "Wet season (November–March): Afternoon tropical downpours (1–2 hours typically). Mornings are often clear. Ubud rice terraces are at their most lush and green. Hotel rates drop 20–40%. February is the wettest month. For budget-conscious honeymooners willing to accept some rain, November or March offer the best value."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Vietnam?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Vietnam?",
+        "answer": "Northern Vietnam (Hanoi, Ha Long Bay, Sapa) is best October to April — dry, cool weather. Central Vietnam (Da Nang, Hoi An) peaks February to August. Southern Vietnam (Ho Chi Minh City) is best November to April. For the standard Hanoi + Ha Long Bay itinerary, October to December offers the most reliable weather."
+      },
+      "body": [
+        "Vietnam spans 1,600 km north to south, creating three distinct climate zones. Northern Vietnam has four seasons — the cool dry months (October–April) are best for Ha Long Bay cruises and Sapa trekking. Avoid September–November for Ha Long Bay due to typhoon season. Central Vietnam's rainy season peaks October–November. Southern Vietnam is hot year-round with a wet season from May to November.",
+        "For combined north-central itineraries (Hanoi + Ha Long Bay + Da Nang/Hoi An), March to May is the sweet spot — dry in the north, warm and dry in the centre."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Sri Lanka?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Sri Lanka from India?",
+        "answer": "December to March is ideal for the standard west coast and hill country circuit (Colombo, Kandy, Nuwara Eliya, Ella, Galle). Clear skies, dry roads for the hill country drive, and calm seas at Bentota. The east coast peaks May to September. Inter-monsoon months (April, October–November) offer pleasant weather with fewer tourists."
+      },
+      "body": [
+        "Sri Lanka has two monsoon systems: southwest (May–September, affecting the west and south coast) and northeast (October–January, affecting the east coast). The hill country can be affected by either system. For iWay's standard circuit covering the west coast and central highlands, December to March is the safest window. The Kandy-Ella train journey is most scenic after monsoon rains when the tea plantations are vivid green — October–November offers this post-monsoon lushness with improving weather."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Dubai?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Dubai?",
+        "answer": "November to March is Dubai's peak season — temperatures 20–28°C, perfect for desert safaris, outdoor dining, and Marina walks. The Dubai Shopping Festival (January–February) adds retail appeal. Avoid June–August when temperatures exceed 45°C and outdoor activity is severely limited."
+      },
+      "body": [
+        "Dubai has two effective seasons: comfortable (November–March, 20–28°C) and extreme heat (June–August, 40–48°C). The shoulder months (April–May, September–October) offer 30–38°C with lower hotel rates. Indoor attractions (malls, aquariums, theme parks, restaurants) are fully air-conditioned year-round, so even summer visits are viable if you accept that outdoor activity is limited to early mornings. Ramadan timing (varies annually) affects restaurant operating hours during daytime but offers a unique cultural experience in the evenings."
+      ]
+    },
+    {
+      "heading": "When Should I Visit Thailand?",
+      "quickAnswer": {
+        "question": "When is the best time to visit Thailand?",
+        "answer": "November to February is Thailand's cool, dry season — ideal across the country. Bangkok is most comfortable (25–30°C), and the Andaman coast (Phuket, Krabi) has calm seas for island-hopping. March–May is hot season. June–October is monsoon with lower prices but rough Andaman seas."
+      },
+      "body": [
+        "Thailand's three seasons: cool dry (November–February), hot (March–May, 35–40°C in Bangkok), and rainy (June–October, afternoon downpours). For beach-focused trips to Phuket or Krabi, November to April is essential — the Andaman Sea is calm and the Phi Phi Islands tour operates safely. Bangkok is a year-round city but most pleasant in the cool season. The rainy season brings 30–50% lower hotel rates and fewer tourists — acceptable for Bangkok-only trips but limiting for island activities."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if I can only travel during Indian school holidays (May–June)?",
+      "answer": "May–June works well for Singapore (year-round), Bali (late dry season — good weather), and Malaysia (Genting Highlands is always cool). Dubai is uncomfortably hot. Vietnam's north is entering the hot humid season. Sri Lanka's west coast is in monsoon. Thailand is in hot/early rainy season — Bangkok is manageable but Andaman beaches are less ideal. Contact iWay Tourism for a destination recommendation specific to your May–June travel dates."
+    },
+    {
+      "question": "Are off-season trips significantly cheaper?",
+      "answer": "Yes. Off-peak pricing can deliver 20–40% savings on hotel accommodation and occasionally on flights. The trade-off varies by destination: off-season Bali means afternoon rain but lush green landscapes. Off-season Dubai means extreme heat but air-conditioned attractions. Off-season Sri Lanka means monsoon rain on the west coast but excellent weather on the east coast. iWay Tourism builds off-season itineraries that route around the worst weather impacts to maximise value."
+    }
+  ]
+}

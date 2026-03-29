@@ -1,0 +1,157 @@
+{
+  "pageType": "homepage",
+  "seo": {
+    "title": "iWay Tourism — Premier Travel & Tour Agency in Marthandam & Trivandrum",
+    "description": "Book local tours across Kanyakumari and Trivandrum, rent Innova and Tempo Traveller fleets, or explore international packages to Singapore, Bali, Dubai, and more — all from Marthandam.",
+    "ogImage": "/images/hero/homepage-og.webp"
+  },
+  "hero": {
+    "heading": "Your Gateway to the World from the Deep South of India",
+    "subheading": "Curated local tours across Kanyakumari and Trivandrum. Reliable fleet rentals. International holiday packages with visa assistance and flights from Trivandrum Airport.",
+    "image": "/images/hero/homepage-hero.webp",
+    "imageAlt": "Sunrise over the Triveni Sangam at Kanyakumari with the Vivekananda Rock Memorial silhouetted against the horizon"
+  },
+  "trustBadges": [
+    {
+      "icon": "map-pin",
+      "label": "Based in Marthandam, Serving Kanyakumari & Trivandrum"
+    },
+    {
+      "icon": "shield-check",
+      "label": "Government-Approved Travel Operator"
+    },
+    {
+      "icon": "plane",
+      "label": "Flights Coordinated from Trivandrum (TRV)"
+    },
+    {
+      "icon": "users",
+      "label": "REPLACE:X,000+ Travellers Served"
+    },
+    {
+      "icon": "headset",
+      "label": "Dedicated Trip Coordinator for Every Booking"
+    }
+  ],
+  "localToursPreview": {
+    "heading": "Explore the Deep South",
+    "subheading": "From the heritage temples of Trivandrum to the hidden beaches south of Kanyakumari — curated circuits designed by locals who know every back road.",
+    "featured": [
+      {
+        "title": "Trivandrum to Kanyakumari — 3-Day Coastal Circuit",
+        "slug": "trivandrum-kanyakumari-3-days",
+        "tagline": "90 km of heritage palaces, waterfalls, and the southernmost tip of India.",
+        "image": "/images/local/trivandrum-kanyakumari-thumb.webp",
+        "imageAlt": "Padmanabhapuram Palace wooden facade framed by tropical greenery"
+      },
+      {
+        "title": "Kanyakumari Sightseeing",
+        "slug": "kanyakumari-sightseeing",
+        "tagline": "Vivekananda Rock, Thiruvalluvar Statue, Kumari Amman Temple, and the Triveni Sangam.",
+        "image": "/images/local/kanyakumari-sightseeing-thumb.webp",
+        "imageAlt": "Ferry approaching Vivekananda Rock Memorial with waves crashing against the rocky base"
+      },
+      {
+        "title": "Hidden Gems of the Deep South",
+        "slug": "hidden-gems",
+        "tagline": "Vattakottai Fort, Mathur Aqueduct, Sothavilai Beach — places most tourists never find.",
+        "image": "/images/local/hidden-gems-thumb.webp",
+        "imageAlt": "Panoramic view of Mathur Aqueduct stretching across a lush green valley in Kanyakumari district"
+      }
+    ]
+  },
+  "internationalToursPreview": {
+    "heading": "International Holiday Packages from Trivandrum",
+    "subheading": "Complete packages with flights from TRV, visa processing, hotel bookings, and a dedicated iWay coordinator — no middlemen, no hidden costs.",
+    "featured": [
+      {
+        "title": "Singapore & Malaysia Combo",
+        "slug": "singapore-malaysia",
+        "tagline": "Urban skylines, highland retreats, and island thrills across two nations.",
+        "priceFrom": 45000,
+        "image": "/images/destinations/singapore-malaysia-thumb.webp",
+        "imageAlt": "Marina Bay Sands and the Supertree Grove illuminated at night in Singapore"
+      },
+      {
+        "title": "Bali Honeymoon Escapes",
+        "slug": "bali-honeymoon",
+        "tagline": "Cliffside sunsets, terraced rice fields, and private pool villas in paradise.",
+        "priceFrom": 35000,
+        "image": "/images/destinations/bali-thumb.webp",
+        "imageAlt": "Infinity pool overlooking the Tegallalang rice terraces in Ubud, Bali"
+      },
+      {
+        "title": "Vietnam Budget Adventures",
+        "slug": "vietnam",
+        "tagline": "Ha Long Bay cruises, Hanoi street food, and Sapa trekking from ₹45,000.",
+        "priceFrom": 45000,
+        "image": "/images/destinations/vietnam-thumb.webp",
+        "imageAlt": "Traditional wooden junk boat sailing through emerald waters among Ha Long Bay limestone karsts"
+      },
+      {
+        "title": "Dubai Luxury & Shopping",
+        "slug": "dubai",
+        "tagline": "Desert safaris, Marina cruises, and world-class shopping in the city of gold.",
+        "priceFrom": 40000,
+        "image": "/images/destinations/dubai-thumb.webp",
+        "imageAlt": "Dubai skyline at sunset with the Burj Khalifa towering above surrounding skyscrapers"
+      }
+    ]
+  },
+  "fleetPreview": {
+    "heading": "Reliable Fleet for Every Group Size",
+    "subheading": "Airport pickups from Trivandrum, full-day local sightseeing, or multi-day outstation trips — our maintained fleet is available across Kanyakumari and Trivandrum districts.",
+    "featured": [
+      {
+        "name": "Toyota Innova Crysta",
+        "capacity": 7,
+        "image": "/images/fleet/innova-crysta-thumb.webp",
+        "imageAlt": "White Toyota Innova Crysta parked at the iWay Tourism office in Marthandam"
+      },
+      {
+        "name": "12-Seater Tempo Traveller",
+        "capacity": 12,
+        "image": "/images/fleet/tempo-12-thumb.webp",
+        "imageAlt": "12-seater Tempo Traveller with pushback seats ready for a group tour"
+      },
+      {
+        "name": "26-Seater Mini Bus",
+        "capacity": 26,
+        "image": "/images/fleet/minibus-26-thumb.webp",
+        "imageAlt": "26-seater mini bus used for corporate group tours and wedding transport"
+      }
+    ]
+  },
+  "featuredTestimonials": [
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Nagercoil",
+      "tripType": "Singapore & Malaysia Family Trip",
+      "quote": "REPLACE:Authentic testimonial about the Singapore-Malaysia package experience — mention visa handling, flight coordination from Trivandrum, and the iWay coordinator's responsiveness.",
+      "rating": 5,
+      "date": "REPLACE:2026-01"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Marthandam",
+      "tripType": "Trivandrum–Kanyakumari 3-Day Tour",
+      "quote": "REPLACE:Authentic testimonial about the local circuit — mention the Padmanabhapuram Palace stop, driver quality, and vehicle condition.",
+      "rating": 5,
+      "date": "REPLACE:2025-12"
+    },
+    {
+      "name": "REPLACE:Client Name",
+      "location": "Trivandrum",
+      "tripType": "Bali Honeymoon",
+      "quote": "REPLACE:Authentic testimonial about the honeymoon package — mention the private villa experience, itinerary flexibility, and overall value for money.",
+      "rating": 5,
+      "date": "REPLACE:2026-02"
+    }
+  ],
+  "ctaSection": {
+    "heading": "Ready to Plan Your Next Trip?",
+    "body": "Tell us where you want to go, when, and how many are travelling. Our team will build a custom itinerary and quote within 24 hours — no obligation, no spam.",
+    "buttonText": "Get a Free Quote",
+    "buttonUrl": "/contact"
+  }
+}

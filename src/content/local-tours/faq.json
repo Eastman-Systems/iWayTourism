@@ -1,0 +1,97 @@
+{
+  "pageType": "faq",
+  "seo": {
+    "title": "Local Transport FAQ — Cab Rentals, Airport Transfers & Tour Logistics | Kanyakumari & Trivandrum",
+    "description": "Frequently asked questions about local transport in Kanyakumari and Trivandrum: cab rental pricing, Tempo Traveller capacities, Trivandrum Airport transfers, booking process, and trip logistics.",
+    "ogImage": "/images/hero/local-faq-og.webp"
+  },
+  "hero": {
+    "heading": "Local Transport FAQ — Everything You Need to Know",
+    "subheading": "Cab rates, vehicle capacities, airport transfer timings, booking logistics, and practical answers for travelling across Kanyakumari and Trivandrum districts.",
+    "image": "/images/hero/local-faq-hero.webp",
+    "imageAlt": "iWay Tourism Toyota Innova Crysta on the NH-66 highway between Trivandrum and Kanyakumari with palm trees lining the road"
+  },
+  "quickAnswer": {
+    "question": "What are the most common transport questions for Kanyakumari and Trivandrum travel?",
+    "answer": "Travellers most frequently ask about Trivandrum Airport to Kanyakumari transfer time (95 km, 2–2.5 hours), cab rental pricing in Marthandam and Nagercoil, Tempo Traveller seating capacities (12/14/17/26 seats), advance booking requirements, and what is included in vehicle rental quotes (fuel, tolls, driver charges). This FAQ covers all of these with specific, up-to-date answers."
+  },
+  "overview": "This FAQ compiles the questions our team answers most frequently — from first-time visitors asking about airport logistics to repeat clients comparing vehicle options for group travel. Every answer includes specific distances, durations, and pricing structures based on our actual operational data, not generic estimates.",
+  "faqGroups": [
+    {
+      "groupHeading": "Airport Transfers & Getting Around",
+      "faqs": [
+        {
+          "question": "How long does it take to drive from Trivandrum Airport to Kanyakumari?",
+          "answer": "The drive from Trivandrum International Airport (TRV) to Kanyakumari town covers approximately 95 km via NH-66 through Parasala and Nagercoil. Under normal traffic conditions, the journey takes 2 to 2.5 hours. During peak hours (8–10 AM and 5–7 PM), the stretch through Nagercoil town can add 20–30 minutes. iWay Tourism provides direct airport pickup with the driver tracking your flight arrival in real time."
+        },
+        {
+          "question": "How far is Marthandam from Trivandrum Airport?",
+          "answer": "Marthandam is approximately 75 km from Trivandrum International Airport (TRV), taking about 1.5 hours by road via Parasala. The route passes through the Tamil Nadu–Kerala border at Parasala, where a brief slowdown at the state checkpoint is normal. iWay Tourism's office in Marthandam is well-positioned to service pickups from both TRV Airport and Nagercoil Junction railway station."
+        },
+        {
+          "question": "What is the distance from Nagercoil to Kanyakumari?",
+          "answer": "Nagercoil to Kanyakumari is 22 km, taking approximately 35–45 minutes by road. The route passes through suburban areas and can be congested during morning and evening rush hours. An alternative scenic route via Colachel adds 10 km but avoids town traffic and offers coastal views."
+        },
+        {
+          "question": "Is there public transport between Trivandrum and Kanyakumari?",
+          "answer": "Yes — KSRTC (Kerala State Road Transport) and TNSTC (Tamil Nadu State Transport) buses run regularly between Trivandrum and Nagercoil, with some services continuing to Kanyakumari. However, buses are crowded, do not offer luggage space for large bags, and do not stop at intermediate attractions like Padmanabhapuram Palace or Thirparappu Falls. For tourists with luggage or those wanting to stop at sightseeing points, a private vehicle is strongly recommended."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Vehicle Types & Capacities",
+      "faqs": [
+        {
+          "question": "What vehicles does iWay Tourism offer for hire?",
+          "answer": "iWay Tourism's fleet includes: Toyota Innova Crysta (7-seater, ideal for families of 4–6), 12-seater Tempo Traveller (pushback seats, suitable for friend groups and extended families), 14-seater Tempo Traveller (wider spacing, ideal for weddings and pilgrimages), 17-seater Tempo Traveller (high-roof with full standing height, for large groups), and 26-seater Mini Bus (for corporate events, large wedding parties, and institutional trips). All vehicles are air-conditioned and maintained on strict service schedules."
+        },
+        {
+          "question": "What is the difference between a 12-seater and 17-seater Tempo Traveller?",
+          "answer": "The 12-seater has pushback reclining seats with individual armrests, roof-mounted AC, and a rear boot. It suits groups of 8–10 with luggage. The 17-seater has a high-roof cabin allowing full standing height, more rows of pushback seats, and a larger rear boot. It suits groups of 12–15 with luggage. Both have PA systems and LED lighting. The 17-seater is recommended for multi-day outstation trips where comfort over long drives matters."
+        },
+        {
+          "question": "Can I hire a vehicle for a one-way airport drop only?",
+          "answer": "Yes. iWay Tourism offers one-way transfers between any two points in the Kanyakumari and Trivandrum districts. The most common one-way bookings are Trivandrum Airport to Kanyakumari (95 km, ₹REPLACE:X,XXX in Innova) and Trivandrum Airport to Marthandam (75 km, ₹REPLACE:X,XXX in Innova). Return trips are priced equivalently. Contact us for exact quotes based on your route and vehicle preference."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Pricing & What's Included",
+      "faqs": [
+        {
+          "question": "How much does it cost to rent an Innova for a day in Kanyakumari?",
+          "answer": "REPLACE:Full-day Innova Crysta rental pricing for local use in Kanyakumari district. Example structure: 'A full-day Innova Crysta rental (8 hours / 80 km local limit) in Kanyakumari district starts at ₹X,XXX. This includes the vehicle, driver, fuel within the km limit, tolls, and parking. Additional km beyond the limit is charged at ₹XX/km. Outstation and multi-day rates are quoted separately based on the itinerary.'"
+        },
+        {
+          "question": "What is included in iWay Tourism's vehicle rental price?",
+          "answer": "All iWay Tourism vehicle quotes are all-inclusive. The price covers: the vehicle for the agreed duration, an experienced local driver, fuel within the agreed km limit, road tolls, parking charges, and driver bata (daily allowance). Items NOT included: client meals, accommodation (for multi-day trips), entry fees at attractions, and any km overage beyond the agreed limit (charged at a transparent per-km rate disclosed upfront)."
+        },
+        {
+          "question": "Do you charge extra for early morning or late night pickups?",
+          "answer": "REPLACE:Early/late hour surcharge policy. Example: 'Airport pickups and drops between 10:00 PM and 6:00 AM carry a nominal surcharge of ₹XXX to cover the driver's additional hours. This is disclosed upfront in the quote — no surprises. Standard operating hours are 6:00 AM to 10:00 PM.'"
+        }
+      ]
+    },
+    {
+      "groupHeading": "Booking & Logistics",
+      "faqs": [
+        {
+          "question": "How far in advance should I book a vehicle?",
+          "answer": "For weekday travel, 2–3 days advance booking is usually sufficient. For weekends, festival periods (Pongal, Onam, Christmas, Diwali), and wedding season (April–June), book at least 7–10 days ahead. The 17-seater and 26-seater vehicles are our most constrained inventory — for these, 2 weeks advance booking is recommended during peak season."
+        },
+        {
+          "question": "How do I book a vehicle with iWay Tourism?",
+          "answer": "Three options: (1) Fill out the enquiry form on our Contact page — we respond within 2 hours during business hours. (2) Call us directly at REPLACE:+91-XXXXX-XXXXX. (3) WhatsApp us at REPLACE:+91-XXXXXXXXXX with your travel dates, pickup location, group size, and vehicle preference. We confirm availability and send an all-inclusive quote. Booking is confirmed with an advance payment."
+        },
+        {
+          "question": "Can I modify or cancel my booking after confirmation?",
+          "answer": "Yes. Modifications (date changes, vehicle changes, route adjustments) are accommodated subject to availability — contact us as early as possible. Cancellation policy: more than 48 hours before pickup receives a full refund of the advance; 24–48 hours receives REPLACE:XX% refund; less than 24 hours or no-show is non-refundable. Full details are in our Terms of Service."
+        },
+        {
+          "question": "Will the driver speak English?",
+          "answer": "All iWay Tourism drivers speak Tamil and basic English sufficient for travel logistics (directions, timing coordination, restaurant recommendations). For international tourists requiring fluent English narration during sightseeing, we can arrange a dedicated multilingual guide alongside the driver at an additional cost. Malayalam-speaking drivers are also available for clients more comfortable in Kerala's primary language."
+        }
+      ]
+    }
+  ]
+}

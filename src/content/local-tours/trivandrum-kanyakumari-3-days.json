@@ -1,0 +1,196 @@
+{
+  "pageType": "itinerary",
+  "seo": {
+    "title": "Trivandrum to Kanyakumari 3-Day Itinerary — Complete Route Guide by iWay Tourism",
+    "description": "Day-by-day itinerary covering Trivandrum heritage, Padmanabhapuram Palace, Mathur Aqueduct, Thirparappu Falls, and Kanyakumari's iconic landmarks. With transit times and local tips.",
+    "ogImage": "/images/hero/trivandrum-kanyakumari-og.webp"
+  },
+  "hero": {
+    "heading": "Trivandrum to Kanyakumari — The 3-Day Coastal Circuit",
+    "subheading": "90 kilometres of heritage palaces, hidden waterfalls, and India's southernmost tip — with exact transit times and stops most guides skip.",
+    "image": "/images/hero/trivandrum-kanyakumari-hero.webp",
+    "imageAlt": "Scenic coastal road between Trivandrum and Kanyakumari with palm trees lining the highway and the Arabian Sea visible in the distance"
+  },
+  "quickAnswer": {
+    "question": "What does the 3-day Trivandrum to Kanyakumari tour cover?",
+    "answer": "This 3-day circuit begins at Trivandrum Airport, covers the Padmanabhaswamy Temple, Napier Museum, and Poovar Backwaters on Day 1, transits through Padmanabhapuram Palace, Mathur Aqueduct, and Thirparappu Falls on Day 2, and concludes with Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari temples, and hidden coastal forts on Day 3. Total driving distance: approximately 150 km across three days."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "This is not a rushed point-to-point transfer. The 90-kilometre corridor between Trivandrum and Kanyakumari holds more historical density per kilometre than most travellers expect — 16th-century teak palaces, Asia's longest aqueduct, waterfalls hidden behind rubber plantations, and a coastline where three oceans visibly converge. We designed this 3-day circuit to unfold the region at a pace that respects both the heritage and the traveller. Every transit time listed below is based on actual drive logs from our fleet — not Google Maps estimates that ignore local road conditions, temple closure timings, and the afternoon heat that makes outdoor sightseeing miserable between 12:30 and 3:00 PM.",
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Trivandrum Cultural Immersion",
+      "description": "Arrival at Trivandrum International Airport (TRV) and a full day exploring the Kerala capital's architectural heritage and backwater geography.",
+      "stops": [
+        {
+          "name": "Trivandrum International Airport (TRV) — Pickup",
+          "description": "Your iWay driver meets you at the arrivals terminal with a name board. The vehicle is pre-cooled and stocked with water bottles. Allow 15 minutes for luggage and exit formalities.",
+          "duration": "15 minutes",
+          "tip": "Domestic arrivals exit through Gate 1. International arrivals through Gate 3. Share your flight number with iWay at the time of booking so the driver can track landing status in real time."
+        },
+        {
+          "name": "Sree Padmanabhaswamy Temple",
+          "description": "The 16th-century Dravidian temple dedicated to Lord Vishnu, renowned for its intricate granite gopuram and the 2011 discovery of treasure vaults estimated at over $20 billion in value. The temple's architecture represents the zenith of Travancore craftsmanship, with corridors of carved stone pillars and a reclining Vishnu deity visible through three separate doorways.",
+          "duration": "1.5–2 hours",
+          "tip": "Strict dress code enforced: men must wear mundu (dhoti) without shirts; women must wear saree or long skirt with blouse covering shoulders. Rental mundus available at shops opposite the east gate (₹50–100). Photography is prohibited inside. Best visited between 6:30–8:00 AM darshan to avoid midday queues.",
+          "image": "/images/local/padmanabhaswamy-temple.webp",
+          "imageAlt": "The ornate Dravidian gopuram of Sree Padmanabhaswamy Temple in Trivandrum with devotees at the entrance"
+        },
+        {
+          "name": "Napier Museum & Sri Chitra Art Gallery",
+          "description": "Located inside the Kanakakkunnu Palace grounds, the Napier Museum is an Indo-Saracenic architectural masterpiece built in 1880, housing rare bronze idols, ivory carvings, a Chola-period chariot, and Kerala-specific artefacts. The adjacent Sri Chitra Art Gallery holds works by Raja Ravi Varma alongside Mughal miniatures and Tanjore paintings.",
+          "duration": "1–1.5 hours",
+          "tip": "Both museums close for lunch from 12:45 to 1:45 PM. Monday is a closed day. Entry fee is nominal (₹20 for Indian nationals). The surrounding botanical garden is worth a 20-minute walk if time permits.",
+          "image": "/images/local/napier-museum.webp",
+          "imageAlt": "The red and black Indo-Saracenic facade of Napier Museum in Trivandrum surrounded by tropical gardens"
+        },
+        {
+          "name": "Poovar Island & Backwaters",
+          "description": "A 30-km drive south of Trivandrum city, Poovar sits at the geographical confluence where the Neyyar River meets the Arabian Sea, creating a narrow sandbar that separates freshwater backwaters from ocean waves. A 45-minute boat ride through the mangrove-lined backwaters leads to the golden sand stretch of Poovar Beach — one of the few mainland beaches in Kerala accessible only by boat.",
+          "duration": "2–2.5 hours (including boat ride)",
+          "tip": "Boat rides operate from the Poovar jetty (₹300–500 per person for shared boats, ₹1,500–2,000 for a private boat). Go between 3:30 and 5:30 PM for the best light. The sandbar is narrow and waves can be strong — swimming is not recommended.",
+          "image": "/images/local/poovar-backwaters.webp",
+          "imageAlt": "Wooden boat navigating the mangrove-lined Poovar Backwaters with the Arabian Sea visible beyond the sandbar"
+        },
+        {
+          "name": "Shanghumukham Beach — Sunset",
+          "description": "On the return route to Trivandrum city, Shanghumukham Beach offers the day's final stop — a wide, accessible beach known for its 35-metre-long Jalakanyaka (mermaid) sculpture and unobstructed sunset views over the Arabian Sea. The beach is adjacent to the airport, so low-flying aircraft add a dramatic backdrop.",
+          "duration": "30–45 minutes",
+          "tip": "Arrive by 5:45 PM for optimal sunset positioning. The Starfish restaurant at the beach entrance serves decent Kerala fish curry and fresh lime soda."
+        }
+      ],
+      "meals": "Lunch recommended at Villa Maya (heritage dining) or Arul Jyothi (authentic Kerala meals). Dinner at hotel or Shanghumukham beachside.",
+      "overnight": "Trivandrum city — hotel arranged by iWay or client's choice."
+    },
+    {
+      "dayNumber": 2,
+      "title": "The Transit of Antiquity — Trivandrum to Kanyakumari",
+      "description": "The 90-km drive south is not a transfer — it is an experiential corridor through Travancore heritage, engineering marvels, and monsoon-fed waterfalls.",
+      "stops": [
+        {
+          "name": "Padmanabhapuram Palace, Thuckalay",
+          "description": "The former seat of the Travancore kingdom, Padmanabhapuram Palace is widely regarded as the finest surviving example of traditional Kerala-Tamil wooden architecture. The complex spans 6 acres of teakwood structures including a 4-storey central building with a polished black granite floor made from a mixture of burnt coconut shells, egg whites, and lime. The Thai Kottaram (royal mother's palace) features intricately carved ceilings and period murals depicting scenes from the Puranas.",
+          "duration": "1.5–2 hours",
+          "tip": "Located 63 km from Trivandrum (approximately 1.5 hours via Parasala and Thuckalay). Closed on Mondays. Entry: ₹25 (Indian nationals). Guided tours available at the gate — highly recommended as the historical context transforms the experience. Photography allowed outside but prohibited inside the main palace buildings.",
+          "image": "/images/local/padmanabhapuram-palace.webp",
+          "imageAlt": "The tiered wooden roof structure of Padmanabhapuram Palace in Thuckalay with traditional Kerala architectural details"
+        },
+        {
+          "name": "Mathur Aqueduct (Mathur Hanging Trough)",
+          "description": "One of Asia's longest and highest aqueducts, the Mathur Hanging Trough stretches 1 kilometre across a deep valley at a height of 35 metres above the Pahrali River. Built in 1966 as an irrigation channel, it doubles as a pedestrian walkway offering panoramic views of the Western Ghats foothills and surrounding rubber, pepper, and banana plantations. This is the kind of stop that most tour operators skip entirely — and exactly the kind of unique infrastructure that makes this corridor special.",
+          "duration": "45 minutes–1 hour",
+          "tip": "Located 12 km from Thuckalay via narrow rural roads (30-minute drive from Padmanabhapuram Palace). No entry fee. The walkway can be vertigo-inducing — it is a genuine 35-metre drop with low railings. Visit before noon for the clearest valley views. Small tea shops at the entrance sell fresh lime juice and local bananas.",
+          "image": "/images/local/mathur-aqueduct.webp",
+          "imageAlt": "Mathur Aqueduct stretching across a lush green valley with the Western Ghats foothills in the background"
+        },
+        {
+          "name": "Thirparappu Waterfalls",
+          "description": "Fed by the Kodayar River, Thirparappu is a 50-foot waterfall set within a lush tropical landscape surrounded by rubber plantations. The falls are most dramatic between July and December when monsoon flow peaks, but maintain a steady cascade even in the dry season. A shallow pool at the base is safe for wading during low-flow months.",
+          "duration": "45 minutes–1 hour",
+          "tip": "Located 15 km from Mathur Aqueduct (20 minutes by road). Entry fee: ₹10. Changing rooms available. The stone steps down to the falls can be slippery — wear footwear with grip. A Shiva temple sits at the top of the falls, worth a 5-minute detour for the elevated view.",
+          "image": "/images/local/thirparappu-falls.webp",
+          "imageAlt": "Thirparappu Waterfalls cascading over rocks surrounded by dense tropical greenery in Kanyakumari district"
+        },
+        {
+          "name": "Arrival in Kanyakumari — Sunset at the Triveni Sangam",
+          "description": "The final 55-km stretch from Thirparappu to Kanyakumari town takes approximately 1.5 hours. Time the drive to arrive by 5:30 PM to witness the sunset over the Triveni Sangam — the sacred confluence where the Indian Ocean, Arabian Sea, and Bay of Bengal meet. On full moon days in April (Chitra Purnima), both the sunset and moonrise are visible simultaneously from this point.",
+          "duration": "45 minutes at the seafront",
+          "tip": "The sunset viewpoint along the shore near the Gandhi Memorial gets crowded by 5:45 PM. Position yourself on the rocks south of the memorial for a less crowded angle. Alternatively, the Hotel Sea View rooftop terrace offers an elevated vantage point."
+        }
+      ],
+      "meals": "Lunch at a local restaurant near Thuckalay after the palace visit. Dinner at Kanyakumari seafront — The Curry (Hotel Tamil Nadu) for reliable Kerala-Tamil coastal fare.",
+      "overnight": "Kanyakumari town — hotel arranged by iWay or client's choice."
+    },
+    {
+      "dayNumber": 3,
+      "title": "The Southernmost Pinnacle & Hidden Coast",
+      "description": "Iconic spiritual landmarks, panoramic ocean views, and a diversion to the coastal forts and hidden beaches that most one-day tourists never reach.",
+      "stops": [
+        {
+          "name": "Vivekananda Rock Memorial",
+          "description": "Built in 1970 on the rock where Swami Vivekananda meditated in 1892 before his historic address at the Parliament of World Religions in Chicago. The memorial combines architectural elements from across India — a Rajasthani-style mandapa atop a base of Kanyakumari granite. The ferry ride itself offers the best vantage point of the three-ocean confluence. The meditation hall inside the memorial maintains a powerful silence that contrasts sharply with the crashing waves outside.",
+          "duration": "1–1.5 hours (including ferry wait and ride)",
+          "tip": "Ferry operates from 8:00 AM to 4:00 PM. Ticket counter opens at 7:45 AM — arrive early to avoid the queue that builds by 9:00 AM. Return ferry is included in the ticket (₹68 for Indian adults). The ferry does not operate during rough seas. Combine this with the Thiruvalluvar Statue visit on the same ferry trip.",
+          "image": "/images/local/vivekananda-rock.webp",
+          "imageAlt": "Vivekananda Rock Memorial and the adjacent Thiruvalluvar Statue rising from the ocean at the southern tip of India"
+        },
+        {
+          "name": "Thiruvalluvar Statue",
+          "description": "The 133-foot granite statue of the Tamil poet-philosopher Thiruvalluvar stands on a small island adjacent to the Vivekananda Rock. The statue's height — 95 feet for the figure plus 38 feet for the pedestal — symbolises the 133 chapters of the Thirukkural, Thiruvalluvar's classical Tamil text on ethics, governance, and love. The pedestal houses a small exhibition hall.",
+          "duration": "30 minutes (accessed via the Vivekananda Rock ferry)",
+          "tip": "The same ferry ticket covers both the Vivekananda Rock and the Thiruvalluvar Statue. Walk across the connecting pathway. The view from the statue's base looking back toward the mainland is the most photographed angle of the Kanyakumari coastline."
+        },
+        {
+          "name": "Kumari Amman Temple (Bhagavathy Amman Temple)",
+          "description": "One of India's 108 Shakthi Peethas, this 3,000-year-old temple dedicated to the goddess Kanyakumari sits at the literal southernmost point of the Indian mainland. The temple's eastern door is kept closed because the glint of the goddess's diamond nose ring was reportedly so bright it confused ships at sea. The small but intensely devotional atmosphere and ocean-adjacent setting make this unlike any other temple in the region.",
+          "duration": "30–45 minutes",
+          "tip": "No photography inside. Strict dress code: men must remove shirts. The temple is a 5-minute walk from the ferry terminal. Visit right after returning from Vivekananda Rock while the area is still relatively uncrowded."
+        },
+        {
+          "name": "Suchindram Thanumalayan Temple",
+          "description": "Located 13 km northwest of Kanyakumari town, this 17th-century temple is unique in South India for being dedicated to the Hindu trinity — Brahma, Vishnu, and Shiva — represented as a single deity. The temple is architecturally extraordinary: its 134-foot gopuram is richly carved, the main hall contains famous 'musical pillars' that produce distinct musical notes when struck, and a towering 18-foot Hanuman statue carved from a single granite block dominates the inner corridor.",
+          "duration": "1–1.5 hours",
+          "tip": "Open 4:30 AM–12:00 PM and 4:00–8:30 PM. Closes for afternoon break. Entry is free. The musical pillars demonstration by local guides (₹50 tip expected) is worth arranging — hearing the granite produce gamam notes is genuinely remarkable. Photography allowed in the outer corridors but not the inner sanctum.",
+          "image": "/images/local/suchindram-temple.webp",
+          "imageAlt": "Ornate carved pillars inside the Suchindram Thanumalayan Temple with devotees in the corridor"
+        },
+        {
+          "name": "Vattakottai Fort & Hidden Beaches",
+          "description": "The final stop is the one most tourists miss entirely. Vattakottai (meaning 'circular fort') is an 18th-century seaside fortification built by the Travancore kingdom, sitting directly on the rocks where the Western Ghats meet the sea. The fort offers 360-degree views — ocean to the south, coconut groves to the north, and on clear days, the distant silhouette of the Sri Lankan coast. Below the fort, the beaches of Sothavilai and Lemur stretch uncrowded and pristine — a stark contrast to the packed Kanyakumari town beach.",
+          "duration": "1–1.5 hours",
+          "tip": "Located 7 km from Kanyakumari town centre. No entry fee. The approach road is narrow but well-paved. Sothavilai Beach (2 km further south of Vattakottai) has no facilities — carry water and sun protection. The swimming is safe only during calm sea conditions. This is the best sunset alternative to the crowded Kanyakumari town seafront.",
+          "image": "/images/local/vattakottai-fort.webp",
+          "imageAlt": "Circular stone walls of Vattakottai Fort overlooking the turquoise sea at the southern tip of India"
+        }
+      ],
+      "meals": "Breakfast at the hotel. Lunch at Hotel Saravana Bhavan in Kanyakumari town (reliable South Indian vegetarian). Or the Sea View restaurant for non-vegetarian coastal seafood.",
+      "overnight": "Departure from Kanyakumari or extension based on onward travel plans."
+    }
+  ],
+  "practicalInfo": {
+    "howToGetThere": "The circuit starts at Trivandrum International Airport (TRV), which receives direct flights from Chennai, Bangalore, Mumbai, Delhi, Kochi, and select international destinations (Colombo, Dubai, Singapore). iWay Tourism provides airport pickup as part of the package. Alternatively, Nagercoil Junction railway station is 22 km from Kanyakumari for those arriving by train.",
+    "bestTimeToVisit": "October to March offers the best combination of clear skies, moderate temperatures (24–32°C), and calm seas for the Vivekananda Rock ferry. April–May are hot but ideal for waterfall visits. June–September monsoon brings heavy rain that can disrupt some outdoor stops.",
+    "duration": "3 days / 2 nights. Can be compressed into 2 days by removing the Mathur Aqueduct and Thirparappu Falls stops on Day 2.",
+    "tips": [
+      "Start Day 1 early — the Padmanabhaswamy Temple morning darshan (6:30–8:00 AM) is significantly less crowded than midday.",
+      "Carry a spare mundu or modest clothing for temple visits. Multiple temples on this circuit enforce strict dress codes.",
+      "The midday heat between 12:30 and 3:00 PM is intense from March onwards. Schedule indoor stops (museums, palaces) during this window.",
+      "Full moon days offer a rare spectacle at Kanyakumari — the sunset and moonrise are visible simultaneously from the Triveni Sangam viewpoint.",
+      "Book the Vivekananda Rock ferry early — arrive at the counter by 7:45 AM to avoid the queue that extends to 30+ minutes by mid-morning."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much does the 3-day Trivandrum to Kanyakumari tour cost with iWay Tourism?",
+      "answer": "REPLACE:Pricing depends on vehicle type and group size. Example: 'For a family of 4–6 in a Toyota Innova Crysta, the 3-day/2-night circuit including driver, fuel, tolls, and parking costs approximately ₹X,XXX–₹X,XXX. Hotel accommodation and meals are additional and can be arranged by iWay at preferred partner rates. Contact us for a detailed custom quote.'"
+    },
+    {
+      "question": "Can this itinerary be done in 2 days instead of 3?",
+      "answer": "Yes, but with trade-offs. The compressed version skips the Mathur Aqueduct and Thirparappu Falls (Day 2 afternoon) and moves the Suchindram Temple to a brief morning stop on Day 2 before heading directly to Kanyakumari. You cover the major landmarks but lose the off-the-beaten-path stops that make this circuit distinctive."
+    },
+    {
+      "question": "Is this tour suitable for elderly travellers or families with young children?",
+      "answer": "The circuit is primarily vehicle-based with short walking distances at each stop. The Vivekananda Rock ferry and the steps at Thirparappu Falls require moderate mobility. For elderly travellers or families with very young children, we can adjust the itinerary to prioritize accessible stops — the Padmanabhapuram Palace, Kanyakumari temples, and Vattakottai Fort are all manageable. The Mathur Aqueduct walkway is not recommended for those with vertigo."
+    }
+  ],
+  "crossSell": {
+    "heading": "Loved the Deep South? Go Further.",
+    "body": "If this coastal circuit sparked your interest in exploring beyond India's southern tip, these international packages depart directly from Trivandrum Airport — no connecting flights, no Delhi or Mumbai layovers.",
+    "links": [
+      {
+        "label": "Sri Lanka Express Tours",
+        "url": "/international-tours/sri-lanka",
+        "tagline": "Visa-free for Indian passport holders. Just 1.5 hours from Trivandrum by air."
+      },
+      {
+        "label": "Singapore & Malaysia Combo",
+        "url": "/international-tours/singapore-malaysia",
+        "tagline": "Urban skylines, highland retreats, and island thrills — 4.5 hours from TRV."
+      }
+    ]
+  }
+}

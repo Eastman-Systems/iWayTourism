@@ -1,0 +1,47 @@
+{
+  "context": "https://schema.org",
+  "type": "TouristTrip",
+  "baseProperties": {
+    "@context": "https://schema.org",
+    "@type": "TouristTrip",
+    "name": "{{tripName}}",
+    "description": "{{tripDescription}}",
+    "touristType": "{{touristType}}",
+    "image": "{{heroImage}}",
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "iWay Tourism",
+      "url": "{{siteUrl}}"
+    },
+    "itinerary": {
+      "@type": "ItemList",
+      "numberOfItems": "{{numberOfStops}}",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": "{{position}}",
+          "item": {
+            "@type": "TouristAttraction",
+            "name": "{{attractionName}}",
+            "description": "{{attractionDescription}}",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "{{latitude}}",
+              "longitude": "{{longitude}}"
+            },
+            "isAccessibleForFree": "{{isFree}}",
+            "openingHours": "{{openingHours}}"
+          }
+        }
+      ]
+    },
+    "subjectOf": {
+      "@type": "Article",
+      "headline": "{{articleHeadline}}",
+      "author": {
+        "@type": "Person",
+        "name": "{{authorName}}"
+      }
+    }
+  }
+}

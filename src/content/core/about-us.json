@@ -1,0 +1,82 @@
+{
+  "pageType": "about",
+  "seo": {
+    "title": "About iWay Tourism — Travel Experts Rooted in Marthandam Since REPLACE:YYYY",
+    "description": "Meet the team behind iWay Tourism. Based in Marthandam, we serve Kanyakumari and Trivandrum with local fleet rentals, curated regional tours, and international holiday packages.",
+    "ogImage": "/images/hero/about-og.webp"
+  },
+  "hero": {
+    "heading": "Travel Expertise Rooted in the Deep South",
+    "subheading": "We are not a call-centre franchise or an online aggregator. iWay Tourism is a locally owned agency with ground-level knowledge of every route, vehicle, and destination we sell.",
+    "image": "/images/hero/about-hero.webp",
+    "imageAlt": "The iWay Tourism team gathered at the Marthandam office with branded vehicles in the background"
+  },
+  "story": {
+    "heading": "How iWay Tourism Began",
+    "paragraphs": [
+      "REPLACE:Origin story paragraph 1 — what prompted the founding, the gap the founder saw in the Marthandam–Nagercoil travel market, and the personal connection to the region.",
+      "REPLACE:Growth paragraph 2 — how the agency expanded from local cab services into curated regional tours and eventually international packages. Mention specific milestones: first international group dispatched, fleet expansion, partnerships with airlines or hotels.",
+      "REPLACE:Present-day paragraph 3 — current scale of operations, number of travellers served, cities covered, and the core philosophy: every trip is planned by someone who has either driven the route or walked the destination personally."
+    ]
+  },
+  "serviceArea": {
+    "heading": "Where We Operate",
+    "description": "Our home base is Marthandam, positioned at the junction of Tamil Nadu and Kerala. This geography gives us a unique operational advantage — we serve clients across the entire Kanyakumari district and the southern corridor of Trivandrum district, with direct ground connectivity to Trivandrum International Airport (TRV), the primary departure point for all international packages.",
+    "locations": [
+      "Marthandam (Head Office)",
+      "Nagercoil",
+      "Kanyakumari",
+      "Thuckalay",
+      "Colachel",
+      "Thiruvananthapuram (Trivandrum)",
+      "Parasala"
+    ]
+  },
+  "team": {
+    "heading": "The People Behind Your Trip",
+    "members": [
+      {
+        "name": "REPLACE:Founder/Director Name",
+        "role": "Founder & Managing Director",
+        "bio": "REPLACE:2–3 sentences. Years of experience, personal travel background, role in day-to-day operations, specialization (e.g., international package design, fleet management).",
+        "image": "/images/team/REPLACE-founder.webp",
+        "imageAlt": "REPLACE:Name, Founder of iWay Tourism, at the Marthandam office"
+      },
+      {
+        "name": "REPLACE:Senior Consultant Name",
+        "role": "Senior Travel Consultant",
+        "bio": "REPLACE:2–3 sentences. Focus area (e.g., Southeast Asia packages, visa processing, corporate group coordination). Mention destinations personally visited.",
+        "image": "/images/team/REPLACE-consultant.webp",
+        "imageAlt": "REPLACE:Name, Senior Travel Consultant at iWay Tourism"
+      },
+      {
+        "name": "REPLACE:Operations Lead Name",
+        "role": "Fleet & Operations Manager",
+        "bio": "REPLACE:2–3 sentences. Responsible for fleet scheduling, driver assignments, vehicle maintenance. Local expertise across Kanyakumari and Trivandrum routes.",
+        "image": "/images/team/REPLACE-operations.webp",
+        "imageAlt": "REPLACE:Name, Fleet & Operations Manager at iWay Tourism"
+      }
+    ]
+  },
+  "values": {
+    "heading": "What Drives Us",
+    "items": [
+      {
+        "title": "Local Knowledge, Not Generic Packages",
+        "description": "Every local itinerary is designed by someone who has driven the route. Every international package is built by a consultant who has visited the destination. We do not resell white-label templates from aggregator platforms."
+      },
+      {
+        "title": "Transparent Pricing, No Hidden Costs",
+        "description": "Our quotes include everything — vehicle charges, fuel, tolls, parking, driver bata for local tours; flights, hotels, visa fees, transfers, and travel insurance for international packages. The price you see is the price you pay."
+      },
+      {
+        "title": "One Coordinator, Start to Finish",
+        "description": "You will never be passed between departments. From the initial enquiry to the final airport drop, a single iWay coordinator owns your trip. They are reachable by phone and WhatsApp throughout."
+      },
+      {
+        "title": "Fleet You Can Trust",
+        "description": "Every vehicle in our fleet — from the Toyota Innova Crysta to our 26-seater mini buses — is serviced on a strict maintenance schedule. Our drivers are licensed, experienced with the Kanyakumari–Trivandrum corridor, and trained in basic first aid."
+      }
+    ]
+  }
+}

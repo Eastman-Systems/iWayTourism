@@ -1,0 +1,127 @@
+{
+  "pageType": "faq",
+  "seo": {
+    "title": "International Travel FAQ — Costs, Visas, Flights & Booking | iWay Tourism",
+    "description": "Frequently asked questions about international travel from Trivandrum: package costs, visa processing, flight routes, what's included, travel insurance, and booking logistics with iWay Tourism.",
+    "ogImage": "/images/hero/intl-faq-og.webp"
+  },
+  "hero": {
+    "heading": "International Travel FAQ — Your Questions, Answered",
+    "subheading": "Costs, visa timelines, flight routes, what's included in the price, travel insurance, and everything else first-time and returning international travellers ask us.",
+    "image": "/images/hero/intl-faq-hero.webp",
+    "imageAlt": "Traveller reviewing travel documents at Trivandrum International Airport departure terminal"
+  },
+  "quickAnswer": {
+    "question": "What are the most common questions about international travel from Trivandrum?",
+    "answer": "Travellers most frequently ask: how much do international packages cost (₹20,000–₹1,34,000+ depending on destination and tier), do packages include flights (yes, from TRV), how long does visa processing take (3–7 working days), what's included in the price (flights, visa, hotels, transfers, sightseeing, coordinator), and whether travel insurance is included (recommended but typically separate). This FAQ covers all these and more."
+  },
+  "overview": "This FAQ compiles the questions our international travel team answers most frequently — from first-time travellers asking about passport validity to experienced clients comparing cruise options. Every answer reflects our actual operational experience and current 2026 pricing and policy landscape.",
+  "faqGroups": [
+    {
+      "groupHeading": "Package Pricing & What's Included",
+      "faqs": [
+        {
+          "question": "How much do international packages from Trivandrum cost?",
+          "answer": "Prices vary by destination and tier. Current ranges: Sri Lanka from ₹20,000/person (4N/5D budget), Vietnam from ₹45,000 (6N/7D budget), Bali from ₹35,000 (5N/6D budget), Singapore-Malaysia from ₹45,000 (4N/5D budget) to ₹1,34,000+ (9N/10D premium with cruise), Dubai from ₹40,000 (4N/5D), Thailand from ₹40,000 (5N/6D). All prices are per person on twin-sharing basis. Contact us for exact quotes based on your travel dates and group size."
+        },
+        {
+          "question": "What exactly is included in an iWay Tourism international package?",
+          "answer": "Every standard package includes: return flights from Trivandrum Airport (TRV), visa processing for the destination, hotel accommodation (twin sharing basis, star rating as per tier), airport transfers at the destination, inter-city transfers as per the itinerary, guided sightseeing as listed, daily breakfast, and a dedicated iWay trip coordinator reachable by phone and WhatsApp throughout the trip. Items typically NOT included: lunch and dinner (unless specifically listed), travel insurance, personal shopping, tips, and optional add-on activities."
+        },
+        {
+          "question": "Are the prices per person or per couple?",
+          "answer": "All iWay Tourism international package prices are quoted per person on a twin-sharing basis. This means the price assumes two people sharing one hotel room. Single occupancy (one person in a room) incurs an additional supplement — typically ₹5,000–₹15,000 depending on destination and hotel category. For families with children, child-sharing-with-parents pricing is available at reduced rates."
+        },
+        {
+          "question": "Can I customise a package or build one from scratch?",
+          "answer": "Absolutely. Every iWay Tourism package is customisable. You can modify the itinerary (add days, remove stops, swap activities), upgrade the hotel category, add optional experiences (cruises, cooking classes, adventure activities), or change the travel dates. We also build completely bespoke itineraries for destinations in our portfolio. Custom itinerary design is free — you pay only for the services booked."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Flights & Airport Logistics",
+      "faqs": [
+        {
+          "question": "Do packages include flights from Trivandrum?",
+          "answer": "Yes. Every iWay Tourism international package includes return flights from Trivandrum International Airport (TRV). For destinations with direct flights from TRV (Sri Lanka, Dubai, Singapore, Malaysia, Thailand), we book direct routes. For destinations without direct service (Bali, Vietnam, Kazakhstan), we arrange the most efficient single-stop connection — typically via Colombo, Kuala Lumpur, Singapore, or Dubai."
+        },
+        {
+          "question": "Which airlines fly international routes from Trivandrum?",
+          "answer": "Major carriers operating international routes from TRV include Air India, IndiGo, Air Arabia, Emirates, SpiceJet, and SriLankan Airlines. Direct destinations from TRV include Colombo, Dubai, Abu Dhabi, Sharjah, Muscat, Kuala Lumpur, and Singapore (subject to seasonal schedules). iWay Tourism selects airlines based on the best combination of price, timing, and baggage allowance for your specific route."
+        },
+        {
+          "question": "What if my flight is delayed or cancelled?",
+          "answer": "Flight disruptions are handled by your iWay coordinator in real time. If a departure delay affects your connection, we rebook the connecting flight immediately. If a cancellation occurs, we work with the airline to secure the next available flight and adjust the destination itinerary accordingly. This is one of the key advantages of booking a managed package over DIY booking — you have a coordinator solving problems while you wait at the airport."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Visa Processing",
+      "faqs": [
+        {
+          "question": "How long does visa processing take?",
+          "answer": "Standard processing times: Singapore e-visa (3–5 working days), Malaysia eNTRI/eVISA (2–4 working days), Vietnam e-visa (3–5 working days), UAE/Dubai e-visa (3–5 working days), Thailand and Bali (visa-on-arrival at airport — no advance processing). Sri Lanka and Nepal require no visa. We recommend submitting documents at least 3 weeks before travel to allow for the processing window plus any correction buffer."
+        },
+        {
+          "question": "What documents do I need for visa processing?",
+          "answer": "The standard document set for most destinations includes: valid passport (minimum 6 months validity beyond travel date, at least 2 blank pages), recent passport-size photograph (white background, destination-specific specifications provided by us), confirmed return flight booking, hotel reservation, and proof of financial means (bank statement for last 3 months — required for Singapore and Dubai). iWay Tourism provides a destination-specific document checklist at the time of booking."
+        },
+        {
+          "question": "My passport expires in 5 months — can I still travel?",
+          "answer": "Most countries require a minimum 6 months passport validity from the date of entry. If your passport expires within 6 months of your planned travel date, you will need to renew it before visa processing can begin. Passport renewal in India typically takes 1–3 weeks through the Passport Seva portal. We recommend initiating renewal immediately if your travel date is within 3 months."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Travel Insurance & Safety",
+      "faqs": [
+        {
+          "question": "Is travel insurance included in the package?",
+          "answer": "Travel insurance is not included in standard package pricing but is strongly recommended for all international trips. Insurance covers medical emergencies abroad (hospitalisation costs in Singapore or Dubai can exceed ₹5–10 lakhs), trip cancellation, flight delays, lost baggage, and passport loss. iWay Tourism can arrange travel insurance through our recommended providers at approximately ₹500–₹1,500 per person depending on destination and coverage level."
+        },
+        {
+          "question": "What should I do in a medical emergency abroad?",
+          "answer": "Contact your iWay trip coordinator immediately — they will assist with locating the nearest hospital, coordinating with your travel insurance provider, and arranging any necessary logistics. Every iWay package includes a pre-departure briefing with emergency contact numbers specific to your destination, including the nearest Indian embassy or consulate."
+        }
+      ]
+    },
+    {
+      "groupHeading": "Booking Process & Payment",
+      "faqs": [
+        {
+          "question": "How do I book an international package with iWay Tourism?",
+          "answer": "Three options: (1) Fill out the enquiry form on our Contact page or on any international package page — we respond within 2 hours during business hours. (2) Call us directly at REPLACE:+91-XXXXX-XXXXX. (3) WhatsApp us at REPLACE:+91-XXXXXXXXXX with your preferred destination, travel dates, group size, and budget range. We send a detailed itinerary and quote within 24 hours. After review and any customisations, confirm with the required advance payment."
+        },
+        {
+          "question": "What is the advance payment required?",
+          "answer": "REPLACE:Advance payment structure. Example: 'International packages require a REPLACE:XX% advance at the time of booking confirmation. The remaining balance is due REPLACE:XX days before the departure date. Advance payments secure your flight booking and hotel reservation. Payment can be made via bank transfer, UPI, or at our Marthandam office.'"
+        },
+        {
+          "question": "How far in advance should I book an international trip?",
+          "answer": "For the best flight prices and hotel availability, we recommend booking 6–8 weeks before your intended travel date. Peak season travel (December–January, May–June) should be booked 8–12 weeks ahead. Last-minute bookings (less than 3 weeks) are possible but may incur higher flight costs and limited hotel options. Visa processing requires a minimum of 2–3 weeks for most destinations."
+        },
+        {
+          "question": "What is your cancellation policy for international packages?",
+          "answer": "REPLACE:Cancellation policy for international packages. Example: 'More than 30 days before departure: full refund minus processing fee of ₹X,XXX. 15–30 days: 50% of package cost retained. Less than 15 days: non-refundable. Flight tickets are subject to airline-specific cancellation policies and may carry separate penalties. Full details are in our Terms of Service.'"
+        }
+      ]
+    },
+    {
+      "groupHeading": "First-Time International Travel",
+      "faqs": [
+        {
+          "question": "I've never travelled internationally — which destination should I start with?",
+          "answer": "For absolute first-timers, we recommend Sri Lanka or Singapore-Malaysia. Sri Lanka is the gentlest introduction: visa-free entry, 1.5-hour flight from Trivandrum, no language barrier (English widely spoken), familiar food, and the lowest package cost in our portfolio. Singapore-Malaysia is ideal if you want a more dramatic 'international' experience: world-class infrastructure, English widely spoken, and the dual-country format delivers variety without complexity. Both destinations have excellent tourist infrastructure and are very safe."
+        },
+        {
+          "question": "How much spending money should I carry beyond the package cost?",
+          "answer": "The amount varies by destination. As a guideline for a 5–7 day trip (with breakfast included in the package): Sri Lanka: ₹10,000–₹15,000 for meals and incidentals. Vietnam: ₹12,000–₹18,000. Thailand: ₹15,000–₹25,000. Bali: ₹15,000–₹20,000. Singapore-Malaysia: ₹25,000–₹40,000. Dubai: ₹25,000–₹50,000 (higher if shopping is a priority). We recommend carrying a mix of local currency (exchanged at Trivandrum Airport or destination airport) and an international debit/credit card."
+        },
+        {
+          "question": "Do I need to speak English well to travel internationally?",
+          "answer": "English proficiency is helpful but not essential for iWay Tourism packages. Our guided tours include English-speaking local guides, hotel staff in tourist areas speak basic English, and your iWay coordinator is available by WhatsApp for any communication that requires translation assistance. In Sri Lanka, Tamil is widely understood in the north. In Malaysia and Singapore, Tamil signage is present in many areas. Vietnam and Thailand have the highest language barrier, but pointing, gestures, and translation apps handle most situations."
+        }
+      ]
+    }
+  ]
+}

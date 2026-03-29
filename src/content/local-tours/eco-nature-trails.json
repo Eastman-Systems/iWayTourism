@@ -1,0 +1,143 @@
+{
+  "pageType": "sightseeing",
+  "seo": {
+    "title": "Eco-Tourism & Nature Trails Near Kanyakumari & Trivandrum | iWay Tourism",
+    "description": "Explore Poovar Backwaters, Neyyar Wildlife Sanctuary, Thirparappu Falls, Pechiparai Dam, and Muthukuzhivayal grasslands. Nature trails and eco-tourism near Kanyakumari and Trivandrum.",
+    "ogImage": "/images/hero/eco-nature-og.webp"
+  },
+  "hero": {
+    "heading": "Eco-Tourism & Nature Trails — The Green Side of the Deep South",
+    "subheading": "Mangrove backwaters, wildlife sanctuaries, monsoon waterfalls, and high-altitude grasslands — all within 60 km of Kanyakumari.",
+    "image": "/images/hero/eco-nature-hero.webp",
+    "imageAlt": "Houseboat gliding through the lush green mangrove-lined Poovar Backwaters with a flock of egrets taking flight"
+  },
+  "quickAnswer": {
+    "question": "What are the best eco-tourism and nature experiences near Kanyakumari and Trivandrum?",
+    "answer": "The Kanyakumari–Trivandrum corridor offers diverse eco-tourism: Poovar Backwaters (mangrove boat rides where river meets ocean), Neyyar Wildlife Sanctuary (lion-tailed macaques, crocodile breeding centre, boating), Thirparappu Falls (50-foot waterfall fed by the Kodayar River), Pechiparai Dam (reservoir surrounded by Western Ghats foothills), and the Muthukuzhivayal grasslands (high-altitude meadows near the Tamil Nadu–Kerala border)."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "The Western Ghats — a UNESCO World Heritage biodiversity hotspot — form the western and northern boundary of Kanyakumari district. This means that within an hour's drive from the coastal flatlands where tourists typically stay, the landscape transitions through rubber plantations, tropical deciduous forests, cascading rivers, and high-altitude grasslands. The eco-tourism experiences listed here are not resort-based luxury retreats — they are genuine encounters with landscapes shaped by monsoon hydrology, endemic wildlife, and centuries of local agricultural practice. iWay's nature circuits are designed with seasonal awareness: the waterfalls peak between July and December, the backwaters are calmest from October to February, and the grasslands are most dramatic in the post-monsoon flush of September–November.",
+  "attractions": [
+    {
+      "name": "Poovar Backwaters",
+      "description": "Thirty kilometres south of Trivandrum, Poovar sits at a remarkable geographical meeting point — the Neyyar River's freshwater backwaters converge with the Arabian Sea, separated by a narrow golden sandbar. A boat ride through the mangrove-lined channels reveals an estuarine ecosystem rich in birdlife: kingfishers, cormorants, Brahminy kites, and occasional monitor lizards sunning on the banks. The colour shift where fresh and salt water mix is visibly dramatic. Poovar Beach, at the end of the ride, is accessible only by water.",
+      "image": "/images/local/poovar-mangroves.webp",
+      "imageAlt": "Boat navigating through narrow mangrove channels in the Poovar Backwaters with a kingfisher perched on a branch",
+      "timings": "Boat rides available 9:00 AM – 5:30 PM. Best timing: 3:30–5:30 PM for golden light and active birdlife.",
+      "entryFee": "₹300–500/person (shared boat), ₹1,500–2,000 (private boat).",
+      "duration": "2–2.5 hours including boat ride and beach time",
+      "highlights": [
+        "Freshwater-saltwater confluence with visible colour shift",
+        "Mangrove-lined channels with kingfishers and Brahminy kites",
+        "Poovar Beach — accessible only by water",
+        "Golden sandbar separating Neyyar River from Arabian Sea"
+      ],
+      "latitude": 8.3279,
+      "longitude": 77.0641
+    },
+    {
+      "name": "Neyyar Wildlife Sanctuary",
+      "description": "Spread across 128 square kilometres of the Western Ghats foothills, Neyyar Wildlife Sanctuary protects a tropical evergreen and semi-evergreen forest ecosystem that is home to elephants, gaur (Indian bison), sambar deer, lion-tailed macaques, and over 180 bird species. The Neyyar Dam reservoir within the sanctuary offers boating, and a crocodile breeding centre at the entrance provides a close encounter with mugger crocodiles. The sanctuary is part of the Agasthyamalai Biosphere Reserve and represents one of the most biodiverse pockets in South India.",
+      "image": "/images/local/neyyar-sanctuary.webp",
+      "imageAlt": "View of Neyyar Dam reservoir surrounded by Western Ghats forest with mist rising from the hills",
+      "timings": "9:00 AM – 5:00 PM. Closed on Mondays. Boating: 9:30 AM – 4:00 PM.",
+      "entryFee": "₹25 (Indian adults). Boating: ₹40–80/person. Crocodile centre: ₹10.",
+      "duration": "2–3 hours",
+      "highlights": [
+        "Lion-tailed macaque habitat — endemic Western Ghats primate",
+        "Neyyar Dam reservoir boating",
+        "Crocodile breeding centre with mugger crocodiles",
+        "Part of the Agasthyamalai UNESCO Biosphere Reserve"
+      ],
+      "latitude": 8.5475,
+      "longitude": 77.0892
+    },
+    {
+      "name": "Thirparappu Falls",
+      "description": "A 50-foot waterfall fed by the Kodayar River, set within a lush tropical landscape of rubber and spice plantations. Thirparappu is most dramatic during and after the monsoon (July–December) when the cascade is at full force, but maintains a steady flow even in the dry season. A shallow pool at the base allows safe wading during low-flow months. A Shiva temple at the top of the falls provides an elevated viewing angle. The surrounding area smells intensely of rubber and wet earth — a sensory experience that photographs cannot capture.",
+      "image": "/images/local/thirparappu-falls-monsoon.webp",
+      "imageAlt": "Thirparappu Waterfalls at full monsoon force cascading over rock faces surrounded by tropical vegetation",
+      "timings": "7:00 AM – 6:00 PM daily.",
+      "entryFee": "₹10. Changing rooms available.",
+      "duration": "45 minutes–1 hour",
+      "highlights": [
+        "50-foot waterfall fed by the Kodayar River",
+        "Safe wading pool at the base (dry season only)",
+        "Shiva temple at the crest with elevated viewpoint",
+        "Surrounded by rubber and spice plantation landscape"
+      ],
+      "latitude": 8.2714,
+      "longitude": 77.2567
+    },
+    {
+      "name": "Pechiparai Dam & Reservoir",
+      "description": "Built across the Kodayar River in the late 19th century, Pechiparai Dam is the primary water source for Nagercoil and surrounding towns. The reservoir, framed by the Western Ghats foothills, offers a tranquil setting for a quiet visit — particularly in the early morning when mist rises off the water and the surrounding hills. The dam is also the starting point of the water channel that feeds the Mathur Aqueduct. Wildlife sightings (elephants, deer) are occasional along the approach roads, especially during early morning hours.",
+      "timings": "Open daylight hours.",
+      "entryFee": "Free.",
+      "duration": "30–45 minutes",
+      "highlights": [
+        "Scenic reservoir framed by Western Ghats foothills",
+        "Source of the Mathur Aqueduct water channel",
+        "Early morning mist and occasional wildlife sightings",
+        "Quiet setting away from tourist crowds"
+      ],
+      "latitude": 8.3467,
+      "longitude": 77.2234
+    },
+    {
+      "name": "Muthukuzhivayal Grasslands",
+      "description": "A high-altitude grassland plateau near the Tamil Nadu–Kerala border, Muthukuzhivayal offers open meadow landscapes that are dramatically different from the coastal and plantation environments that dominate the rest of the district. The grasslands are most vivid in the post-monsoon months (September–November) when they turn a deep green, with wildflowers and low-altitude mist creating an almost cinematic atmosphere. Access is via a winding road through tea and cardamom plantations. This is a genuinely off-the-radar destination even by local standards.",
+      "timings": "Best visited during daylight. No formal entry point or gate.",
+      "entryFee": "Free.",
+      "duration": "1–2 hours",
+      "highlights": [
+        "High-altitude grasslands unlike any landscape in Kanyakumari district",
+        "Post-monsoon wildflower blooms (September–November)",
+        "Winding approach through tea and cardamom plantations",
+        "Virtually unknown to tourists — genuine off-grid experience"
+      ],
+      "latitude": 8.3200,
+      "longitude": 77.1900
+    }
+  ],
+  "practicalInfo": {
+    "howToGetThere": "Poovar is 30 km south of Trivandrum city (45 minutes). Neyyar Wildlife Sanctuary is 32 km east of Trivandrum (1 hour). Thirparappu Falls, Pechiparai Dam, and Muthukuzhivayal are in the interior of Kanyakumari district (50–70 km from Kanyakumari town, 1.5–2 hours). All require a vehicle. iWay Tourism offers a full-day nature circuit covering the best combination based on season and client interest.",
+    "bestTimeToVisit": "October to February for Poovar (calm waters, active birdlife) and Neyyar (clear skies, best boating). July to December for Thirparappu Falls (peak water flow). September to November for Muthukuzhivayal grasslands (post-monsoon green, wildflowers). Pechiparai is best in early morning year-round.",
+    "duration": "A full day covers 3–4 of these sites comfortably. The Poovar Backwaters alone require a half-day allocation due to travel time from Kanyakumari.",
+    "tips": [
+      "Carry insect repellent for Poovar and Neyyar — mosquitoes are active near water, especially at dusk.",
+      "Wear footwear with grip for Thirparappu Falls and the Muthukuzhivayal approach. Stone steps and plantation trails can be slippery.",
+      "Binoculars significantly enhance the Poovar and Neyyar experiences. Kingfishers and Brahminy kites are common but fast-moving.",
+      "The Muthukuzhivayal road is narrow and winding — our drivers know it well but inform your group about the curves to avoid motion sickness."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is the Neyyar Wildlife Sanctuary suitable for children?",
+      "answer": "Yes. The crocodile breeding centre and the dam reservoir boating are family-friendly and accessible. The nature walk trails within the sanctuary are flat to moderately undulating. Children under 5 are carried on the boats without separate tickets. The sanctuary is not a dense jungle trek — it is an accessible, managed park environment."
+    },
+    {
+      "question": "Are Thirparappu Falls worth visiting in the dry season (January–May)?",
+      "answer": "The falls maintain a steady cascade even in the dry season, though the volume is significantly reduced compared to monsoon months. The shallow wading pool at the base is actually more usable in dry season (safer water levels). If waterfalls are a priority, time your visit between August and November for the most dramatic flow."
+    }
+  ],
+  "crossSell": {
+    "heading": "Nature Lovers — Here's Your Next Adventure",
+    "body": "If the backwaters and Western Ghats foothills sparked something, these international destinations deliver nature at a grander scale.",
+    "links": [
+      {
+        "label": "Sri Lanka Express Tours",
+        "url": "/international-tours/sri-lanka",
+        "tagline": "Yala National Park safaris, Nuwara Eliya tea highlands, and Sinharaja rainforest — visa-free."
+      },
+      {
+        "label": "Bali Honeymoon Escapes",
+        "url": "/international-tours/bali-honeymoon",
+        "tagline": "Ubud rice terraces, Nusa Penida cliffs, and Bali's volcanic landscapes from ₹35,000."
+      }
+    ]
+  }
+}

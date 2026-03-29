@@ -1,0 +1,120 @@
+{
+  "pageType": "editorial",
+  "seo": {
+    "title": "South India Cuisine Guide — What to Eat in Kanyakumari & Trivandrum | iWay Tourism",
+    "description": "A food lover's guide to the Kanyakumari–Trivandrum corridor: coastal seafood, Kerala sadya, Chettinad spice, Tamil breakfast culture, and where to find the best local restaurants.",
+    "ogImage": "/images/hero/cuisine-guide-og.webp"
+  },
+  "hero": {
+    "heading": "What to Eat in the Deep South — A Regional Cuisine Guide",
+    "subheading": "Coastal seafood caught hours before it reaches your plate, Kerala's banana-leaf sadya feasts, Chettinad spice, and Tamil breakfast traditions — a food map of the Kanyakumari–Trivandrum corridor.",
+    "image": "/images/hero/cuisine-guide-hero.webp",
+    "imageAlt": "Traditional Kerala sadya feast served on a banana leaf with rice, sambar, rasam, avial, and assorted pickles"
+  },
+  "quickAnswer": {
+    "question": "What are the must-try foods in Kanyakumari and Trivandrum?",
+    "answer": "The Kanyakumari–Trivandrum corridor offers a distinctive food landscape: fresh coastal seafood (karimeen, prawns, seer fish), Kerala's banana-leaf sadya (full vegetarian feast), Chettinad-style chicken and mutton with intense spice, traditional Tamil breakfast staples (idli, dosa, idiyappam, appam with stew), and Trivandrum's unique puttu-kadala combination. The region sits at the Tamil Nadu–Kerala culinary border, blending both traditions."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "The Kanyakumari–Trivandrum corridor occupies a unique culinary geography. It is the exact meeting point of Tamil Nadu's spice-forward, rice-based cuisine and Kerala's coconut-rich, curry-leaf-fragrant cooking tradition. Within a 50-km stretch, you move from a Kanyakumari seafood shack serving freshly caught seer fish fried in a Tamil masala to a Trivandrum restaurant plating an elaborate 26-item Kerala sadya on a banana leaf. This guide is not a restaurant review — it is a food map designed to help travellers navigate the regional cuisine with confidence, know what to order at each type of establishment, and understand the cultural context behind what they are eating.",
+  "sections": [
+    {
+      "heading": "What Makes Kanyakumari Seafood Different?",
+      "quickAnswer": {
+        "question": "What makes Kanyakumari seafood different from other coastal regions?",
+        "answer": "Kanyakumari's seafood benefits from the Triveni Sangam — the confluence of three water bodies that creates nutrient-rich waters supporting exceptional marine biodiversity. Fish is caught by small-boat fishermen and reaches restaurants within hours, not days. The local preparation style blends Tamil masala spicing with Kerala coconut-based gravies, creating a flavour profile unique to this border region."
+      },
+      "body": [
+        "The fishing communities of Kanyakumari district operate small-boat fleets that go out before dawn and return by late morning. This means the seafood in local restaurants has been out of the water for hours, not days — a freshness level that is genuinely different from what inland cities experience. The key species to look for are karimeen (pearl spot, a Kerala backwater fish prized for its delicate flavour), seer fish (neymeen, excellent grilled or fried), prawns (both river prawns from the Pahrali and sea prawns), crab, and squid.",
+        "The preparation style in Kanyakumari district reflects its border identity. You will find Tamil-style fish fry (heavily spiced, shallow-fried until crisp) served alongside Kerala-style fish curry (coconut milk base, curry leaves, kodampuli tamarind). The best establishments let you choose your fish from the day's catch displayed on ice at the entrance and select your preferred preparation.",
+        "REPLACE:Recommend 2–3 specific local restaurants or areas known for seafood — e.g., 'The seafood shacks along the Colachel harbour road serve the freshest catch in the district. In Kanyakumari town, [Restaurant Name] is reliable for both Tamil-style fried fish and Kerala-style fish curry.'"
+      ],
+      "image": "/images/local/kanyakumari-seafood.webp",
+      "imageAlt": "Freshly fried seer fish served with lemon wedges and onion rings at a Kanyakumari coastal restaurant"
+    },
+    {
+      "heading": "What Is a Kerala Sadya and Where Can I Try One?",
+      "quickAnswer": {
+        "question": "What is a Kerala sadya and where can I try one near Kanyakumari?",
+        "answer": "A sadya is Kerala's traditional vegetarian feast served on a banana leaf, typically featuring 20–26 dishes including rice, sambar, rasam, avial, olan, thoran, pachadi, payasam (dessert), and banana chips. In the Trivandrum–Kanyakumari corridor, sadyas are served at Kerala-style restaurants during lunch, and elaborately during Onam (August–September) and Vishu (April) festivals."
+      },
+      "body": [
+        "The Kerala sadya is one of India's great culinary experiences — a fully vegetarian meal of 20 to 26 dishes served on a fresh banana leaf in a specific spatial arrangement (each dish has a designated position on the leaf). The meal progresses through a sequence: banana chips and pappadam first, then rice with progressively more flavourful accompaniments — sambar, rasam, avial (mixed vegetable in coconut-yoghurt), olan (white pumpkin in coconut milk), thoran (dry vegetable stir-fry with coconut), pachadi (yoghurt-based condiment), and culminating in payasam (vermicelli or rice dessert in sweetened milk).",
+        "While the most elaborate sadyas are served during Onam (August–September) and Vishu (April), many restaurants in Trivandrum serve a daily lunch sadya with 12–16 items. The experience of eating with your hands from a banana leaf — mixing rice and curry in specific proportions — is integral to the meal and should not be bypassed.",
+        "REPLACE:Recommend 2–3 specific restaurants for sadya near Trivandrum or on the Trivandrum–Kanyakumari route. E.g., 'Arul Jyothi near Trivandrum East Fort serves a reliable daily sadya. For a premium experience, Villa Maya offers a contemporary take on the traditional format.'"
+      ],
+      "image": "/images/local/kerala-sadya.webp",
+      "imageAlt": "Elaborate Kerala sadya with 26 dishes arranged on a banana leaf including rice, sambar, avial, and payasam"
+    },
+    {
+      "heading": "Tamil Breakfast Culture — What to Order Before 10 AM",
+      "quickAnswer": {
+        "question": "What are the best Tamil breakfast dishes to try in the Kanyakumari region?",
+        "answer": "The Tamil breakfast staples in Kanyakumari district include idli (steamed rice cakes with sambar and chutney), dosa (crisp fermented rice-lentil crepe), idiyappam (string hoppers served with coconut milk or curry), appam (lacey rice pancake with a soft centre, paired with vegetable stew), and puttu (steamed rice-coconut cylinders served with kadala curry). Breakfast restaurants open by 6:30–7:00 AM."
+      },
+      "body": [
+        "South Indian breakfast culture is not an afterthought — it is a fully developed culinary tradition with its own techniques, fermentation processes, and regional variations. In the Kanyakumari district, breakfast is typically consumed between 7:00 and 9:30 AM, and the range of dishes available in even a modest roadside restaurant is remarkable.",
+        "The essentials: idli (steamed rice-lentil cakes — the softer and more pillowy, the better the restaurant), dosa (thin, crisp, fermented crepe — order masala dosa for a potato-filled version or plain for the pure fermentation flavour), idiyappam (delicate string hoppers made from pressed rice flour, best with coconut milk), and appam (a lacey, bowl-shaped rice pancake with a soft, spongy centre, traditionally paired with a mild vegetable or egg stew).",
+        "The Trivandrum-specific staple is puttu-kadala — cylinders of steamed rice flour layered with grated coconut, served with a spiced black chickpea curry. This combination is rare outside Kerala and is the single most revealing dish to try for understanding the local palate.",
+        "REPLACE:Recommend 1–2 specific breakfast spots. E.g., 'The Indian Coffee House in Trivandrum (inside a unique spiral-ramp building designed by Laurie Baker) is a cultural institution that serves excellent dosa and filter coffee. In Nagercoil, [Restaurant Name] is the local favourite for early morning idli-sambar.'"
+      ]
+    },
+    {
+      "heading": "Chettinad Influence — Where to Find Serious Spice",
+      "quickAnswer": {
+        "question": "Where can I find Chettinad food near Kanyakumari?",
+        "answer": "Chettinad cuisine — originally from the Sivaganga district of Tamil Nadu — has a strong presence in the Nagercoil and Kanyakumari restaurant scene. Known for its intense use of black pepper, fennel, star anise, and kalpasi (stone flower), Chettinad chicken (kozhi varuval) and Chettinad mutton curry are the signature dishes to seek out."
+      },
+      "body": [
+        "Chettinad cuisine is Tamil Nadu's most aggressively spiced regional cooking tradition. While it originates from the Chettinad region near Sivaganga (400 km north), its influence has permeated restaurant culture across Tamil Nadu, and Nagercoil–Kanyakumari has excellent Chettinad-style establishments.",
+        "The defining characteristic is the spice blend — freshly ground black pepper (not chilli powder), fennel seeds, star anise, kalpasi (stone flower), marathi mokku (dried flower pods), and curry leaves roasted in sesame oil. The result is a depth of flavour that is aromatic and complex rather than simply hot. The signature dishes are Chettinad chicken (kozhi varuval — dry-roasted with the full spice palette), Chettinad mutton curry (slow-cooked until the sauce thickens and concentrates), and egg pepper fry.",
+        "REPLACE:Recommend 1–2 specific Chettinad restaurants in Nagercoil or the region. E.g., '[Restaurant Name] on [Road] in Nagercoil serves the best Chettinad chicken varuval in the district — specify 'dry fry' when ordering for the most intense flavour.'"
+      ]
+    },
+    {
+      "heading": "Street Food and Snacks Worth Seeking Out",
+      "body": [
+        "Beyond the sit-down meal traditions, the Kanyakumari–Trivandrum corridor has a vibrant street food culture that travellers often overlook. Key items to seek out include: bajji (vegetable fritters — banana, chilli, and onion varieties, deep-fried in chickpea batter, served with coconut chutney), murukku (crunchy spiral snacks made from rice flour, available in every local shop), sundal (spiced chickpea or black-eyed pea salad sold at temple entrances and beaches), and pazham pori (ripe banana fritters coated in a sweet batter — Kerala's favourite tea-time snack).",
+        "At Kanyakumari's seafront, vendors sell fresh mussel and clam preparations during the evening — these are hyper-local and extremely fresh. In Trivandrum, the area around Chalai Market is the best stretch for street food variety.",
+        "A word on food safety: the hot, humid climate means perishable street food should be consumed at stalls with visible turnover (busy stalls where food is freshly made). Avoid pre-prepared items that have been sitting. Your iWay driver will know which stalls are reliable — ask them."
+      ]
+    }
+  ],
+  "practicalInfo": {
+    "tips": [
+      "Eat with your right hand — this is the local norm for sadya and most traditional meals. Cutlery is available at most restaurants but using your hands is considered the correct way to experience the flavours.",
+      "Specify your spice tolerance when ordering Chettinad dishes. 'Medium' at a Kanyakumari Chettinad restaurant is significantly spicier than medium in most other Indian regions.",
+      "Vegetarians will thrive — the sadya tradition and Tamil breakfast culture are predominantly vegetarian. Non-vegetarian options are abundant at seafood restaurants and Chettinad establishments.",
+      "Filter coffee in this region is exceptional. Order 'degree coffee' for the strongest, most traditional preparation — brewed with fresh milk that has been boiled to concentrate its fat content."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is the food in Kanyakumari very spicy?",
+      "answer": "It depends on what you order. Tamil breakfast items (idli, dosa, appam) are mild. Kerala sadya dishes range from mild to moderately spiced. Chettinad chicken and mutton are intensely spiced but not necessarily chilli-hot — the heat comes from black pepper rather than chillies. Seafood preparations vary — you can request mild preparations at most restaurants. Ask your iWay driver or guide for restaurant-specific recommendations based on your tolerance."
+    },
+    {
+      "question": "Are there good vegetarian options in the Kanyakumari region?",
+      "answer": "Excellent ones. South India is arguably the best region in the world for vegetarian cuisine. The Kerala sadya is entirely vegetarian. Tamil breakfast culture (idli, dosa, pongal, upma) is predominantly vegetarian. Every restaurant in the region offers a full vegetarian menu. Pure-vegetarian restaurants are also plentiful — look for signage that says 'Pure Veg' or 'Veg Restaurant'."
+    }
+  ],
+  "crossSell": {
+    "heading": "Hungry for More? These Destinations Are Food Destinations Too",
+    "body": "If regional cuisine is part of what makes travel meaningful for you, these international packages include culinary experiences as a core element.",
+    "links": [
+      {
+        "label": "Vietnam Budget Adventures",
+        "url": "/international-tours/vietnam",
+        "tagline": "Hanoi street food tours, pho in its birthplace, and Da Nang's seafood coast from ₹45,000."
+      },
+      {
+        "label": "Thailand Coastal Retreats",
+        "url": "/international-tours/thailand",
+        "tagline": "Bangkok's night markets, Phuket seafood, and Chiang Mai cooking classes from ₹40,000."
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "pageType": "sightseeing",
+  "seo": {
+    "title": "Trivandrum Heritage Tour — Temples, Museums & Backwaters | iWay Tourism",
+    "description": "Explore Trivandrum's Padmanabhaswamy Temple, Napier Museum, Sri Chitra Art Gallery, Kuthiramalika Palace, and Poovar Backwaters. Timings, entry fees, and local tips.",
+    "ogImage": "/images/hero/trivandrum-heritage-og.webp"
+  },
+  "hero": {
+    "heading": "Trivandrum Heritage Tour — The Kerala Capital's Hidden Depth",
+    "subheading": "Dravidian temple architecture, Indo-Saracenic museums, Travancore palace art, and a backwater estuary where river meets ocean — all within a 30-km radius.",
+    "image": "/images/hero/trivandrum-heritage-hero.webp",
+    "imageAlt": "Ornate Dravidian gopuram of the Sree Padmanabhaswamy Temple reflected in the temple tank in Trivandrum"
+  },
+  "quickAnswer": {
+    "question": "What are the best heritage attractions to visit in Trivandrum?",
+    "answer": "Trivandrum's essential heritage circuit includes the Sree Padmanabhaswamy Temple (16th-century Dravidian masterpiece with treasure vaults), the Napier Museum (1880 Indo-Saracenic architecture housing bronze idols and ivory carvings), the Sri Chitra Art Gallery (Raja Ravi Varma originals), Kuthiramalika Palace Museum (Travancore royal artefacts), and the Poovar Backwaters where the Neyyar River meets the Arabian Sea."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "Most travellers use Trivandrum as an airport transit point — land, transfer to Kanyakumari, and leave. That is a mistake. Within a 30-kilometre radius of the city centre, Trivandrum holds a concentration of architectural, artistic, and natural heritage that rivals any city in South India. The Padmanabhaswamy Temple alone — with its $20 billion treasure discovery in 2011 — would justify a dedicated visit. Add the 1880 Indo-Saracenic museum, a palace museum with 122 carved wooden horses, and a backwater system accessible only by boat, and you have a full day that most tour operators overlook because they are in a rush to reach Kanyakumari.",
+  "attractions": [
+    {
+      "name": "Sree Padmanabhaswamy Temple",
+      "description": "Trivandrum's most sacred and architecturally significant site — a 16th-century Dravidian temple dedicated to Lord Vishnu in a reclining posture (Anantha Shayanam). The temple's 100-foot gopuram, carved stone corridors, and the famous mural of the reclining deity visible through three separate doorways are among the finest examples of Kerala temple architecture. In 2011, six underground vaults were found to contain treasures valued at over $20 billion, making it one of the wealthiest religious institutions in the world.",
+      "image": "/images/local/padmanabhaswamy-detail.webp",
+      "imageAlt": "The towering gopuram of Sree Padmanabhaswamy Temple with intricate stone carvings and devotees at the base",
+      "timings": "3:30–4:45 AM, 6:30–7:00 AM, 8:30 AM–10:00 AM, 10:30 AM–11:10 AM, 11:45 AM–12:00 PM, 5:00–6:15 PM, 6:45–7:20 PM (darshan timings vary slightly on festival days).",
+      "entryFee": "Free entry. Special darshan available at nominal cost.",
+      "dressCode": "Strictly enforced: men must wear mundu (dhoti) without shirt. Women must wear saree, half-saree, or long skirt with blouse covering shoulders. No Western clothing. Rental mundus available at shops opposite the east gate (₹50–100).",
+      "duration": "1.5–2 hours",
+      "highlights": [
+        "Reclining Vishnu deity visible through three doorways",
+        "16th-century Dravidian stone gopuram",
+        "Site of the 2011 treasure vault discovery ($20+ billion)",
+        "Mural paintings on corridor ceilings"
+      ],
+      "latitude": 8.4826,
+      "longitude": 76.9436
+    },
+    {
+      "name": "Napier Museum",
+      "description": "Built in 1880 by Robert Chisholm in the Indo-Saracenic style — a flamboyant fusion of Gothic, Mughal, Kerala, and Chinese influences that makes it one of the most architecturally distinctive museum buildings in India. The collection includes a rare bronze statue of Shiva as Nataraja, ivory carvings, a Chola-period temple chariot, ancient musical instruments, and regional ethnographic exhibits. The museum sits inside the sprawling Kanakakkunnu Palace grounds, which also house the zoo and botanical garden.",
+      "image": "/images/local/napier-museum-interior.webp",
+      "imageAlt": "The colourful Indo-Saracenic exterior of Napier Museum with its ornate turrets and arched windows",
+      "timings": "10:00 AM – 4:45 PM. Closed on Mondays and Wednesday mornings. Lunch break: 12:45–1:45 PM.",
+      "entryFee": "₹20 (Indian adults), ₹5 (children). Camera fee: ₹25.",
+      "duration": "1–1.5 hours",
+      "highlights": [
+        "Indo-Saracenic architecture — one of the finest in South India",
+        "Chola-period bronze Nataraja",
+        "Ivory carvings and a ceremonial chariot",
+        "Botanical garden surrounding the museum"
+      ],
+      "latitude": 8.5069,
+      "longitude": 76.9556
+    },
+    {
+      "name": "Sri Chitra Art Gallery",
+      "description": "Adjacent to the Napier Museum within the same compound, this gallery holds one of India's most significant art collections. The highlight is a set of original paintings by Raja Ravi Varma, the 19th-century Kerala artist whose naturalistic depictions of Indian mythological figures defined an entire era of Indian art. The collection also includes Mughal miniatures, Tanjore paintings, and works from the Rajput school.",
+      "timings": "10:00 AM – 4:45 PM. Closed on Mondays and Wednesday mornings. Lunch break: 12:45–1:45 PM.",
+      "entryFee": "₹20 (Indian adults). Combined visit with Napier Museum recommended.",
+      "duration": "45 minutes–1 hour",
+      "highlights": [
+        "Original Raja Ravi Varma paintings",
+        "Mughal miniature collection",
+        "Tanjore gold-leaf paintings",
+        "Rajput school works"
+      ],
+      "latitude": 8.5065,
+      "longitude": 76.9560
+    },
+    {
+      "name": "Kuthiramalika Palace Museum (Puthenmalika)",
+      "description": "Built by Maharaja Swathi Thirunal Rama Varma in the early 19th century, this palace is named after the 122 carved wooden horses (kuthira = horse) that adorn the palace brackets. The museum displays Travancore royal artefacts — ivory thrones, crystal furniture, Belgian mirrors, and the personal musical instruments of Swathi Thirunal, who was both a king and a renowned Carnatic music composer. The palace's Kerala-style architecture features sloping tiled roofs, carved wooden beams, and open courtyards.",
+      "image": "/images/local/kuthiramalika-palace.webp",
+      "imageAlt": "Carved wooden horse brackets adorning the exterior of Kuthiramalika Palace in Trivandrum",
+      "timings": "8:30 AM – 12:30 PM, 3:00 PM – 5:30 PM. Closed on Mondays.",
+      "entryFee": "₹50 (Indian adults). Guided tours included.",
+      "duration": "45 minutes–1 hour",
+      "highlights": [
+        "122 carved wooden horse brackets",
+        "Ivory throne and crystal furniture",
+        "Musical instruments of Maharaja Swathi Thirunal",
+        "Traditional Kerala palace architecture"
+      ],
+      "latitude": 8.4830,
+      "longitude": 76.9440
+    },
+    {
+      "name": "Poovar Island & Backwaters",
+      "description": "Located 30 km south of Trivandrum city, Poovar occupies a unique geographical niche — the narrow sandbar where the Neyyar River's freshwater backwaters meet the Arabian Sea's salt water. A 45-minute boat ride through mangrove-lined channels leads to the golden sandbar of Poovar Beach, accessible only by water. The backwater stretch is home to kingfishers, cormorants, and monitor lizards. The estuary's colour shifts visibly where fresh and salt water mix.",
+      "image": "/images/local/poovar-estuary.webp",
+      "imageAlt": "Boat approaching the Poovar sandbar where the Neyyar River backwaters meet the Arabian Sea",
+      "timings": "Boat rides available 9:00 AM – 5:30 PM (last departure). Best light for photography: 3:30–5:30 PM.",
+      "entryFee": "₹300–500/person (shared boat), ₹1,500–2,000 (private boat). Prices vary seasonally.",
+      "duration": "2–2.5 hours (including boat ride)",
+      "highlights": [
+        "Freshwater-saltwater confluence visible as colour change",
+        "Mangrove-lined backwater channels with birdlife",
+        "Poovar Beach — accessible only by boat",
+        "Golden sandbar separating river from ocean"
+      ],
+      "latitude": 8.3279,
+      "longitude": 77.0641
+    },
+    {
+      "name": "Shanghumukham Beach",
+      "description": "A wide, well-maintained beach adjacent to the Trivandrum airport runway, known for a 35-metre-long Jalakanyaka (mermaid) sculpture by Kerala artist Kanayi Kunhiraman. The beach faces west, making it the city's primary sunset viewpoint. Low-flying aircraft on approach to the runway add an unexpected visual element to the sunset experience.",
+      "timings": "Open 24 hours. Best visited 5:00–7:00 PM for sunset.",
+      "entryFee": "Free.",
+      "duration": "30–45 minutes",
+      "highlights": [
+        "35-metre Jalakanyaka mermaid sculpture",
+        "Unobstructed sunset views over the Arabian Sea",
+        "Aircraft spotting — planes approach directly overhead",
+        "Starfish beachside restaurant for fresh lime soda and fish curry"
+      ],
+      "latitude": 8.5015,
+      "longitude": 76.8874
+    }
+  ],
+  "practicalInfo": {
+    "howToGetThere": "Trivandrum International Airport (TRV) is the primary gateway, receiving direct flights from Chennai, Bangalore, Mumbai, Delhi, Kochi, and select international destinations. The city centre is 6 km from the airport (15–20 minutes by cab). Trivandrum Central railway station is centrally located. iWay Tourism provides airport and railway station pickups for all heritage tour bookings.",
+    "bestTimeToVisit": "October to March for comfortable temperatures (24–32°C) and low humidity. The monsoon months (June–August) bring heavy rainfall but lend a dramatic atmosphere to the museum and palace visits. Temple darshan timings remain consistent year-round.",
+    "duration": "A full day (8–10 hours) covers all six attractions comfortably. A half-day (4–5 hours) can cover the Padmanabhaswamy Temple, Napier Museum, and Sri Chitra Art Gallery.",
+    "tips": [
+      "The Padmanabhaswamy Temple morning darshan (6:30–7:00 AM) is the quietest slot. Arrive dressed and ready — no time for changing.",
+      "The Napier Museum and Sri Chitra Art Gallery share the same compound. Visit them back-to-back to save transit time.",
+      "Schedule Poovar Backwaters for the afternoon — the 3:30–5:30 PM light on the estuary is exceptional for photography.",
+      "Carry rental-appropriate clothing for the Padmanabhaswamy Temple. Shops near the east gate rent mundus, but arriving prepared saves 20 minutes."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can non-Hindus enter the Padmanabhaswamy Temple in Trivandrum?",
+      "answer": "The Padmanabhaswamy Temple permits entry only to Hindus. Non-Hindu visitors can view the impressive exterior architecture, the gopuram, and the temple tank from outside. The Kuthiramalika Palace Museum, adjacent to the temple, is open to all visitors and offers a complementary perspective on Travancore royal heritage."
+    },
+    {
+      "question": "How far is Trivandrum from Kanyakumari?",
+      "answer": "Trivandrum to Kanyakumari is approximately 90–95 km by road via NH-66 through Parasala and Nagercoil, taking 2 to 2.5 hours depending on traffic. iWay Tourism's 3-day coastal circuit covers this corridor as an experiential journey rather than a straight transfer, with stops at Padmanabhapuram Palace, Mathur Aqueduct, and Thirparappu Falls along the way."
+    }
+  ],
+  "crossSell": {
+    "heading": "Take Your Heritage Journey Beyond India",
+    "body": "If Trivandrum's architectural depth resonated with you, these destinations offer equally rich cultural immersion — with direct flights from TRV.",
+    "links": [
+      {
+        "label": "Vietnam Budget Adventures",
+        "url": "/international-tours/vietnam",
+        "tagline": "Hanoi's ancient quarter, Hue's imperial citadel, and Ha Long Bay from ₹45,000."
+      },
+      {
+        "label": "Sri Lanka Express Tours",
+        "url": "/international-tours/sri-lanka",
+        "tagline": "Kandy's Temple of the Tooth, Sigiriya rock fortress, and colonial Galle — visa-free."
+      }
+    ]
+  }
+}

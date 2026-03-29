@@ -1,0 +1,84 @@
+{
+  "pageType": "editorial",
+  "seo": {
+    "title": "Visa Guide for Indian Passport Holders — Southeast Asia & Middle East | iWay Tourism",
+    "description": "Complete visa guide for Indian travellers: e-visa, visa-on-arrival, and visa-free entry for Singapore, Malaysia, Bali, Vietnam, Sri Lanka, Dubai, Thailand, Kazakhstan, Azerbaijan, and Nepal.",
+    "ogImage": "/images/hero/visa-guide-og.webp"
+  },
+  "hero": {
+    "heading": "Global Visa Guide for Indian Passport Holders",
+    "subheading": "E-visa, visa-on-arrival, and visa-free entry explained for every destination iWay Tourism serves — with processing times, costs, and required documents.",
+    "image": "/images/hero/visa-guide-hero.webp",
+    "imageAlt": "Indian passport open to the visa pages alongside boarding passes and travel documents"
+  },
+  "quickAnswer": {
+    "question": "Which countries offer visa-on-arrival or visa-free entry for Indian passport holders?",
+    "answer": "From iWay Tourism's destination portfolio: Sri Lanka is visa-free for Indians (up to 30 days). Nepal requires no visa or passport (valid photo ID sufficient). Thailand and Indonesia (Bali) offer visa-on-arrival at the airport. Singapore, Malaysia, Vietnam, UAE (Dubai), Kazakhstan, and Azerbaijan require advance e-visa or electronic visa applications. iWay Tourism handles all visa processing as part of every international package."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "Visa logistics are the single biggest source of anxiety for first-time international travellers from India. This guide consolidates the visa requirements for every destination in iWay Tourism's portfolio — with the specific detail you need: processing times, exact costs, required documents, photograph specifications, and common mistakes to avoid. Every visa mentioned here is handled by iWay Tourism as part of your package — we prepare the application, submit it, track the status, and deliver the approved visa to you. This guide exists so you understand the process, not so you have to do it yourself.",
+  "sections": [
+    {
+      "heading": "Which Destinations Are Visa-Free for Indian Passport Holders?",
+      "quickAnswer": {
+        "question": "Which countries can Indians visit without a visa?",
+        "answer": "Among iWay Tourism's destinations, Sri Lanka offers visa-free entry for Indian nationals for tourism stays up to 30 days. Nepal goes further — Indian nationals do not need a passport (any valid government photo ID is accepted) and there is no visa requirement. These are the only two destinations in our portfolio with zero advance visa processing."
+      },
+      "body": [
+        "Sri Lanka: Indian passport holders enter visa-free for up to 30 days. Present your passport and return flight ticket at immigration. No application, no fee, no photograph needed. This policy has been in effect since 2024.",
+        "Nepal: Indian nationals enjoy a uniquely frictionless entry. No passport is required (though we recommend carrying one). No visa is required. Indian Rupees (up to ₹100 denomination) are accepted for transactions. Entry with any valid Indian government-issued photo ID — Aadhaar card, voter ID, or driving licence."
+      ]
+    },
+    {
+      "heading": "Which Destinations Offer Visa-on-Arrival for Indians?",
+      "quickAnswer": {
+        "question": "Which countries offer visa-on-arrival for Indians?",
+        "answer": "Thailand and Indonesia (Bali) offer visa-on-arrival for Indian nationals at the airport. Thailand's VoA costs THB 2,000 (~₹5,000) for stays up to 15 days. Indonesia's VoA costs USD 35 (~₹2,900) for stays up to 30 days. Both are processed at the immigration counter on landing — no advance application needed."
+      },
+      "body": [
+        "Thailand Visa-on-Arrival: Available at all international Thai airports. Cost: THB 2,000. Valid for 15 days. Requirements: passport (6 months validity, 2 blank pages), return ticket within 15 days, accommodation proof, recent photograph, proof of funds (THB 10,000 per person). Processing: 15–30 minutes at the airport counter.",
+        "Indonesia (Bali) Visa-on-Arrival: Available at Ngurah Rai Airport. Cost: USD 35. Valid for 30 days. Requirements: passport (6 months validity, 2 blank pages), return ticket, VoA fee in USD or card. Processing: 10–15 minutes. An e-VOA (electronic VoA) can also be applied for online before travel to skip the airport queue.",
+        "iWay Tourism pre-prepares all VoA documentation — arrival cards pre-filled, photographs printed, hotel confirmations ready — so the airport process takes minimum time."
+      ]
+    },
+    {
+      "heading": "Which Destinations Require Advance E-Visa Applications?",
+      "quickAnswer": {
+        "question": "Which popular destinations require Indians to apply for a visa in advance?",
+        "answer": "Singapore (e-visa, 3–5 working days), Malaysia (eNTRI or eVISA, 2–4 working days), Vietnam (e-visa, 3–5 working days), UAE/Dubai (e-visa, 3–5 working days), Kazakhstan (e-visa, 5–7 working days), and Azerbaijan (e-visa, 3 working days) all require advance electronic visa applications for Indian nationals. iWay Tourism handles all these applications as part of the package."
+      },
+      "body": [
+        "Singapore: Electronic visa submitted via an authorized agent. Requirements: passport, photograph, flight booking, hotel reservation, employment proof or bank statement. Processing: 3–5 working days. Cost: included in iWay package.",
+        "Malaysia: eNTRI (for stays under 15 days) or eVISA (for longer stays). Requirements: passport, photograph, flight and hotel bookings. Processing: 2–4 working days. Cost: included in iWay package.",
+        "Vietnam: E-visa via the Vietnamese immigration portal. Requirements: passport, digital photograph, application form. Processing: 3–5 working days. Cost: USD 25 (~₹2,100). Included in iWay package.",
+        "UAE (Dubai): Electronic tourist visa. Requirements: passport, white-background photograph, flight booking, hotel reservation, bank statement. Processing: 3–5 working days. Cost: included in iWay package.",
+        "Kazakhstan: E-visa via the government portal. Requirements: passport, photograph, travel itinerary, hotel booking, travel insurance proof. Processing: 5–7 working days. Cost: included in iWay package when packages launch.",
+        "Azerbaijan: E-visa (ASAN Visa). Requirements: passport, photograph. Processing: 3 working days. Cost: approximately USD 26. Included in iWay package when packages launch."
+      ]
+    },
+    {
+      "heading": "What Documents Should I Keep Ready for Any International Trip?",
+      "body": [
+        "Regardless of destination, iWay Tourism recommends keeping the following ready before any international trip: (1) Passport with minimum 6 months validity beyond your travel date and at least 2 blank pages for visa stamps. (2) Recent passport-size photographs — white background, 35mm x 45mm, with specifications matching the destination country's requirements. (3) Return flight ticket confirmation. (4) Hotel reservation confirmations. (5) Travel insurance document (strongly recommended for all destinations). (6) Bank statement or salary certificate (last 3 months) — required for Singapore, Dubai, and Kazakhstan visa applications. (7) Printed copies of all e-visas or VoA documentation.",
+        "iWay Tourism provides a pre-departure checklist specific to your destination 7 days before travel. Our coordinator reviews your documents and flags any issues before you reach the airport."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What happens if my visa application is rejected?",
+      "answer": "Visa rejections are rare for tourism applications with complete documentation, but they do occur. If a visa is rejected, iWay Tourism assists with the reapplication process — identifying the likely reason for rejection (usually incomplete documentation or insufficient financial proof) and resubmitting with the corrected application. If the destination's policy does not permit reapplication within the travel timeframe, we work with you to modify the trip to an alternative destination or arrange a full refund per our cancellation policy."
+    },
+    {
+      "question": "How far in advance should I apply for a visa?",
+      "answer": "We recommend submitting passport copies and photographs to iWay Tourism at least 3 weeks before your travel date. This gives sufficient time for standard processing (3–7 working days depending on destination) plus a buffer for any document corrections or resubmissions. For peak travel seasons (December–January, May–June), submit documents 4 weeks ahead."
+    },
+    {
+      "question": "Can iWay Tourism process visas for destinations not in your standard portfolio?",
+      "answer": "Our standard visa processing covers all destinations in our package portfolio. For other destinations, we provide guidance on the application process and required documents but do not submit applications on your behalf. Contact us for specific destination enquiries — we can recommend trusted visa agents for countries outside our standard coverage."
+    }
+  ]
+}

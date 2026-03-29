@@ -1,0 +1,60 @@
+{
+  "context": "https://schema.org",
+  "type": "Product",
+  "baseProperties": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "{{packageName}}",
+    "description": "{{packageDescription}}",
+    "image": "{{heroImage}}",
+    "brand": {
+      "@type": "Organization",
+      "name": "iWay Tourism"
+    },
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "iWay Tourism",
+      "url": "{{siteUrl}}"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "{{tierName}}",
+        "description": "{{tierDescription}}",
+        "price": "{{priceFrom}}",
+        "priceCurrency": "INR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "price": "{{priceFrom}}",
+          "priceCurrency": "INR",
+          "minPrice": "{{priceFrom}}",
+          "maxPrice": "{{priceTo}}",
+          "unitText": "per person"
+        },
+        "availability": "https://schema.org/InStock",
+        "validFrom": "{{validFrom}}",
+        "validThrough": "{{validThrough}}",
+        "url": "{{pageUrl}}",
+        "seller": {
+          "@type": "TravelAgency",
+          "name": "iWay Tourism"
+        },
+        "itemOffered": {
+          "@type": "TouristTrip",
+          "name": "{{tierName}}",
+          "touristType": "{{targetDemographic}}",
+          "itinerary": {
+            "@type": "ItemList",
+            "numberOfItems": "{{numberOfDays}}",
+            "itemListElement": "{{itinerarySteps}}"
+          }
+        }
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ratingValue}}",
+      "reviewCount": "{{reviewCount}}"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "pageType": "sightseeing",
+  "seo": {
+    "title": "Kanyakumari Sightseeing — Complete Guide to Landmarks, Temples & Beaches",
+    "description": "Visit Vivekananda Rock Memorial, Thiruvalluvar Statue, Kumari Amman Temple, Gandhi Memorial, and the Triveni Sangam. Timings, entry fees, dress codes, and local tips from iWay Tourism.",
+    "ogImage": "/images/hero/kanyakumari-sightseeing-og.webp"
+  },
+  "hero": {
+    "heading": "Kanyakumari Sightseeing — Where Three Oceans Meet",
+    "subheading": "The complete guide to every landmark, temple, and viewpoint at India's southernmost tip — with opening hours, entry fees, and the local knowledge that guidebooks miss.",
+    "image": "/images/hero/kanyakumari-sightseeing-hero.webp",
+    "imageAlt": "Panoramic view of Kanyakumari coastline showing the Vivekananda Rock Memorial and Thiruvalluvar Statue against a sunrise sky"
+  },
+  "quickAnswer": {
+    "question": "What are the must-visit places in Kanyakumari?",
+    "answer": "Kanyakumari's essential stops include the Vivekananda Rock Memorial and Thiruvalluvar Statue (accessed by ferry, ₹68 return), the Kumari Amman (Bhagavathy Amman) Temple — one of India's 108 Shakthi Peethas, the Gandhi Memorial Mandapam, the Triveni Sangam seafront where three oceans converge, and the Kanyakumari Wax Museum. Allow a full day for a relaxed visit covering all major landmarks."
+  },
+  "author": {
+    "name": "REPLACE:Author Name",
+    "role": "Senior Travel Consultant, iWay Tourism"
+  },
+  "overview": "Kanyakumari is compact — the entire town can be walked in an afternoon. But doing it well requires knowing which attractions to hit first (the Vivekananda Rock ferry queue doubles by 9:30 AM), which temples enforce dress codes, and which viewpoints deliver the best sunrise and sunset angles. This guide covers every major landmark with the operational detail you actually need: opening times, closure days, exact entry fees, and the kind of logistical tips that only come from running tours here every week.",
+  "attractions": [
+    {
+      "name": "Vivekananda Rock Memorial",
+      "description": "A memorial built in 1970 on the rock where Swami Vivekananda meditated in December 1892. The structure blends architectural elements from multiple Indian traditions — a Rajasthani-style mandapa on a Kanyakumari granite base. The meditation hall (dhyana mandapam) inside maintains a profound silence and is used by visitors for quiet contemplation. The ferry ride across from the mainland provides the best perspective of the three-ocean confluence.",
+      "image": "/images/local/vivekananda-rock-detail.webp",
+      "imageAlt": "Close-up view of the Vivekananda Rock Memorial mandapa with waves crashing against the rock base",
+      "timings": "Ferry operates 8:00 AM – 4:00 PM daily. Last ferry to the rock at 4:00 PM. Last return ferry at 5:00 PM. Ticket counter opens at 7:45 AM.",
+      "entryFee": "₹68 per person (return ferry, covers both Vivekananda Rock and Thiruvalluvar Statue). ₹5 camera fee.",
+      "duration": "1–1.5 hours including ferry wait and ride",
+      "highlights": [
+        "Dhyana Mandapam (meditation hall)",
+        "Shripada Mandapam — marking the exact spot Vivekananda is believed to have meditated",
+        "Panoramic 360-degree ocean views from the rock platform"
+      ],
+      "latitude": 8.0778,
+      "longitude": 77.5533
+    },
+    {
+      "name": "Thiruvalluvar Statue",
+      "description": "A 133-foot stone sculpture of the ancient Tamil poet-philosopher Thiruvalluvar, standing on a small island adjacent to the Vivekananda Rock. The statue's total height (95-foot figure + 38-foot pedestal) represents the 133 chapters of the Thirukkural. The pedestal houses a small exhibition on Thiruvalluvar's literary legacy. Accessible via a connecting walkway from the Vivekananda Rock — same ferry ticket covers both.",
+      "image": "/images/local/thiruvalluvar-statue.webp",
+      "imageAlt": "The 133-foot Thiruvalluvar Statue rising from the sea with the Indian mainland visible in the background",
+      "timings": "Same as Vivekananda Rock Memorial (8:00 AM – 4:00 PM ferry access).",
+      "entryFee": "Included in the ₹68 Vivekananda Rock ferry ticket.",
+      "duration": "20–30 minutes",
+      "highlights": [
+        "133-foot height symbolising 133 chapters of the Thirukkural",
+        "Exhibition hall in the pedestal",
+        "Mainland coastline view from the statue base — the best photo angle of Kanyakumari"
+      ],
+      "latitude": 8.0773,
+      "longitude": 77.5525
+    },
+    {
+      "name": "Kumari Amman Temple (Bhagavathy Amman Temple)",
+      "description": "One of India's 108 Shakthi Peethas, this ancient temple is dedicated to the goddess Kanyakumari (the virgin goddess). Legend holds that the diamond nose ring of the deity was so brilliant it confused passing ships, leading the eastern door to be permanently sealed. The temple sits at the physical southern tip of mainland India, directly adjacent to the Triveni Sangam waterfront.",
+      "image": "/images/local/kumari-amman-temple.webp",
+      "imageAlt": "Entrance gopuram of the Kumari Amman Temple at Kanyakumari with devotees entering",
+      "timings": "4:30 AM – 12:00 PM, 4:00 PM – 8:00 PM daily.",
+      "entryFee": "Free entry. Offerings optional.",
+      "dressCode": "Strict: men must remove shirts before entering. Women must cover shoulders. Footwear removed at the outer gate.",
+      "duration": "30–45 minutes",
+      "highlights": [
+        "One of 108 Shakthi Peethas in India",
+        "Sealed eastern door — linked to the diamond nose ring legend",
+        "Ocean-adjacent location — waves audible from inside the temple"
+      ],
+      "latitude": 8.0783,
+      "longitude": 77.5524
+    },
+    {
+      "name": "Gandhi Memorial Mandapam",
+      "description": "A striking memorial built at the spot where Mahatma Gandhi's ashes were kept for public viewing before immersion. The structure is architecturally designed so that on Gandhi's birthday (2nd October), sunlight falls precisely through the roof opening onto the exact spot where the urn was placed. The mandapam houses a small museum with photographs and letters from Gandhi's life.",
+      "image": "/images/local/gandhi-memorial.webp",
+      "imageAlt": "The white domed Gandhi Memorial Mandapam in Kanyakumari with its distinctive Odisha-style architecture",
+      "timings": "7:00 AM – 7:00 PM daily.",
+      "entryFee": "Free entry.",
+      "duration": "20–30 minutes",
+      "highlights": [
+        "Architectural sun-alignment on 2nd October (Gandhi Jayanti)",
+        "Original urn display area",
+        "Photography exhibits of Gandhi's final years"
+      ],
+      "latitude": 8.0785,
+      "longitude": 77.5535
+    },
+    {
+      "name": "Triveni Sangam Viewpoint",
+      "description": "The seafront where the Indian Ocean, Arabian Sea, and Bay of Bengal visibly converge. On clear days, the three bodies of water display subtly different colours due to differing sediment loads and wave patterns. This is also the primary sunrise and sunset viewpoint — Kanyakumari is one of the few places in India where both are visible from the same spot, given the coastline's orientation.",
+      "timings": "Open 24 hours. Sunrise typically 6:00–6:30 AM; sunset 6:00–6:30 PM (varies seasonally).",
+      "entryFee": "Free.",
+      "duration": "30 minutes – 1 hour",
+      "highlights": [
+        "Visible confluence of three ocean bodies",
+        "Simultaneous sunrise and sunset viewpoint",
+        "Full moon days in April (Chitra Purnima) — sunset and moonrise visible at the same time"
+      ],
+      "latitude": 8.0780,
+      "longitude": 77.5530
+    },
+    {
+      "name": "Kanyakumari Wax Museum (Baywatch)",
+      "description": "A modest but entertaining wax museum featuring life-size figures of Indian political leaders, cultural icons, and international figures. Located within walking distance of the seafront, it serves as a family-friendly indoor option — particularly useful during the midday heat or unexpected rain.",
+      "timings": "9:00 AM – 7:00 PM daily.",
+      "entryFee": "₹100 (adults), ₹50 (children below 12).",
+      "duration": "30–45 minutes",
+      "highlights": [
+        "Life-size wax figures of Indian leaders and cultural icons",
+        "Air-conditioned indoor space — useful midday break",
+        "Photography allowed"
+      ],
+      "latitude": 8.0793,
+      "longitude": 77.5530
+    }
+  ],
+  "practicalInfo": {
+    "howToGetThere": "Kanyakumari town is 95 km from Trivandrum International Airport (TRV) — approximately 2 to 2.5 hours by road via NH-66 through Parasala and Nagercoil. iWay Tourism provides direct airport transfers. Nagercoil Junction railway station is 22 km from Kanyakumari for rail travellers. Local auto-rickshaws operate within the town for short hops (₹30–80).",
+    "bestTimeToVisit": "October to March for the best weather, clearest skies, and calmest seas (essential for the Vivekananda Rock ferry). Sunrise viewing is best in December–January. Avoid major festival weekends when the town sees extreme crowding.",
+    "duration": "A full day covers all major landmarks comfortably. Half-day (4–5 hours) is possible if limited to the Vivekananda Rock, Kumari Amman Temple, and the Triveni Sangam viewpoint.",
+    "tips": [
+      "Hit the Vivekananda Rock ferry first — arrive at the counter by 7:45 AM. The queue exceeds 30 minutes by mid-morning.",
+      "The seafront sunset viewpoint near the Gandhi Memorial gets packed by 5:45 PM. For a less crowded experience, walk south along the rocks toward the fishing harbour.",
+      "Most attractions are within 1 km of each other and walkable. An auto-rickshaw for a full day of intra-town sightseeing costs approximately ₹400–600.",
+      "Carry modest clothing for temple visits. The Kumari Amman Temple enforces strict dress codes — men must remove shirts."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to see all the main attractions in Kanyakumari?",
+      "answer": "A full day (8–10 hours) comfortably covers all major landmarks including the Vivekananda Rock Memorial, Thiruvalluvar Statue, Kumari Amman Temple, Gandhi Memorial, Triveni Sangam viewpoint, and the wax museum, with time for lunch and a sunset viewing. A focused half-day visit (4–5 hours) can cover the ferry circuit and one temple."
+    },
+    {
+      "question": "What is the best time to see the sunrise at Kanyakumari?",
+      "answer": "Sunrise at Kanyakumari typically occurs between 6:00 and 6:30 AM depending on the season (earlier in summer, later in winter). The Triveni Sangam seafront and the rooftop of Hotel Sea View are the best viewing points. Arrive at least 20 minutes early to secure a good position. December to February offers the most dramatic sunrise light."
+    },
+    {
+      "question": "Is the Vivekananda Rock ferry safe for children and elderly visitors?",
+      "answer": "The ferry is a standard motorboat that carries 50+ passengers per trip across a 500-metre stretch. The ride takes about 10 minutes. It is generally safe, but the boarding and disembarkation involve stepping onto wet rocks and climbing a few stairs. During rough sea days, the ferry service is suspended entirely. For elderly visitors with mobility issues, confirm sea conditions before purchasing tickets."
+    }
+  ],
+  "crossSell": {
+    "heading": "From India's Tip to the World's Best Islands",
+    "body": "If the ocean views at Kanyakumari leave you wanting more, these island destinations offer the next level — and they depart directly from Trivandrum Airport.",
+    "links": [
+      {
+        "label": "Bali Honeymoon Escapes",
+        "url": "/international-tours/bali-honeymoon",
+        "tagline": "Cliffside temples, terraced rice fields, and private pool villas from ₹35,000."
+      },
+      {
+        "label": "Dubai Luxury & Shopping",
+        "url": "/international-tours/dubai",
+        "tagline": "Desert safaris, Marina cruises, and world-class shopping from ₹40,000."
+      }
+    ]
+  }
+}

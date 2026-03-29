@@ -1,0 +1,39 @@
+{
+  "context": "https://schema.org",
+  "type": "Article",
+  "baseProperties": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{pageUrl}}"
+    },
+    "headline": "{{seoTitle}}",
+    "description": "{{seoDescription}}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{heroImage}}",
+      "width": 1200,
+      "height": 630
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{authorName}}",
+      "jobTitle": "{{authorRole}}",
+      "worksFor": {
+        "@type": "TravelAgency",
+        "name": "iWay Tourism"
+      }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "iWay Tourism",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{siteUrl}}/images/logo.svg"
+      }
+    },
+    "datePublished": "{{datePublished}}",
+    "dateModified": "{{dateModified}}"
+  }
+}
