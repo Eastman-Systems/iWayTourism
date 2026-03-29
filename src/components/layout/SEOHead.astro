@@ -34,9 +34,9 @@ const siteUrl = commonData.business.url;
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="icon" href="/favicon.ico" />
 
+<!-- Font Preloads (Inter subset 60KB + Outfit 44KB = 104KB total) -->
+<link rel="preload" href="/fonts/inter-variable.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/outfit-variable.woff2" as="font" type="font/woff2" crossorigin />
+
 <!-- LCP Image Preload -->
 {preloadImage && <link rel="preload" href={preloadImage} as="image" fetchpriority="high" />}
-
-<!-- Fonts load via @font-face with font-display:swap — no preload needed.
-     Inter Variable (344KB) + Outfit (44KB) would saturate bandwidth on slow connections
-     and delay the LCP image. Swap ensures text is visible immediately with fallback fonts. -->
