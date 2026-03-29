@@ -83,13 +83,13 @@
       {
         "title": "Vietnam Budget Adventures",
         "slug": "vietnam",
-        "tagline": "Ha Long Bay cruises, Hanoi street food, and Sapa trekking from ₹45,000.",
+        "tagline": "Ha Long Bay cruises, Hanoi street food, and Sapa trekking.",
         "priceFrom": 45000,
         "image": "/images/destinations/vietnam-thumb.webp",
         "imageAlt": "Traditional wooden junk boat sailing through emerald waters among Ha Long Bay limestone karsts"
       },
       {
-        "title": "Dubai Luxury & Shopping",
+        "title": "Dubai Luxury and  Shopping",
         "slug": "dubai",
         "tagline": "Desert safaris, Marina cruises, and world-class shopping in the city of gold.",
         "priceFrom": 40000,

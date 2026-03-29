@@ -41,7 +41,7 @@ export const siloSpokes: Record<SiloType, NavItem[]> = {
     { label: 'Bali Honeymoon Escapes', url: '/international-tours/bali-honeymoon' },
     { label: 'Vietnam Budget Adventures', url: '/international-tours/vietnam' },
     { label: 'Sri Lanka Express', url: '/international-tours/sri-lanka' },
-    { label: 'Dubai Luxury & Shopping', url: '/international-tours/dubai' },
+    { label: 'Dubai Luxury and  Shopping', url: '/international-tours/dubai' },
     { label: 'Thailand Coastal Retreats', url: '/international-tours/thailand' },
     { label: 'Emerging 2026 Frontiers', url: '/international-tours/trending-2026' },
     { label: 'Visa Assistance Guide', url: '/international-tours/visa-guide' },
