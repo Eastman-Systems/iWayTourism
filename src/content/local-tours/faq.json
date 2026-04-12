@@ -2,7 +2,7 @@
   "pageType": "faq",
   "seo": {
     "title": "Local Transport FAQ — Cab Rentals, Airport Transfers & Tour Logistics | Kanyakumari & Trivandrum",
-    "description": "Frequently asked questions about local transport in Kanyakumari and Trivandrum: cab rental pricing, Tempo Traveller capacities, Trivandrum Airport transfers, booking process, and trip logistics.",
+    "description": "Frequently asked questions about local transport in Kanyakumari and Trivandrum: cab rental pricing, vehicle capacities, Trivandrum Airport transfers, booking process, and trip logistics.",
     "ogImage": "/images/hero/local-faq-og.webp"
   },
   "hero": {
@@ -13,7 +13,7 @@
   },
   "quickAnswer": {
     "question": "What are the most common transport questions for Kanyakumari and Trivandrum travel?",
-    "answer": "Travellers most frequently ask about Trivandrum Airport to Kanyakumari transfer time (95 km, 2–2.5 hours), cab rental pricing in Marthandam and Nagercoil, Tempo Traveller seating capacities (12/14/17/26 seats), advance booking requirements, and what is included in vehicle rental quotes (fuel, tolls, driver charges). This FAQ covers all of these with specific, up-to-date answers."
+    "answer": "Travellers most frequently ask about Trivandrum Airport to Kanyakumari transfer time (95 km, 2–2.5 hours), cab rental pricing in Marthandam and Nagercoil, Force Urbania and Tempo Traveller seating capacities (14/17/26 seats), advance booking requirements, and what is included in vehicle rental quotes (fuel, tolls, driver charges). This FAQ covers all of these with specific, up-to-date answers."
   },
   "overview": "This FAQ compiles the questions our team answers most frequently — from first-time visitors asking about airport logistics to repeat clients comparing vehicle options for group travel. Every answer includes specific distances, durations, and pricing structures based on our actual operational data, not generic estimates.",
   "faqGroups": [
@@ -43,11 +43,11 @@
       "faqs": [
         {
           "question": "What vehicles does iWay Tourism offer for hire?",
-          "answer": "iWay Tourism's fleet includes: Toyota Innova Crysta (7-seater, ideal for families of 4–6), 12-seater Tempo Traveller (pushback seats, suitable for friend groups and extended families), 14-seater Tempo Traveller (wider spacing, ideal for weddings and pilgrimages), 17-seater Tempo Traveller (high-roof with full standing height, for large groups), and 26-seater Mini Bus (for corporate events, large wedding parties, and institutional trips). All vehicles are air-conditioned and maintained on strict service schedules."
+          "answer": "iWay Tourism's fleet includes: Toyota Innova Crysta (7-seater, ideal for families of 4–6), Force Urbania (17-seater premium van, ideal for corporate groups and wedding shuttles), 14-seater Tempo Traveller (wider spacing, ideal for weddings and pilgrimages), 17-seater Tempo Traveller (high-roof with full standing height, for large groups), and 26-seater Mini Bus (for corporate events, large wedding parties, and institutional trips). All vehicles are air-conditioned and maintained on strict service schedules."
         },
         {
-          "question": "What is the difference between a 12-seater and 17-seater Tempo Traveller?",
-          "answer": "The 12-seater has pushback reclining seats with individual armrests, roof-mounted AC, and a rear boot. It suits groups of 8–10 with luggage. The 17-seater has a high-roof cabin allowing full standing height, more rows of pushback seats, and a larger rear boot. It suits groups of 12–15 with luggage. Both have PA systems and LED lighting. The 17-seater is recommended for multi-day outstation trips where comfort over long drives matters."
+          "question": "What is the difference between the Force Urbania and a 17-seater Tempo Traveller?",
+          "answer": "The Force Urbania is a premium 17-seater van with pushback reclining seats, extra legroom, USB charging at every seat, and individual AC vents — ideal for corporate groups and wedding guest shuttles. The 17-seater Tempo Traveller has a high-roof cabin with full standing height, more rows of pushback seats, and a larger rear boot — better suited for multi-day outstation trips where luggage space matters. Both have PA systems and AC. Choose Urbania for comfort, Tempo for capacity with luggage."
         },
         {
           "question": "Can I hire a vehicle for a one-way airport drop only?",

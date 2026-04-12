@@ -36,7 +36,7 @@
       "slug": "trivandrum-heritage",
       "tagline": "Padmanabhaswamy Temple, Napier Museum, Sri Chitra Art Gallery, and Poovar backwaters.",
       "image": "/images/local/trivandrum-heritage-thumb.webp",
-      "imageAlt": "Ornate Dravidian gopuram of the Sree Padmanabhaswamy Temple in Trivandrum"
+      "imageAlt": "Gallery wall with Raja Ravi Varma paintings in ornate gold frames at the Sri Chitra Art Gallery, Trivandrum"
     },
     {
       "title": "Hidden Gems of the Deep South",
@@ -69,9 +69,9 @@
     {
       "title": "Local Transport FAQ",
       "slug": "faq",
-      "tagline": "Cab rates, Tempo Traveller capacities, airport transfer timings, and booking logistics.",
-      "image": "/images/local/faq-thumb.webp",
-      "imageAlt": "iWay Tourism Innova Crysta on the coastal road approaching Kanyakumari town"
+      "tagline": "Cab rates, Force Urbania capacities, airport transfer timings, and booking logistics.",
+      "image": "/images/fleet/innova-crysta.webp",
+      "imageAlt": "White Toyota Innova Crysta on a scenic palm-lined Kerala road — iWay Tourism fleet"
     }
   ],
   "faqs": [

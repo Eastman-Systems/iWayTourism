@@ -2,7 +2,7 @@
   "pageType": "homepage",
   "seo": {
     "title": "iWay Tourism — Premier Travel & Tour Agency in Marthandam & Trivandrum",
-    "description": "Book local tours across Kanyakumari and Trivandrum, rent Innova and Tempo Traveller fleets, or explore international packages to Singapore, Bali, Dubai, and more — all from Marthandam.",
+    "description": "Book local tours across Kanyakumari and Trivandrum, rent Innova, Force Urbania, and Tempo Traveller fleets, or explore international packages to Singapore, Bali, Dubai, and more — all from Marthandam.",
     "ogImage": "/images/hero/homepage-og.webp"
   },
   "hero": {
@@ -105,20 +105,20 @@
       {
         "name": "Toyota Innova Crysta",
         "capacity": 7,
-        "image": "/images/fleet/innova-crysta-thumb.webp",
-        "imageAlt": "White Toyota Innova Crysta parked at the iWay Tourism office in Marthandam"
+        "image": "/images/fleet/innova-crysta.webp",
+        "imageAlt": "White Toyota Innova Crysta on a scenic palm-lined Kerala road — iWay Tourism fleet"
       },
       {
-        "name": "12-Seater Tempo Traveller",
-        "capacity": 12,
-        "image": "/images/fleet/tempo-12-thumb.webp",
-        "imageAlt": "12-seater Tempo Traveller with pushback seats ready for a group tour"
+        "name": "Force Urbania",
+        "capacity": 17,
+        "image": "/images/fleet/urbania.webp",
+        "imageAlt": "White Force Urbania premium van on a scenic palm-lined Kerala road"
       },
       {
         "name": "26-Seater Mini Bus",
         "capacity": 26,
-        "image": "/images/fleet/minibus-26-thumb.webp",
-        "imageAlt": "26-seater mini bus used for corporate group tours and wedding transport"
+        "image": "/images/fleet/minibus-26.webp",
+        "imageAlt": "White 26-seater mini bus on a scenic palm-lined Kerala road — iWay Tourism fleet"
       }
     ]
   },

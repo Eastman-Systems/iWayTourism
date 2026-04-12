@@ -1,19 +1,19 @@
 {
   "pageType": "fleet",
   "seo": {
-    "title": "Cab Rental & Tempo Traveller Hire in Marthandam, Nagercoil & Trivandrum",
-    "description": "Rent Toyota Innova, 12/14/17/26-seater Tempo Travellers, and luxury buses for airport transfers, local sightseeing, weddings, and outstation trips across Kanyakumari and Trivandrum.",
+    "title": "Cab Rental & Fleet Hire in Marthandam, Nagercoil & Trivandrum",
+    "description": "Rent Toyota Innova, Force Urbania, 14/17-seater Tempo Travellers, and 26-seater mini buses for airport transfers, local sightseeing, weddings, and outstation trips across Kanyakumari and Trivandrum.",
     "ogImage": "/images/hero/fleet-og.webp"
   },
   "hero": {
     "heading": "Reliable Fleet Rentals Across Kanyakumari & Trivandrum",
     "subheading": "Airport pickups from TRV, full-day local sightseeing, multi-day outstation trips, and wedding transport — maintained vehicles with experienced local drivers.",
     "image": "/images/hero/fleet-hero.webp",
-    "imageAlt": "Row of iWay Tourism vehicles including Innova Crysta, Tempo Traveller, and mini bus parked at the Marthandam depot"
+    "imageAlt": "Row of iWay Tourism vehicles including Innova Crysta, Force Urbania, and mini bus parked at the Marthandam depot"
   },
   "quickAnswer": {
     "question": "What vehicles does iWay Tourism offer for hire in Kanyakumari and Trivandrum?",
-    "answer": "iWay Tourism operates a fleet of Toyota Innova Crysta sedans, 12-seater, 14-seater, and 17-seater Tempo Travellers with pushback seats, and 26-seater mini buses. All vehicles are available for airport transfers from Trivandrum (TRV), local sightseeing, outstation trips, wedding transport, and corporate group travel across the Kanyakumari and Trivandrum districts."
+    "answer": "iWay Tourism operates a fleet of Toyota Innova Crysta sedans, Force Urbania premium vans, 14-seater and 17-seater Tempo Travellers with pushback seats, and 26-seater mini buses. All vehicles are available for airport transfers from Trivandrum (TRV), local sightseeing, outstation trips, wedding transport, and corporate group travel across the Kanyakumari and Trivandrum districts."
   },
   "vehicles": [
     {
@@ -32,18 +32,18 @@
       "priceNote": "REPLACE:Starting from ₹X,XXX/day for local use. Contact us for outstation and multi-day rates."
     },
     {
-      "name": "12-Seater Tempo Traveller",
-      "type": "Tempo Traveller",
-      "capacity": 12,
-      "image": "/images/fleet/tempo-12.webp",
-      "imageAlt": "12-seater Tempo Traveller with pushback seats used for group tours from Marthandam",
+      "name": "Force Urbania",
+      "type": "Premium Van",
+      "capacity": 17,
+      "image": "/images/fleet/urbania.webp",
+      "imageAlt": "White Force Urbania premium van on a scenic palm-lined Kerala road — iWay Tourism fleet",
       "features": [
-        "Pushback reclining seats with individual armrests",
-        "Roof-mounted AC with adjustable vents",
-        "PA system and LED interior lighting",
-        "Overhead luggage rack and rear boot space"
+        "Premium pushback reclining seats with extra legroom",
+        "Roof-mounted AC with individual vents",
+        "USB charging ports at every seat",
+        "Spacious luggage compartment and overhead racks"
       ],
-      "idealFor": "Extended families, friend groups, temple pilgrimage circuits, and mid-size corporate outings across the Kanyakumari district.",
+      "idealFor": "Premium group travel for 10–15 passengers, corporate outings, wedding guest shuttles, and multi-day outstation circuits across Kanyakumari and Trivandrum.",
       "priceNote": "REPLACE:Starting from ₹X,XXX/day. Includes driver, fuel for local limits, and tolls."
     },
     {
@@ -114,8 +114,8 @@
   },
   "faqs": [
     {
-      "question": "How far in advance should I book a Tempo Traveller in Marthandam?",
-      "answer": "For weekday travel, 2–3 days advance booking is usually sufficient. For weekends, festival periods (Pongal, Onam, Christmas), and wedding season (April–June), we recommend booking at least 7–10 days ahead. Peak-season availability for 17-seater and 26-seater vehicles fills up fastest."
+      "question": "How far in advance should I book a vehicle in Marthandam?",
+      "answer": "For weekday travel, 2–3 days advance booking is usually sufficient. For weekends, festival periods (Pongal, Onam, Christmas), and wedding season (April–June), we recommend booking at least 7–10 days ahead. Peak-season availability for Urbania, 17-seater, and 26-seater vehicles fills up fastest."
     },
     {
       "question": "Does the rental price include fuel and tolls?",
@@ -123,7 +123,7 @@
     },
     {
       "question": "Can I book a one-way drop from Trivandrum Airport to Kanyakumari?",
-      "answer": "Absolutely. The Trivandrum Airport (TRV) to Kanyakumari one-way transfer covers approximately 95 km and takes about 2 to 2.5 hours depending on traffic through Parasala and Nagercoil. We offer this transfer in Innova Crysta (up to 6 passengers) or Tempo Traveller (groups of 8+). Return trips from Kanyakumari to TRV are also available."
+      "answer": "Absolutely. The Trivandrum Airport (TRV) to Kanyakumari one-way transfer covers approximately 95 km and takes about 2 to 2.5 hours depending on traffic through Parasala and Nagercoil. We offer this transfer in Innova Crysta (up to 6 passengers) or Force Urbania or Tempo Traveller (groups of 8+). Return trips from Kanyakumari to TRV are also available."
     },
     {
       "question": "Are your drivers experienced with the Kanyakumari–Trivandrum route?",
@@ -131,7 +131,7 @@
     },
     {
       "question": "Do you provide vehicles for weddings and functions?",
-      "answer": "Yes. Wedding and function transport is one of our core services. We provide decorated vehicles for the wedding couple, Tempo Travellers for guest shuttles between venues, and mini buses for large wedding parties. We coordinate multi-vehicle logistics — from guest pickup points across Nagercoil and Marthandam to the wedding hall and back — as a single, managed booking."
+      "answer": "Yes. Wedding and function transport is one of our core services. We provide decorated vehicles for the wedding couple, Force Urbania and Tempo Travellers for guest shuttles between venues, and mini buses for large wedding parties. We coordinate multi-vehicle logistics — from guest pickup points across Nagercoil and Marthandam to the wedding hall and back — as a single, managed booking."
     }
   ]
 }
