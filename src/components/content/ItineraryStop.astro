@@ -9,13 +9,13 @@ const { name, description, duration, tip, image, imageAlt } = Astro.props;
 <!--
   Mobile  : 9:16 card — title + duration overlaid on bottom of image via gradient,
             description + tip below. Stops without images: normal text layout.
-  Desktop : 9:16 thumbnail (192px wide) left, title above description right.
+  Desktop : image 360px wide, height auto (natural ratio) left; text flex-1 right.
             No card chrome — left-border list style from ItineraryDay.
 -->
 <article class="overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm sm:flex sm:items-start sm:gap-6 sm:rounded-none sm:border-0 sm:bg-transparent sm:shadow-none sm:py-4">
 
   {image && (
-    <div class="relative sm:w-48 sm:shrink-0">
+    <div class="relative sm:w-[360px] sm:shrink-0">
       <img
         src={image}
         alt={imageAlt ?? name}
@@ -23,7 +23,7 @@ const { name, description, duration, tip, image, imageAlt } = Astro.props;
         height="1600"
         loading="lazy"
         decoding="async"
-        class="aspect-[9/16] w-full object-cover sm:rounded-lg"
+        class="aspect-[9/16] w-full object-cover sm:aspect-auto sm:rounded-lg"
       />
       <!-- Title overlay — mobile only. Gradient fades from transparent → black/75 -->
       <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/30 to-transparent px-4 pb-5 pt-16 sm:hidden">
