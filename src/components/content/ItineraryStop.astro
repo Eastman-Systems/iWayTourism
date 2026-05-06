@@ -6,29 +6,57 @@ interface Props extends ItineraryStopProps {}
 const { name, description, duration, tip, image, imageAlt } = Astro.props;
 ---
 
-<div class="flex gap-4 py-3">
+<!--
+  Mobile  : 9:16 card — title + duration overlaid on bottom of image via gradient,
+            description + tip below. Stops without images: normal text layout.
+  Desktop : 9:16 thumbnail (192px wide) left, title above description right.
+            No card chrome — left-border list style from ItineraryDay.
+-->
+<article class="overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm sm:flex sm:items-start sm:gap-6 sm:rounded-none sm:border-0 sm:bg-transparent sm:shadow-none sm:py-4">
+
   {image && (
-    <img
-      src={image}
-      alt={imageAlt ?? name}
-      width="600"
-      height="400"
-      loading="lazy"
-      class="hidden aspect-3/2 w-28 shrink-0 rounded-lg object-cover sm:block"
-    />
+    <div class="relative sm:w-48 sm:shrink-0">
+      <img
+        src={image}
+        alt={imageAlt ?? name}
+        width="900"
+        height="1600"
+        loading="lazy"
+        decoding="async"
+        class="aspect-[9/16] w-full object-cover sm:rounded-lg"
+      />
+      <!-- Title overlay — mobile only. Gradient fades from transparent → black/75 -->
+      <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/30 to-transparent px-4 pb-5 pt-16 sm:hidden">
+        <h4 class="font-heading text-base font-semibold leading-snug text-white">{name}</h4>
+        {duration && (
+          <span class="mt-0.5 block text-xs text-white/75">{duration}</span>
+        )}
+      </div>
+    </div>
   )}
-  <div class="flex-1">
-    <div class="flex items-baseline gap-2">
+
+  <div class="p-4 sm:flex-1 sm:p-0">
+    <!-- Title row: always visible when no image; desktop-only when image exists -->
+    <div class:list={[
+      'flex flex-wrap items-baseline gap-2',
+      image ? 'hidden sm:flex' : '',
+    ]}>
       <h4 class="font-heading text-sm font-semibold text-slate-900">{name}</h4>
       {duration && (
         <span class="text-xs text-slate-500">({duration})</span>
       )}
     </div>
-    <p class="mt-1 text-sm leading-relaxed text-slate-600">{description}</p>
+
+    <p class:list={[
+      'text-sm leading-relaxed text-slate-600',
+      image ? 'sm:mt-1' : 'mt-1',
+    ]}>{description}</p>
+
     {tip && (
-      <p class="mt-2 rounded-md bg-accent-light/10 px-3 py-2 text-xs text-accent-dark">
+      <p class="mt-2 rounded-md bg-amber-50 px-3 py-2 text-xs text-amber-800">
         <span class="font-semibold">Tip:</span> {tip}
       </p>
     )}
   </div>
-</div>
+
+</article>
