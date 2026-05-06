@@ -260,6 +260,11 @@ const contactSchema = z.object({
     src: z.string(),
     title: z.string(),
   }),
+  team: z.object({
+    heading: z.string(),
+    subheading: z.string().optional(),
+    members: z.array(teamMemberSchema),
+  }).optional(),
 });
 
 const reviewsSchema = z.object({

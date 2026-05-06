@@ -36,25 +36,25 @@
     "heading": "The People Behind Your Trip",
     "members": [
       {
-        "name": "REPLACE:Founder/Director Name",
+        "name": "Staalin Prakash G S",
         "role": "Founder & Managing Director",
         "bio": "REPLACE:2–3 sentences. Years of experience, personal travel background, role in day-to-day operations, specialization (e.g., international package design, fleet management).",
-        "image": "/images/team/REPLACE-founder.webp",
-        "imageAlt": "REPLACE:Name, Founder of iWay Tourism, at the Marthandam office"
+        "image": "/images/team/staalin-prakash.webp",
+        "imageAlt": "Staalin Prakash G S, Founder of iWay Tourism"
       },
       {
-        "name": "REPLACE:Senior Consultant Name",
+        "name": "Maria Glatson G",
         "role": "Senior Travel Consultant",
         "bio": "REPLACE:2–3 sentences. Focus area (e.g., Southeast Asia packages, visa processing, corporate group coordination). Mention destinations personally visited.",
-        "image": "/images/team/REPLACE-consultant.webp",
-        "imageAlt": "REPLACE:Name, Senior Travel Consultant at iWay Tourism"
+        "image": "/images/team/maria-glatson.webp",
+        "imageAlt": "Maria Glatson G, Senior Travel Consultant at iWay Tourism"
       },
       {
-        "name": "REPLACE:Operations Lead Name",
+        "name": "Bismi Saigh S",
         "role": "Fleet & Operations Manager",
         "bio": "REPLACE:2–3 sentences. Responsible for fleet scheduling, driver assignments, vehicle maintenance. Local expertise across Kanyakumari and Trivandrum routes.",
-        "image": "/images/team/REPLACE-operations.webp",
-        "imageAlt": "REPLACE:Name, Fleet & Operations Manager at iWay Tourism"
+        "image": "/images/team/bismi-saigh.webp",
+        "imageAlt": "Bismi Saigh S, Fleet & Operations Manager at iWay Tourism"
       }
     ]
   },

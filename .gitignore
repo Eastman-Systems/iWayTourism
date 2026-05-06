@@ -5,6 +5,13 @@ dist/
 
 # dependencies
 node_modules/
+functions/lib/
+
+# Firebase cache
+.firebase/
+
+# Claude Code local config
+.claude/
 
 # logs
 npm-debug.log*
@@ -19,6 +26,9 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Original high-res PNG source photos (store in Google Drive, not git)
+public/images/team/*.png
 
 # jetbrains setting folder
 .idea/

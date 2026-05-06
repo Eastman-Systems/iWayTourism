@@ -15,27 +15,54 @@
     "address": "REPLACE:Shop/Building Number, Street Name",
     "addressLocality": "Marthandam",
     "addressRegion": "Tamil Nadu",
-    "postalCode": "REPLACE:629165",
+    "postalCode": "629163",
     "country": "IN",
-    "phone": "REPLACE:+91-XXXXX-XXXXX",
-    "email": "REPLACE:info@iwaytourism.com",
-    "whatsapp": "REPLACE:+91XXXXXXXXXX"
+    "phone": "Contact: +91 9444992806",
+    "email": "Email: info@iwaytourism.com",
+    "whatsapp": "+919444992806"
   },
   "hours": {
     "heading": "Office Hours",
     "schedule": [
       {
         "days": "Monday – Saturday",
-        "hours": "REPLACE:9:00 AM – 7:00 PM"
+        "hours": "9:00 AM – 7:00 PM"
       },
       {
         "days": "Sunday",
-        "hours": "REPLACE:10:00 AM – 2:00 PM (by appointment)"
+        "hours": "10:00 AM – 2:00 PM (by appointment)"
       }
     ]
   },
   "mapEmbed": {
     "src": "REPLACE:https://www.google.com/maps/embed?pb=YOUR_EMBED_URL_HERE",
     "title": "iWay Tourism Office Location — Marthandam, Kanyakumari District"
+  },
+  "team": {
+    "heading": "Meet Our Team",
+    "subheading": "The people who plan, coordinate, and drive your journey.",
+    "members": [
+      {
+        "name": "Staalin Prakash G S",
+        "role": "Founder & Managing Director",
+        "bio": "REPLACE:2–3 sentences about Staalin Prakash — years of experience, personal travel background, role in day-to-day operations.",
+        "image": "/images/team/staalin-prakash.webp",
+        "imageAlt": "Staalin Prakash G S, Founder of iWay Tourism"
+      },
+      {
+        "name": "Maria Glatson G",
+        "role": "Senior Travel Consultant",
+        "bio": "REPLACE:2–3 sentences about Maria Glatson — focus area, packages she specialises in, destinations personally visited.",
+        "image": "/images/team/maria-glatson.webp",
+        "imageAlt": "Maria Glatson G, Senior Travel Consultant at iWay Tourism"
+      },
+      {
+        "name": "Bismi Saigh S",
+        "role": "Fleet & Operations Manager",
+        "bio": "REPLACE:2–3 sentences about Bismi Saigh — fleet scheduling, driver coordination, local expertise across Kanyakumari and Trivandrum routes.",
+        "image": "/images/team/bismi-saigh.webp",
+        "imageAlt": "Bismi Saigh S, Fleet & Operations Manager at iWay Tourism"
+      }
+    ]
   }
 }

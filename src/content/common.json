@@ -5,21 +5,19 @@
     "tagline": "Your Gateway to the World from the Deep South of India",
     "description": "iWay Tourism is a premier travel and tour agency based in Marthandam, serving the Kanyakumari district of Tamil Nadu and the Trivandrum district of Kerala. We offer curated local tour circuits, reliable fleet rentals, and competitively priced international holiday packages with complete visa assistance and flight coordination from Trivandrum International Airport.",
     "foundingYear": "REPLACE:YYYY",
-    "url": "REPLACE:https://iwaytourism.com",
+    "url": "https://iway-tourism.web.app",
     "logo": "/images/logo.svg",
-    "email": "REPLACE:info@iwaytourism.com",
-    "phone": "REPLACE:+91-XXXXX-XXXXX",
+    "email": "Email: info@iwaytourism.com",
+    "phone": "Contact: +91 9444992806",
     "whatsapp": "REPLACE:+91XXXXXXXXXX"
   },
-
   "address": {
-    "streetAddress": "REPLACE:Street Address, Building/Shop Details",
+    "streetAddress": "Opp. Jacobs Heart Speciality Hospital, Kuzhithurai Junction,",
     "addressLocality": "Marthandam",
     "addressRegion": "Tamil Nadu",
-    "postalCode": "REPLACE:629165",
+    "postalCode": "629163",
     "addressCountry": "IN"
   },
-
   "serviceAreas": [
     {
       "name": "Marthandam",
@@ -64,21 +62,18 @@
       "state": "Kerala"
     }
   ],
-
   "socialLinks": {
     "facebook": "REPLACE:https://facebook.com/iwaytourism",
     "instagram": "REPLACE:https://instagram.com/iwaytourism",
     "youtube": "REPLACE:https://youtube.com/@iwaytourism",
     "google": "REPLACE:https://g.page/iwaytourism"
   },
-
   "author": {
     "name": "REPLACE:Full Name",
     "role": "Senior Travel Consultant",
     "description": "REPLACE:Brief bio — years of experience, specialization in South Indian and Southeast Asian travel, personal connection to the Kanyakumari–Trivandrum corridor.",
     "image": "/images/team/REPLACE-author.webp"
   },
-
   "schema": {
     "organization": {
       "@context": "https://schema.org",
@@ -92,36 +87,48 @@
         "height": 60
       },
       "description": "Premier travel and tour agency based in Marthandam, serving Kanyakumari and Trivandrum districts. Local fleet rentals, curated regional tours, and international holiday packages.",
-      "telephone": "REPLACE:+91-XXXXX-XXXXX",
-      "email": "REPLACE:info@iwaytourism.com",
+      "telephone": "Contact: +91 9444992806",
+      "email": "Email: info@iwaytourism.com",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "REPLACE:Street Address",
         "addressLocality": "Marthandam",
         "addressRegion": "Tamil Nadu",
-        "postalCode": "REPLACE:629165",
+        "postalCode": "629163",
         "addressCountry": "IN"
       },
       "areaServed": [
         {
           "@type": "City",
           "name": "Marthandam",
-          "containedInPlace": { "@type": "State", "name": "Tamil Nadu" }
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Tamil Nadu"
+          }
         },
         {
           "@type": "City",
           "name": "Nagercoil",
-          "containedInPlace": { "@type": "State", "name": "Tamil Nadu" }
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Tamil Nadu"
+          }
         },
         {
           "@type": "AdministrativeArea",
           "name": "Kanyakumari District",
-          "containedInPlace": { "@type": "State", "name": "Tamil Nadu" }
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Tamil Nadu"
+          }
         },
         {
           "@type": "City",
           "name": "Thiruvananthapuram",
-          "containedInPlace": { "@type": "State", "name": "Kerala" }
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Kerala"
+          }
         }
       ],
       "sameAs": [
@@ -146,7 +153,6 @@
       }
     }
   },
-
   "defaults": {
     "currency": "INR",
     "language": "en",

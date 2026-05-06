@@ -3,11 +3,11 @@ import { footerNav } from '../../config/navigation';
 ---
 
 <div>
-  <h3 class="font-heading text-sm font-semibold text-slate-900">Quick Links</h3>
+  <h3 class="font-heading text-sm font-semibold text-white">Quick Links</h3>
   <ul class="mt-4 flex flex-col gap-2">
     {footerNav.map((item) => (
       <li>
-        <a href={item.url} class="text-sm text-slate-600 transition-colors hover:text-primary">
+        <a href={item.url} class="text-sm text-teal-200 transition-colors hover:text-amber-400">
           {item.label}
         </a>
       </li>

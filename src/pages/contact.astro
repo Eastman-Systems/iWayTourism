@@ -3,12 +3,13 @@ import BaseLayout from '../components/layout/BaseLayout.astro';
 import HeroSection from '../components/content/HeroSection.astro';
 import SchemaBlock from '../components/schema/SchemaBlock.astro';
 import LeadCaptureForm from '../components/islands/LeadCaptureForm';
+import TeamMemberCard from '../components/content/TeamMemberCard.astro';
 import { getEntry } from 'astro:content';
 import { buildLocalBusinessSchema } from '../utils/schema-builder';
 
 const entry = await getEntry('core', 'contact');
 if (!entry || entry.data.pageType !== 'contact') throw new Error('Missing content: core/contact.json');
-const { seo, hero, nap, hours, mapEmbed } = entry.data;
+const { seo, hero, nap, hours, mapEmbed, team } = entry.data;
 
 const businessSchema = buildLocalBusinessSchema({
   phone: nap.phone,
@@ -80,4 +81,38 @@ const businessSchema = buildLocalBusinessSchema({
       </div>
     </div>
   </div>
+
+  <!-- Team Section — edge-to-edge on mobile, 3-column grid on sm+ -->
+  {team && team.members && team.members.length > 0 && (
+    <section aria-labelledby="team-heading" class="mt-16 pb-16">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <h2 id="team-heading" class="font-heading text-2xl font-bold text-slate-900">{team.heading}</h2>
+        {team.subheading && (
+          <p class="mt-2 text-base text-slate-500">{team.subheading}</p>
+        )}
+      </div>
+
+      <!--
+        Mobile:  gap-px + bg-slate-200 = hairline dividers between full-bleed cards
+        sm+:     3-col grid, gap-6, contained in max-w-7xl, cards get rounded corners via variant
+      -->
+      <ul
+        role="list"
+        class="mt-8 grid grid-cols-1 gap-px bg-slate-200 sm:mx-auto sm:max-w-7xl sm:grid-cols-3 sm:gap-6 sm:bg-transparent sm:px-6 lg:px-8"
+      >
+        {team.members.map((member: { name: string; role: string; bio: string; image?: string; imageAlt?: string }) => (
+          <li>
+            <TeamMemberCard
+              name={member.name}
+              role={member.role}
+              bio={member.bio}
+              image={member.image}
+              imageAlt={member.imageAlt}
+              variant="portrait"
+            />
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
 </BaseLayout>
