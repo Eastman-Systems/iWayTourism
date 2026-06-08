@@ -238,3 +238,88 @@ firebase functions:config:set gmail.user="address@gmail.com" gmail.password="app
 - [ ] FAQAccordion expands/collapses with keyboard
 - [ ] All images have explicit width/height and lazy loading (except hero)
 - [ ] No console errors in browser dev tools
+
+---
+
+## Current Status — Session Handoff (2026-05-08)
+
+> This section is updated at the end of each working session so the next Claude instance can resume without re-reading the full conversation history.
+
+### Repository
+| Item | Value |
+|---|---|
+| Remote | `git@github.com:Eastman-Systems/iWayTourism.git` |
+| Branch | `main` |
+| Local path | `/Users/unkn0wn/workspace/source_codes/2026/iWay/iway-tourism` |
+| Live URL | `https://iway-tourism.web.app` |
+| Firebase project ID | `iway-tourism` |
+| Dev server | `npm run dev -- --port 4399` (port 4321 occupied by another project) |
+| SSH key for GitHub | `~/.ssh/eastman-github` (ED25519, no passphrase) |
+
+### Deploy command (hosting only — NEVER functions unless explicitly asked)
+```bash
+npm run build && firebase deploy --only hosting
+```
+
+### What is complete
+- [x] All 28 pages build and deploy cleanly (`astro build` zero errors)
+- [x] OG images: 22 missing files generated; `common.json` URL fixed (`https://iway-tourism.web.app`)
+- [x] `international-tours/_pillar.json` ogImage path fixed (`intl-tours-og.webp`)
+- [x] Hero images: generated for all 18 tour spoke pages that were missing them
+- [x] Team portrait photos on **Contact** and **About Us** pages (`variant="portrait"`)
+  - Images: `public/images/team/staalin-prakash.webp`, `maria-glatson.webp`, `bismi-saigh.webp`
+  - Real names: STAALIN PRAKASH G S, MARIA GLATSON G, BISMI SAIGH S
+- [x] `ItineraryStop.astro` redesigned — 9:16 portrait layout:
+  - **Mobile**: full-width 9:16 image, title + duration overlaid via bottom gradient (`from-black/75 via-black/30 to-transparent`), description + tip below
+  - **Desktop**: `sm:w-[360px] sm:shrink-0` image, `sm:aspect-auto` (height scales from natural ratio), `sm:flex-1` text column beside it, no card chrome
+- [x] `ItineraryDay.astro` stop list: `flex flex-col gap-3` on mobile, `border-l-2 border-primary/20 divide-y` on desktop
+- [x] 4 itinerary stop images added for `trivandrum-kanyakumari-3-days`:
+  - `public/images/local/vivekananda-rock.jpg`
+  - `public/images/local/Vattakottai-Fort.jpg` ← note capital V in filename
+  - `public/images/local/thirparappu-falls.jpg`
+  - `public/images/local/mathur-aqueduct.jpg`
+- [x] `.firebaserc` project ID set (`iway-tourism`)
+- [x] `firebase.json` CSP Cloud Function URL placeholder fixed
+- [x] `.gitignore` updated (excludes `functions/lib/`, `.firebase/`, `.claude/`, `public/images/team/*.png`)
+- [x] GitHub remote configured and all changes pushed to `main`
+
+### What is pending (next session pick up here)
+1. **5 more stop images for `trivandrum-kanyakumari-3-days`** — user will provide as JPG, drop into `public/images/local/` with these exact filenames:
+   - `padmanabhaswamy-temple.jpg`
+   - `napier-museum.jpg`
+   - `poovar-backwaters.jpg`
+   - `padmanabhapuram-palace.jpg`
+   - `suchindram-temple.jpg`
+   After user drops files: rebuild and deploy.
+
+2. **Remaining tour spoke pages need itinerary stop images** — 8 local + 10 international tour pages. Each page's JSON has `image` fields in each stop entry pointing to `public/images/local/` or `public/images/destinations/`. Images need to be sourced and added.
+
+3. **Fill `REPLACE:` markers** — run `grep -r "REPLACE:" src/content/` to see all remaining placeholders (address, WhatsApp number, operating hours, team bios, social media URLs, etc.). These are real business data the client must supply.
+
+4. **Firebase Blaze plan** — Spark plan blocks Cloud Functions (Cloud Build API). Upgrade project to Blaze to enable `firebase deploy --only functions` and the Gmail SMTP contact form.
+
+5. **Gmail SMTP credentials** (after Blaze upgrade):
+   ```bash
+   firebase functions:config:set gmail.user="address@gmail.com" gmail.password="app-password"
+   firebase deploy --only functions
+   ```
+
+6. **Lighthouse audit** — run before any PR/final delivery. Targets: Performance > 90, Accessibility > 95, LCP < 2.5s, CLS < 0.1.
+
+### Key image path conventions
+| Type | Directory | Format | Dimensions |
+|---|---|---|---|
+| OG images | `public/images/hero/` | WebP | 1200×630 |
+| Hero images | `public/images/hero/` | WebP | 800×451 |
+| Team portraits | `public/images/team/` | WebP | 800×1067 (3:4) |
+| Local stop images | `public/images/local/` | JPG | original (do not resize) |
+| Destination thumbnails | `public/images/destinations/` | WebP | various |
+
+### Recent commits
+```
+94ea5a7 feat: add local attraction WebP images for trivandrum-kanyakumari route
+772d945 feat(ItineraryStop): widen desktop image to 360px with auto height
+f3737e9 feat: redesign ItineraryStop to 9:16 portrait with mobile gradient overlay
+6e28a4d Add missing hero images for all tour spoke pages
+4561c56 Add GitHub remote, team portraits, OG images, Firebase config
+```
